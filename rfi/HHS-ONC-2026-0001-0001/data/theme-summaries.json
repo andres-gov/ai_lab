@@ -1,0 +1,232 @@
+{
+  "2": {
+    "themeDescription": "AI Governance Frameworks and Oversight Mechanisms. This theme encompasses all comments addressing how clinical AI should be governed, monitored, and held accountable throughout its lifecycle, from initial deployment through ongoing operation. || It includes governance-first approaches, model-agnostic oversight, socio-technical system perspectives, and debates about appropriate regulatory structures for AI in healthcare",
+    "commentCount": 5,
+    "wordCount": 0,
+    "sections": {
+      "executiveSummary": "Public comments on AI governance frameworks reveal strong consensus that current oversight approaches are inadequate for managing clinical AI throughout its lifecycle, with commenters uniformly advocating for governance structures that extend well beyond pre-deployment validation. The central tension lies between those emphasizing model-agnostic, output-focused governance versus those prioritizing enforceable contestability and remedy mechanisms. Commenters—predominantly from consulting and technical backgrounds—converge on treating AI as infrastructure requiring systematic governance rather than technology requiring simple adoption, though they diverge on whether transparency or accountability should be the primary enforcement lever.",
+      "consensusPoints": [
+        {
+          "text": "Pre-deployment validation alone is insufficient for clinical AI governance. Nearly all commenters explicitly or implicitly reject governance frameworks that focus solely on initial approval or privacy protections, emphasizing the need for ongoing lifecycle management. EHY Consulting states directly that governance approaches focusing only on privacy or pre-deployment validation are insufficient to manage post-deployment drift, vendor updates, subcontractor access, and long-term learning accumulation. Sancian LLC advocates for governance-first adoption where governance must precede deployment. Kanav Jain warns that accelerating adoption without enforceable remedy externalizes risk onto clinicians and patients.",
+          "supportLevel": "Nearly all commenters (5 of 5)",
+          "exceptions": {
+            "text": "While all agree on lifecycle governance, commenters differ on whether the primary mechanism should be output auditing or contestability rights.",
+            "commentIds": []
+          }
+        },
+        {
+          "text": "AI should be conceptualized as infrastructure, not merely technology. A strong majority of commenters frame AI as requiring infrastructure-level governance rather than technology adoption frameworks. Sancian LLC argues HHS should treat AI not as technology to be adopted, but as care infrastructure to be governed. Kanav Jain argues AI should be treated as a source of exposure, not a neutral tool. David Bynon frames the challenge as scaling AI use without expanding federal operational burden.",
+          "supportLevel": "A strong majority of commenters (4 of 5)",
+          "exceptions": null
+        },
+        {
+          "text": "Current federal oversight approaches face scalability challenges. All commenters addressing federal capacity express concern about the scalability of model-level inspection and the need for alternative oversight mechanisms. David Bynon notes the core challenge facing HHS is not whether AI can be deployed, but how to scale its use without expanding federal operational burden or relying on opaque, non-scalable model-level oversight. EHY Consulting recommends mapping governance across multiple HHS divisions to distribute oversight. Ferz.AI suggests deterministic governance models to enable faster compliance verification.",
+          "supportLevel": "All commenters addressing federal capacity (3 of 5)",
+          "exceptions": null
+        }
+      ],
+      "areasOfDebate": [
+        {
+          "topic": "Primary Governance Mechanism",
+          "description": "Debate over whether governance should focus on deterministic, auditable outputs versus enforceable remedy and reversal mechanisms for affected parties.",
+          "positions": [
+            {
+              "label": "Output-Focused Auditing",
+              "stance": "Governance should focus on deterministic, auditable outputs rather than model inspection. David Bynon and Ferz.AI represent this business/technical perspective.",
+              "supportLevel": "2 of 5 commenters",
+              "keyArguments": [
+                "Model-level oversight is opaque and non-scalable",
+                "Deterministic outputs enable compliance verification",
+                "Preserves federal oversight without expanding operational burden"
+              ],
+              "commentIds": [
+                "HHS-ONC-2026-0001-0010",
+                "HHS-ONC-2026-0001-0014"
+              ]
+            },
+            {
+              "label": "Contestability-Centered Accountability",
+              "stance": "Governance must prioritize enforceable remedy and reversal mechanisms for affected parties. Kanav Jain represents this independent researcher perspective.",
+              "supportLevel": "1 of 5 commenters",
+              "keyArguments": [
+                "Transparency without contestability fails in practice",
+                "Affected parties must be able to compel review, correction, and repair",
+                "Harm must be forced to matter"
+              ],
+              "commentIds": [
+                "HHS-ONC-2026-0001-0013"
+              ]
+            }
+          ]
+        },
+        {
+          "topic": "Definition of Human Oversight",
+          "description": "Debate over what constitutes meaningful human oversight of AI systems in clinical settings.",
+          "positions": [
+            {
+              "label": "Functional Override Capability",
+              "stance": "Human oversight must mean actual ability to reverse and rollback AI decisions. Kanav Jain explicitly addresses this position.",
+              "supportLevel": "1 of 5 commenters",
+              "keyArguments": [
+                "Nominal review steps are insufficient",
+                "Oversight requires defined time bounds for correction"
+              ],
+              "commentIds": [
+                "HHS-ONC-2026-0001-0013"
+              ]
+            },
+            {
+              "label": "Audit-by-Design Approach",
+              "stance": "Human oversight achieved through auditable decision trails aligned with existing accountability structures. David Bynon and EHY Consulting support this approach.",
+              "supportLevel": "2 of 5 commenters",
+              "keyArguments": [
+                "Semantic responsibility should align with carriers, providers, and intermediaries who already have accuracy obligations"
+              ],
+              "commentIds": [
+                "HHS-ONC-2026-0001-0010",
+                "HHS-ONC-2026-0001-0011"
+              ]
+            }
+          ]
+        }
+      ],
+      "stakeholderPerspectives": [
+        {
+          "stakeholderType": "Business/Consulting Organizations",
+          "primaryConcerns": "Scalability of governance frameworks; integration with existing regulatory structures; post-deployment lifecycle management. EHY Consulting specifically identifies workflow integration, lifecycle governance, and enforceable data stewardship as the true constraints on AI adoption.",
+          "specificPoints": [
+            "Emphasize practical implementation challenges and the need to work within existing HHS divisional structures",
+            "Focus on enabling faster adoption through clearer compliance pathways",
+            "Propose model-agnostic protocols, deterministic governance layers, and mapping governance to existing HHS divisions (CMS, ASTP/ONC, OCR, CIO/ONS, OGA, Acquisition)"
+          ],
+          "commentIds": [
+            "HHS-ONC-2026-0001-0010",
+            "HHS-ONC-2026-0001-0011",
+            "HHS-ONC-2026-0001-0014"
+          ]
+        },
+        {
+          "stakeholderType": "Individual Technical Experts",
+          "primaryConcerns": "Accountability gaps; risk externalization onto clinicians and patients; adequacy of transparency mechanisms. Kanav Jain argues that risk externalization undermines trust in the healthcare system.",
+          "specificPoints": [
+            "Focus on the causal role of AI in harm and the need for enforceable remedy mechanisms",
+            "Skepticism toward human-in-the-loop language without functional meaning",
+            "Propose decision provenance as default output, defined time bounds for contestability, and governance-first adoption principles"
+          ],
+          "commentIds": [
+            "HHS-ONC-2026-0001-0013"
+          ]
+        },
+        {
+          "stakeholderType": "Federal Implementation Specialists",
+          "primaryConcerns": "Operational readiness; alignment between payment and burden reduction; human capacity as success metric. Sancian LLC brings 15+ years of federal health agency experience and emphasizes implementation science over model development.",
+          "specificPoints": [
+            "Five-principle operational framework: governance-first adoption, readiness before reimbursement, payment aligned to burden reduction, implementation science over model development, human capacity as success metric",
+            "Offers to provide operational frameworks HHS could pilot or scale"
+          ],
+          "commentIds": [
+            "HHS-ONC-2026-0001-0012"
+          ]
+        }
+      ],
+      "noteworthyInsights": [
+        {
+          "insight": "Causal chain framing: Kanav Jain offers a distinctive legal/philosophical framing that when AI influences clinical action, eligibility, documentation, or resource allocation, it becomes part of the causal chain of harm—suggesting governance must reflect this causal role rather than treating AI as a neutral tool.",
+          "commentId": "HHS-ONC-2026-0001-0013"
+        },
+        {
+          "insight": "Semantic responsibility alignment: David Bynon proposes leveraging existing accuracy obligations of carriers, providers, and intermediaries rather than creating new oversight structures—a potentially efficient approach that builds on established accountability frameworks.",
+          "commentId": "HHS-ONC-2026-0001-0010"
+        },
+        {
+          "insight": "Human capacity as success metric: Sancian LLC uniquely proposes measuring AI governance success by human capacity outcomes, not just technical performance—suggesting a socio-technical evaluation framework that centers workforce impact.",
+          "commentId": "HHS-ONC-2026-0001-0012"
+        },
+        {
+          "insight": "Deterministic governance as adoption accelerator: Ferz.AI argues that clearer, more deterministic governance would actually accelerate rather than impede AI adoption by increasing trust and enabling compliance verification—challenging the assumption that governance and adoption are in tension.",
+          "commentId": "HHS-ONC-2026-0001-0014"
+        }
+      ],
+      "emergingPatterns": [
+        {
+          "pattern": "Expertise-Based Divergence: Commenters with business/consulting backgrounds like David Bynon, EHY Consulting, and Ferz.AI tend to emphasize scalability, efficiency, and working within existing structures. Individual technical experts like Kanav Jain tend to emphasize accountability, contestability, and protection of affected parties. This suggests potential tension between implementation feasibility and rights-based protections.",
+          "commentIds": [
+            "HHS-ONC-2026-0001-0010",
+            "HHS-ONC-2026-0001-0011",
+            "HHS-ONC-2026-0001-0013",
+            "HHS-ONC-2026-0001-0014"
+          ]
+        },
+        {
+          "pattern": "Convergence on Lifecycle Governance: Despite different emphases, all commenters reject point-in-time validation as sufficient. This represents a potential consensus foundation for policy development.",
+          "commentIds": [
+            "HHS-ONC-2026-0001-0010",
+            "HHS-ONC-2026-0001-0011",
+            "HHS-ONC-2026-0001-0012",
+            "HHS-ONC-2026-0001-0013",
+            "HHS-ONC-2026-0001-0014"
+          ]
+        },
+        {
+          "pattern": "Absence of Patient/Clinician Voices: Notable gap with no comments from practicing clinicians, patients, or patient advocacy groups in this sample. This limits understanding of how proposed governance frameworks would function in practice from end-user perspectives.",
+          "commentIds": []
+        },
+        {
+          "pattern": "Federal Implementation Experience: Sancian LLC's 15+ years of federal health agency experience suggests existing institutional knowledge that could inform framework development. Indicates potential for pilot programs building on established federal AI governance work.",
+          "commentIds": [
+            "HHS-ONC-2026-0001-0012"
+          ]
+        }
+      ],
+      "keyQuotations": [
+        {
+          "quote": "The core challenge facing HHS is not whether AI can be deployed, but how to scale its use without expanding federal operational burden or relying on opaque, non-scalable model-level oversight.",
+          "sourceType": "Business/Technical Expert",
+          "commentId": "HHS-ONC-2026-0001-0010"
+        },
+        {
+          "quote": "Governance approaches that focus only on privacy or pre-deployment validation are insufficient to manage post-deployment drift, vendor updates, subcontractor access, and long-term learning accumulation.",
+          "sourceType": "Consulting Organization",
+          "commentId": "HHS-ONC-2026-0001-0011"
+        },
+        {
+          "quote": "HHS should treat AI not as technology to be adopted, but as care infrastructure to be governed.",
+          "sourceType": "Federal Implementation Specialist",
+          "commentId": "HHS-ONC-2026-0001-0012"
+        },
+        {
+          "quote": "AI governance that prioritizes transparency without enforceable contestability will fail in practice.",
+          "sourceType": "Independent Researcher",
+          "commentId": "HHS-ONC-2026-0001-0013"
+        },
+        {
+          "quote": "The question is not whether an AI system can explain itself; it is whether harm can be forced to matter through correction, repair, and rollback.",
+          "sourceType": "Independent Researcher",
+          "commentId": "HHS-ONC-2026-0001-0013"
+        },
+        {
+          "quote": "When AI influences clinical action, eligibility, documentation, or resource allocation, it becomes part of the causal chain of harm.",
+          "sourceType": "Independent Researcher",
+          "commentId": "HHS-ONC-2026-0001-0013"
+        },
+        {
+          "quote": "A deterministic AI governance model will accelerate the adoption of AI in Clinical care.",
+          "sourceType": "Business/Technical Organization",
+          "commentId": "HHS-ONC-2026-0001-0014"
+        }
+      ],
+      "analyticalNotes": {
+        "discourseQuality": {
+          "level": "High",
+          "explanation": "Comments demonstrate sophisticated understanding of AI governance challenges, with substantive policy recommendations and clear articulation of positions. Commenters engage with specific implementation challenges rather than offering generic statements."
+        },
+        "evidenceBase": {
+          "level": "Moderate",
+          "explanation": "Comments draw on professional experience and logical argumentation but provide limited empirical evidence or citations to research. Sancian LLC references 15+ years of federal experience, and specific governance gaps are identified, but quantitative data is largely absent."
+        },
+        "representationGaps": "Significant gap in representation from practicing clinicians, patients, patient advocacy groups, and professional medical organizations. The sample is dominated by business/consulting entities and individual technical experts, limiting understanding of end-user perspectives on proposed governance frameworks.",
+        "complexityLevel": "High - Comments address nuanced distinctions between governance approaches, engage with implementation feasibility, and propose specific policy mechanisms. Multiple commenters offer detailed frameworks rather than simple position statements."
+      }
+    }
+  }
+}

@@ -1,0 +1,934 @@
+{
+  "AI Governance Concepts": [
+    {
+      "label": "AI Governance",
+      "definition": "Frameworks and policies for overseeing responsible AI development and deployment",
+      "terms": [
+        "AI governance",
+        "governance framework",
+        "governance frameworks",
+        "AI oversight"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "Algorithmic Bias",
+      "definition": "Systematic unfairness in AI outputs affecting certain populations disproportionately",
+      "terms": [
+        "bias",
+        "algorithmic bias",
+        "AI bias",
+        "bias mitigation",
+        "fairness"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Deterministic AI",
+      "definition": "AI systems producing consistent, predictable outputs for given inputs",
+      "terms": [
+        "deterministic AI",
+        "deterministic",
+        "deterministic governance",
+        "deterministic layer"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Explainability",
+      "definition": "Capability of AI systems to provide understandable rationale for their outputs",
+      "terms": [
+        "explainability",
+        "explainable AI",
+        "XAI",
+        "transparency",
+        "interpretability",
+        "auditable",
+        "explainable"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "AI Bill of Materials",
+      "definition": "Comprehensive inventory of AI system components, data sources, and dependencies",
+      "terms": [
+        "AIBOM",
+        "AI Bill of Materials",
+        "AI BOM",
+        "AI bill of materials"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Contestability",
+      "definition": "Ability for affected parties to challenge and seek review of AI-driven decisions",
+      "terms": [
+        "contestability",
+        "contestable",
+        "appeal",
+        "appeals",
+        "contest AI decisions"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Decision Provenance",
+      "definition": "Traceable record of inputs, models, and processes leading to AI-generated decisions",
+      "terms": [
+        "decision provenance",
+        "provenance",
+        "audit trail",
+        "decision audit"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Human-in-the-Loop",
+      "definition": "AI design requiring human review or approval before actions are taken",
+      "terms": [
+        "human-in-the-loop",
+        "human in the loop",
+        "HITL",
+        "human oversight",
+        "human review"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Model Cards",
+      "definition": "Documentation describing AI model characteristics, performance, and limitations",
+      "terms": [
+        "model cards",
+        "model card",
+        "model documentation"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Model Drift",
+      "definition": "Degradation of AI model performance over time due to changing data patterns",
+      "terms": [
+        "model drift",
+        "drift",
+        "post-deployment drift",
+        "performance degradation"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "AI Technologies and Systems": [
+    {
+      "label": "Clinical AI",
+      "definition": "Artificial intelligence systems designed for use in healthcare delivery settings",
+      "terms": [
+        "clinical AI",
+        "AI in clinical care",
+        "healthcare AI",
+        "health AI",
+        "AI in healthcare",
+        "medical AI"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "AI-Enabled Medical Devices",
+      "definition": "Medical devices incorporating artificial intelligence for diagnosis or treatment",
+      "terms": [
+        "AI-enabled medical devices",
+        "AI medical devices",
+        "AI-enabled devices",
+        "AI devices"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Agentic AI",
+      "definition": "Autonomous AI systems capable of independent decision-making and action",
+      "terms": [
+        "agentic AI",
+        "autonomous AI",
+        "AI agents",
+        "agentic",
+        "autonomous agentic"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Clinical Decision Support",
+      "definition": "AI tools providing clinicians with knowledge and patient-specific information for decisions",
+      "terms": [
+        "CDS",
+        "clinical decision support",
+        "decision support",
+        "CDS software",
+        "decision support prompts"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Predictive Risk Scores",
+      "definition": "AI-generated assessments predicting patient health outcomes or risks",
+      "terms": [
+        "predictive risk scores",
+        "risk scores",
+        "predictive analytics",
+        "predictive models"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Cybersecurity Concepts": [
+    {
+      "label": "Data Security",
+      "definition": "Protection of health data from unauthorized access, use, or disclosure",
+      "terms": [
+        "data security",
+        "security",
+        "cybersecurity",
+        "data protection",
+        "information security"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Asset Inventory",
+      "definition": "Comprehensive catalog of IT systems and devices in a healthcare organization",
+      "terms": [
+        "asset inventory",
+        "100% asset inventory",
+        "device inventory",
+        "IT inventory"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "CTEM",
+      "definition": "Continuous Threat Exposure Management, ongoing security vulnerability assessment approach",
+      "terms": [
+        "CTEM",
+        "Continuous Threat Exposure Management",
+        "exposure management"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Network Security",
+      "definition": "Protection of computer networks from intrusion and unauthorized access",
+      "terms": [
+        "network security",
+        "network visibility",
+        "network monitoring"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Prompt Injection",
+      "definition": "Attack technique manipulating AI systems through malicious input prompts",
+      "terms": [
+        "prompt injection",
+        "prompt injections",
+        "prompt attack"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "REIS",
+      "definition": "Relevant Electronic Information Systems under HIPAA security requirements",
+      "terms": [
+        "REIS",
+        "Relevant Electronic Information Systems"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Data and Privacy Concepts": [
+    {
+      "label": "Privacy by Design",
+      "definition": "Approach embedding privacy protections into system architecture from inception",
+      "terms": [
+        "privacy-by-design",
+        "privacy by design",
+        "privacy"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "Patient Consent",
+      "definition": "Authorization from patients for use of their health information",
+      "terms": [
+        "consent",
+        "patient consent",
+        "patient-consented",
+        "consent-driven",
+        "informed consent"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Data Pipelines",
+      "definition": "Automated processes for collecting, processing, and delivering data to AI systems",
+      "terms": [
+        "data pipelines",
+        "data pipeline",
+        "training data",
+        "data sources"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Data Stewardship",
+      "definition": "Responsible management and oversight of health data assets",
+      "terms": [
+        "data stewardship",
+        "data governance",
+        "data management"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Emerging Concepts": [
+    {
+      "label": "Deflationary AI",
+      "definition": "AI deployment approach designed to reduce costs and administrative burden",
+      "terms": [
+        "deflationary AI",
+        "deflationary",
+        "cost deflation",
+        "deflationary AI adoption"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Gold Card Mechanisms",
+      "definition": "Expedited approval processes for providers meeting quality criteria",
+      "terms": [
+        "gold card",
+        "gold card mechanisms",
+        "gold-card"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Hub-and-Spoke Architecture",
+      "definition": "Distributed system design with central coordination and local delivery points",
+      "terms": [
+        "hub-and-spoke",
+        "hub and spoke",
+        "hub-and-spoke architecture"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Trial-First Pathways",
+      "definition": "Approach prioritizing clinical trial matching before standard authorization",
+      "terms": [
+        "trial-first",
+        "trial-before-authorization",
+        "trial-first pathways",
+        "trial-first AI pathways"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Workforce Readiness Telemetry",
+      "definition": "Proposed interoperability concept for predicting clinical capacity degradation",
+      "terms": [
+        "Workforce Readiness Telemetry",
+        "WRT"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Federal Agencies and Offices": [
+    {
+      "label": "HHS",
+      "definition": "Department of Health and Human Services, primary federal agency overseeing health policy and programs",
+      "terms": [
+        "HHS",
+        "Department of Health and Human Services",
+        "Health and Human Services"
+      ],
+      "mentionCount": 8
+    },
+    {
+      "label": "ONC",
+      "definition": "Office of the National Coordinator for Health Information Technology within HHS",
+      "terms": [
+        "ONC",
+        "Office of the National Coordinator",
+        "Office of the National Coordinator for Health Information Technology",
+        "ASTP/ONC",
+        "ASTP",
+        "Assistant Secretary for Technology Policy"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "CMS",
+      "definition": "Centers for Medicare and Medicaid Services, administers federal healthcare programs",
+      "terms": [
+        "CMS",
+        "Centers for Medicare and Medicaid Services",
+        "Centers for Medicare & Medicaid Services"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "FDA",
+      "definition": "Food and Drug Administration, regulates medical devices including AI-enabled devices",
+      "terms": [
+        "FDA",
+        "Food and Drug Administration"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "OMB",
+      "definition": "Office of Management and Budget, issues federal policy memoranda including AI guidance",
+      "terms": [
+        "OMB",
+        "Office of Management and Budget"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "CIO/ONS",
+      "definition": "Chief Information Officer and Office of National Security within HHS",
+      "terms": [
+        "CIO/ONS",
+        "CIO",
+        "Chief Information Officer",
+        "ONS",
+        "Office of National Security"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "OCR",
+      "definition": "Office for Civil Rights within HHS, enforces HIPAA and health privacy regulations",
+      "terms": [
+        "OCR",
+        "Office for Civil Rights"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "OGA",
+      "definition": "Office of Global Affairs within HHS, handles international health policy coordination",
+      "terms": [
+        "OGA",
+        "Office of Global Affairs"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Health IT Standards and Interoperability": [
+    {
+      "label": "Electronic Health Records",
+      "definition": "Digital systems for storing and managing patient health information",
+      "terms": [
+        "EHR",
+        "EHRs",
+        "electronic health records",
+        "electronic health record",
+        "EMR",
+        "EMRs",
+        "electronic medical records",
+        "Electronic Medical Records"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "FHIR",
+      "definition": "Fast Healthcare Interoperability Resources, standard for exchanging healthcare data electronically",
+      "terms": [
+        "FHIR",
+        "Fast Healthcare Interoperability Resources",
+        "HL7 FHIR"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Interoperability",
+      "definition": "Ability of health IT systems to exchange and use electronic health information",
+      "terms": [
+        "interoperability",
+        "interoperable",
+        "data interoperability",
+        "health information exchange"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Bulk Data Access",
+      "definition": "Capability to export large volumes of health data for analysis and AI training",
+      "terms": [
+        "bulk data access",
+        "bulk data",
+        "bulk FHIR"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "EBMonFHIR",
+      "definition": "Evidence Based Medicine on FHIR Implementation Guide for clinical evidence sharing",
+      "terms": [
+        "EBMonFHIR",
+        "Evidence Based Medicine on FHIR",
+        "EBM on FHIR"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "USCDI",
+      "definition": "United States Core Data for Interoperability, standardized health data elements",
+      "terms": [
+        "USCDI",
+        "United States Core Data for Interoperability",
+        "US Core Data for Interoperability"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "mCODE",
+      "definition": "Minimal Common Oncology Data Elements, standard for cancer data interoperability",
+      "terms": [
+        "mCODE",
+        "Minimal Common Oncology Data Elements"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Healthcare Administrative Processes": [
+    {
+      "label": "Reimbursement",
+      "definition": "Payment for healthcare services rendered",
+      "terms": [
+        "reimbursement",
+        "reimburse",
+        "payment",
+        "CPT codes"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "ONC Certification",
+      "definition": "Federal certification program for health IT products meeting standards",
+      "terms": [
+        "ONC certification",
+        "ONC certified",
+        "certification",
+        "certified"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "Resource Allocation",
+      "definition": "Distribution of healthcare resources across patients and services",
+      "terms": [
+        "resource allocation",
+        "allocation"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Fraud Prevention",
+      "definition": "Activities to detect and prevent healthcare fraud, waste, and abuse",
+      "terms": [
+        "fraud",
+        "fraud prevention",
+        "fraud detection",
+        "waste",
+        "abuse",
+        "FWA"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Healthcare Delivery Concepts": [
+    {
+      "label": "Clinical Workflow",
+      "definition": "Sequence of tasks and processes in delivering patient care",
+      "terms": [
+        "clinical workflow",
+        "clinical workflows",
+        "workflow",
+        "workflows",
+        "care workflow",
+        "workflow integration"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "Patient Safety",
+      "definition": "Prevention of errors and adverse effects in healthcare delivery",
+      "terms": [
+        "patient safety",
+        "safety",
+        "patient harm",
+        "clinical safety"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "Care Coordination",
+      "definition": "Organization of patient care activities across multiple providers and settings",
+      "terms": [
+        "care coordination",
+        "care delivery",
+        "coordinated care"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Health Equity",
+      "definition": "Fair opportunity for all individuals to attain their full health potential",
+      "terms": [
+        "equity",
+        "health equity",
+        "healthcare equity",
+        "equitable care"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Clinical Trials",
+      "definition": "Research studies testing medical interventions in human participants",
+      "terms": [
+        "clinical trials",
+        "clinical trial",
+        "trials",
+        "trial enrollment",
+        "trial matching"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Longitudinal Patient Data",
+      "definition": "Complete patient health information collected over time across care settings",
+      "terms": [
+        "longitudinal patient data",
+        "longitudinal data",
+        "longitudinal record",
+        "patient history",
+        "longitudinal patient context"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Shared Decision Making",
+      "definition": "Collaborative process where clinicians and patients make healthcare decisions together",
+      "terms": [
+        "shared decision making",
+        "shared decision-making",
+        "SDM",
+        "patient decision making"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Healthcare Programs": [
+    {
+      "label": "Medicare",
+      "definition": "Federal health insurance program primarily for people 65 and older",
+      "terms": [
+        "Medicare",
+        "Medicare program"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Medicare Mobile App",
+      "definition": "Proposed interactive mobile application for Medicare beneficiaries and providers",
+      "terms": [
+        "Medicare Mobile",
+        "Medicare mobile app",
+        "Medicare app"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Value-Based Care Models",
+      "definition": "Payment models that reward quality outcomes rather than service volume",
+      "terms": [
+        "value-based care",
+        "value-based care models",
+        "APMs",
+        "Alternative Payment Models",
+        "MIPS",
+        "Merit-based Incentive Payment System"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Healthcare Stakeholders": [
+    {
+      "label": "Patients",
+      "definition": "Individuals receiving healthcare services",
+      "terms": [
+        "patients",
+        "patient",
+        "beneficiaries",
+        "beneficiary"
+      ],
+      "mentionCount": 8
+    },
+    {
+      "label": "Healthcare Providers",
+      "definition": "Individuals and organizations delivering medical care to patients",
+      "terms": [
+        "providers",
+        "healthcare providers",
+        "clinicians",
+        "physicians",
+        "caregivers",
+        "healthcare professionals"
+      ],
+      "mentionCount": 6
+    },
+    {
+      "label": "Healthcare Organizations",
+      "definition": "Institutions providing healthcare services including hospitals and clinics",
+      "terms": [
+        "healthcare organizations",
+        "health systems",
+        "hospitals",
+        "healthcare systems",
+        "delivery systems"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Payers",
+      "definition": "Entities that finance or reimburse healthcare services",
+      "terms": [
+        "payers",
+        "payer",
+        "insurers",
+        "health plans",
+        "carriers"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Sponsors",
+      "definition": "Organizations funding clinical trials, typically pharmaceutical or device companies",
+      "terms": [
+        "sponsors",
+        "sponsor",
+        "trial sponsors"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Medical Specialties": [
+    {
+      "label": "Dermatology",
+      "definition": "Medical specialty focused on skin conditions and diseases",
+      "terms": [
+        "dermatology",
+        "dermatologist"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Neurosurgery",
+      "definition": "Surgical specialty focused on the nervous system",
+      "terms": [
+        "neurosurgery",
+        "neurosurgeon"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Oncology",
+      "definition": "Medical specialty focused on cancer diagnosis and treatment",
+      "terms": [
+        "oncology",
+        "cancer care",
+        "oncologist",
+        "community oncology"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Policy and Strategy Documents": [
+    {
+      "label": "HHS AI Strategy",
+      "definition": "Department-wide strategic plan for artificial intelligence adoption and governance",
+      "terms": [
+        "HHS AI Strategy",
+        "HHS Artificial Intelligence Strategy",
+        "AI strategy"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "RIN 0955-AA13",
+      "definition": "Regulation Identifier Number for the AI in clinical care RFI",
+      "terms": [
+        "RIN 0955-AA13",
+        "0955-AA13"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Professional Associations": [
+    {
+      "label": "ACHE",
+      "definition": "American College of Healthcare Executives, professional society for healthcare leaders",
+      "terms": [
+        "ACHE",
+        "American College of Healthcare Executives"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "CHiME",
+      "definition": "College of Healthcare Information Management Executives, association for health IT leaders",
+      "terms": [
+        "CHiME",
+        "CHIME",
+        "College of Healthcare Information Management Executives"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Connecticut Hospital Association",
+      "definition": "State-level hospital trade association in Connecticut",
+      "terms": [
+        "Connecticut Hospital Association",
+        "CHA"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "FMSA",
+      "definition": "Healthcare management professional association",
+      "terms": [
+        "FMSA"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "HIMSS",
+      "definition": "Healthcare Information and Management Systems Society, health IT professional organization",
+      "terms": [
+        "HIMSS",
+        "Healthcare Information and Management Systems Society"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "HL7",
+      "definition": "Health Level Seven International, standards development organization for health IT",
+      "terms": [
+        "HL7",
+        "Health Level Seven",
+        "HL7 International"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Regulations and Legal Frameworks": [
+    {
+      "label": "Request for Information",
+      "definition": "Formal solicitation for public input on policy matters before rulemaking",
+      "terms": [
+        "RFI",
+        "Request for Information",
+        "RFIs"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "OMB Memorandum M-25-21",
+      "definition": "Federal policy memorandum addressing AI governance and asset inventory requirements",
+      "terms": [
+        "M-25-21",
+        "OMB Memorandum M-25-21",
+        "OMB M-25-21"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "HIPAA",
+      "definition": "Health Insurance Portability and Accountability Act governing health data privacy and security",
+      "terms": [
+        "HIPAA",
+        "Health Insurance Portability and Accountability Act",
+        "HIPAA Security Rule"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Liability Framework",
+      "definition": "Legal structure defining responsibility and accountability for AI-related harms",
+      "terms": [
+        "liability",
+        "liability clarity",
+        "liability considerations",
+        "liability framework",
+        "liability uncertainty"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Prior Authorization",
+      "definition": "Approval process required before certain healthcare services are covered",
+      "terms": [
+        "prior authorization",
+        "prior-authorization",
+        "pre-authorization",
+        "prior auth",
+        "prior-auth",
+        "PA"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Research and Evidence Concepts": [
+    {
+      "label": "Bioethics",
+      "definition": "Study of ethical issues arising from advances in biology and medicine",
+      "terms": [
+        "bioethics",
+        "ethics",
+        "ethical",
+        "bioethics advisory",
+        "bioethics commission"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Implementation Science",
+      "definition": "Study of methods to promote adoption of evidence-based practices",
+      "terms": [
+        "implementation science",
+        "implementation"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Real-World Evidence",
+      "definition": "Clinical evidence derived from real-world healthcare data outside clinical trials",
+      "terms": [
+        "real-world evidence",
+        "RWE",
+        "real world evidence",
+        "real-world data"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Systematic Review",
+      "definition": "Comprehensive synthesis of research evidence on a specific question",
+      "terms": [
+        "systematic review",
+        "systematic reviews",
+        "evidence synthesis"
+      ],
+      "mentionCount": 1
+    }
+  ]
+}
