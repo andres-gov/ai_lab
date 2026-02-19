@@ -1,0 +1,1768 @@
+{
+  "AI Applications in Healthcare|AI Scribe": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014"
+  ],
+  "AI Applications in Healthcare|Ambient AI": [
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "AI Applications in Healthcare|Chatbot": [
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "AI Applications in Healthcare|Early Warning System": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "AI Applications in Healthcare|Predictive Analytics": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033"
+  ],
+  "AI Applications in Healthcare|RPM": [
+    "HHS-ONC-2026-0001-0027"
+  ],
+  "AI Applications in Healthcare|RTM": [
+    "HHS-ONC-2026-0001-0027"
+  ],
+  "AI Applications in Healthcare|Risk Prediction": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0021"
+  ],
+  "AI Applications in Healthcare|Virtual Staining": [
+    "HHS-ONC-2026-0001-0020"
+  ],
+  "AI Governance and Evaluation|AI Bill of Materials": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "AI Governance and Evaluation|AI Governance": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0013",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0025",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "AI Governance and Evaluation|Bias Testing": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "AI Governance and Evaluation|Human-in-the-Loop": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0013",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0034",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "AI Governance and Evaluation|Model Card": [
+    "HHS-ONC-2026-0001-0013",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "AI Governance and Evaluation|NIST AI RMF": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012"
+  ],
+  "AI Governance and Evaluation|Post-deployment Monitoring": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "AI Governance and Evaluation|Pre-deployment Evaluation": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0039"
+  ],
+  "AI Governance and Evaluation|Robustness Testing": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0043"
+  ],
+  "AI Governance and Evaluation|Safe Harbor": [
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "AI Governance and Evaluation|Shadow Mode": [
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "AI Governance and Evaluation|Trustworthy AI": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0004",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "AI and Machine Learning Concepts|AI Hallucination": [
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0034",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "AI and Machine Learning Concepts|AI/ML SaMD": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "AI and Machine Learning Concepts|Agentic AI": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0036",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "AI and Machine Learning Concepts|Algorithmic Bias": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "AI and Machine Learning Concepts|Black Box AI": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "AI and Machine Learning Concepts|Digital Twin": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "AI and Machine Learning Concepts|Explainable AI": [
+    "HHS-ONC-2026-0001-0007",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "AI and Machine Learning Concepts|Federated Learning": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "AI and Machine Learning Concepts|Generative AI": [
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0039"
+  ],
+  "AI and Machine Learning Concepts|Large Language Model": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0034"
+  ],
+  "AI and Machine Learning Concepts|Machine Learning": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0034",
+    "HHS-ONC-2026-0001-0042"
+  ],
+  "AI and Machine Learning Concepts|Model Drift": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "AI and Machine Learning Concepts|Natural Language Processing": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0042"
+  ],
+  "AI and Machine Learning Concepts|RAG": [
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0014"
+  ],
+  "AI and Machine Learning Concepts|RLHF": [
+    "HHS-ONC-2026-0001-0014"
+  ],
+  "AI and Machine Learning Concepts|SaMD": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Accreditation and Certification|Accreditation": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0041",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Accreditation and Certification|CLIA": [
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0020"
+  ],
+  "Accreditation and Certification|Certification": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Accreditation and Certification|Conditions of Participation": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Accreditation and Certification|FDA Clearance": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Accreditation and Certification|Meaningful Use": [
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "Accreditation and Certification|ONC Certification": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033"
+  ],
+  "Accreditation and Certification|Promoting Interoperability": [
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "Clinical Processes and Procedures|Care Coordination": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Clinical Processes and Procedures|Clinical Trial": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0016"
+  ],
+  "Clinical Processes and Procedures|Diagnosis": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0007",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0041",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Clinical Processes and Procedures|Informed Consent": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0004",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Clinical Processes and Procedures|Risk Stratification": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Clinical Processes and Procedures|Screening": [
+    "HHS-ONC-2026-0001-0004",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Clinical Processes and Procedures|Shared Decision-Making": [
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Clinical Processes and Procedures|Treatment": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0036",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Clinical Processes and Procedures|Triage": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Clinical Processes and Procedures|Trial Matching": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Clinical Specialties and Domains|Behavioral Health": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "Clinical Specialties and Domains|Chronic Disease Management": [
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Clinical Specialties and Domains|Genomics": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0024",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0040"
+  ],
+  "Clinical Specialties and Domains|Interventional Radiology": [
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Clinical Specialties and Domains|Nuclear Medicine": [
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Clinical Specialties and Domains|Oncology": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Clinical Specialties and Domains|Pathology": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033"
+  ],
+  "Clinical Specialties and Domains|Perioperative Care": [
+    "HHS-ONC-2026-0001-0023"
+  ],
+  "Clinical Specialties and Domains|Population Health": [
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Clinical Specialties and Domains|Precision Medicine": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Clinical Specialties and Domains|Radiation Oncology": [
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Clinical Specialties and Domains|Radiology": [
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Clinical Specialties and Domains|Transitional Care": [
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Data Privacy and Security|Audit Trail": [
+    "HHS-ONC-2026-0001-0014"
+  ],
+  "Data Privacy and Security|BAA": [
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "Data Privacy and Security|Cybersecurity": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Data Privacy and Security|Data Governance": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Data Privacy and Security|Data Provenance": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0024",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0034",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043"
+  ],
+  "Data Privacy and Security|De-identification": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0033"
+  ],
+  "Data Privacy and Security|Encryption": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0035"
+  ],
+  "Data Privacy and Security|Information Blocking": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Data Privacy and Security|PHI": [
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0033"
+  ],
+  "Data Privacy and Security|SOC 2": [
+    "HHS-ONC-2026-0001-0015"
+  ],
+  "Federal Agencies and Departments|AHRQ": [
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Federal Agencies and Departments|CDC": [
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0040"
+  ],
+  "Federal Agencies and Departments|CISA": [
+    "HHS-ONC-2026-0001-0019"
+  ],
+  "Federal Agencies and Departments|CMS": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Federal Agencies and Departments|CMS Innovation Center": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Federal Agencies and Departments|DOE": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Federal Agencies and Departments|DOJ": [
+    "HHS-ONC-2026-0001-0042"
+  ],
+  "Federal Agencies and Departments|DoD": [
+    "HHS-ONC-2026-0001-0029"
+  ],
+  "Federal Agencies and Departments|FDA": [
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0040"
+  ],
+  "Federal Agencies and Departments|HRSA": [
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012"
+  ],
+  "Federal Agencies and Departments|IHS": [
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Federal Agencies and Departments|NCI": [
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Federal Agencies and Departments|NIH": [
+    "HHS-ONC-2026-0001-0004",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0040"
+  ],
+  "Federal Agencies and Departments|NIST": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Federal Agencies and Departments|NSF": [
+    "HHS-ONC-2026-0001-0004",
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Federal Agencies and Departments|OCR": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Federal Agencies and Departments|OHRP": [
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Federal Agencies and Departments|OIG": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0042"
+  ],
+  "Federal Agencies and Departments|OMB": [
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Federal Agencies and Departments|ONC": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0025",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Federal Agencies and Departments|SAMHSA": [
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Federal Agencies and Departments|VA": [
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Fraud and Compliance|Abuse": [
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Fraud and Compliance|Compliance": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0015",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Fraud and Compliance|Fraud": [
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Fraud and Compliance|Improper Payment": [
+    "HHS-ONC-2026-0001-0010"
+  ],
+  "Fraud and Compliance|WISeR": [
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Fraud and Compliance|Waste": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Health Information Systems|CDS": [
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Health Information Systems|EHR": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0034",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "Health Information Systems|EMR": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0030",
+    "HHS-ONC-2026-0001-0031"
+  ],
+  "Health Information Systems|HIE": [
+    "HHS-ONC-2026-0001-0016"
+  ],
+  "Health Information Systems|HRIS": [
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Health Information Systems|PACS": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Health Information Systems|RIS": [
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Healthcare Administrative Processes|Claims Processing": [
+    "HHS-ONC-2026-0001-0007",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Administrative Processes|Credentialing": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Administrative Processes|Documentation": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0004",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0034",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Healthcare Administrative Processes|Medical Coding": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "Healthcare Administrative Processes|Prior Authorization": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Healthcare Administrative Processes|Quality Reporting": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0015",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Healthcare Administrative Processes|Revenue Cycle Management": [
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "Healthcare Administrative Processes|Risk Adjustment": [
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Administrative Processes|Utilization Management": [
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Healthcare Business and Operations|Administrative Burden": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0015",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Healthcare Business and Operations|Change Management": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0015",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Business and Operations|FTE": [
+    "HHS-ONC-2026-0001-0019"
+  ],
+  "Healthcare Business and Operations|Interoperability": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0025",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0034",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Business and Operations|Pilot Program": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0007",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "Healthcare Business and Operations|Procurement": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Business and Operations|ROI": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "Healthcare Business and Operations|Scalability": [
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0024",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0036",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Healthcare Business and Operations|Total Cost of Care": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Business and Operations|Vendor": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Healthcare Business and Operations|Workflow Integration": [
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0015",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare IT Standards|C-CDA": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare IT Standards|CPT": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0042"
+  ],
+  "Healthcare IT Standards|DICOM": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Healthcare IT Standards|FHIR": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0034",
+    "HHS-ONC-2026-0001-0036",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare IT Standards|GA4GH": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare IT Standards|Gravity Project": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare IT Standards|HL7": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0043"
+  ],
+  "Healthcare IT Standards|ICD-10": [
+    "HHS-ONC-2026-0001-0042"
+  ],
+  "Healthcare IT Standards|IEEE 11073": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare IT Standards|LOINC": [
+    "HHS-ONC-2026-0001-0034"
+  ],
+  "Healthcare IT Standards|OMOP": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare IT Standards|TEFCA": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0019"
+  ],
+  "Healthcare IT Standards|USCDI": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Healthcare IT Standards|mCODE": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare Programs|ACO": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Programs|ACO REACH": [
+    "HHS-ONC-2026-0001-0012"
+  ],
+  "Healthcare Programs|APM": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Healthcare Programs|CCBHC": [
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Healthcare Programs|HPP": [
+    "HHS-ONC-2026-0001-0029"
+  ],
+  "Healthcare Programs|MIPS": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare Programs|MSSP": [
+    "HHS-ONC-2026-0001-0012"
+  ],
+  "Healthcare Programs|Medicaid": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Programs|Medicare": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Healthcare Programs|Medicare Advantage": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Programs|Medicare Part D": [
+    "HHS-ONC-2026-0001-0010"
+  ],
+  "Healthcare Programs|NDMS": [
+    "HHS-ONC-2026-0001-0029"
+  ],
+  "Healthcare Quality and Safety|Adverse Event": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Healthcare Quality and Safety|Alert Fatigue": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Quality and Safety|Burnout": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Quality and Safety|HEDIS": [
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Healthcare Quality and Safety|Health Disparities": [
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Quality and Safety|Health Equity": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "Healthcare Quality and Safety|Medical Error": [
+    "HHS-ONC-2026-0001-0031"
+  ],
+  "Healthcare Quality and Safety|Patient Safety": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0041",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Quality and Safety|QAPI": [
+    "HHS-ONC-2026-0001-0043"
+  ],
+  "Healthcare Quality and Safety|Quality Improvement": [
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0041",
+    "HHS-ONC-2026-0001-0043"
+  ],
+  "Healthcare Quality and Safety|Star Ratings": [
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Healthcare Settings and Facilities|Academic Medical Center": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare Settings and Facilities|Ambulatory Care": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0007",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Healthcare Settings and Facilities|Emergency Department": [
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Settings and Facilities|Health System": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "Healthcare Settings and Facilities|Hospital": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0024",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0030",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0041",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "Healthcare Settings and Facilities|ICU": [
+    "HHS-ONC-2026-0001-0027"
+  ],
+  "Healthcare Settings and Facilities|IDTF": [
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Healthcare Settings and Facilities|Long-Term Care": [
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0043"
+  ],
+  "Healthcare Settings and Facilities|Rural Hospital": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0029"
+  ],
+  "Healthcare Settings and Facilities|SNF": [
+    "HHS-ONC-2026-0001-0027"
+  ],
+  "Healthcare Settings and Facilities|Safety-Net Provider": [
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0029"
+  ],
+  "Healthcare Workforce Roles|CFO": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Healthcare Workforce Roles|CIO": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Healthcare Workforce Roles|CISO": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare Workforce Roles|CMIO": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Healthcare Workforce Roles|CMO": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Healthcare Workforce Roles|CNA": [
+    "HHS-ONC-2026-0001-0043"
+  ],
+  "Healthcare Workforce Roles|Care Manager": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Workforce Roles|Nurse": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Healthcare Workforce Roles|Oncologist": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare Workforce Roles|Pathologist": [
+    "HHS-ONC-2026-0001-0020"
+  ],
+  "Healthcare Workforce Roles|Physician": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0041",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Healthcare Workforce Roles|Provider": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Healthcare Workforce Roles|Radiologist": [
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Laws and Regulations|21 CFR Part 11": [
+    "HHS-ONC-2026-0001-0014"
+  ],
+  "Laws and Regulations|21st Century Cures Act": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Laws and Regulations|42 CFR Part 2": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Laws and Regulations|42 CFR Part 483": [
+    "HHS-ONC-2026-0001-0043"
+  ],
+  "Laws and Regulations|42 CFR Part 493": [
+    "HHS-ONC-2026-0001-0014"
+  ],
+  "Laws and Regulations|45 CFR Part 170": [
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014"
+  ],
+  "Laws and Regulations|ADA": [
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Laws and Regulations|Anti-Kickback Statute": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "Laws and Regulations|EKRA": [
+    "HHS-ONC-2026-0001-0042"
+  ],
+  "Laws and Regulations|EU AI Act": [
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "Laws and Regulations|False Claims Act": [
+    "HHS-ONC-2026-0001-0042"
+  ],
+  "Laws and Regulations|GDPR": [
+    "HHS-ONC-2026-0001-0015"
+  ],
+  "Laws and Regulations|HIPAA": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0041",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Laws and Regulations|HIPAA Privacy Rule": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0023"
+  ],
+  "Laws and Regulations|HIPAA Security Rule": [
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "Laws and Regulations|HITECH Act": [
+    "HHS-ONC-2026-0001-0046"
+  ],
+  "Laws and Regulations|MIPPA": [
+    "HHS-ONC-2026-0001-0041"
+  ],
+  "Laws and Regulations|NDAA": [
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0029"
+  ],
+  "Laws and Regulations|Stark Law": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "Laws and Regulations|TCPA": [
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Liability and Legal Concepts|Accountability": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Liability and Legal Concepts|Indemnification": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Liability and Legal Concepts|Liability": [
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0007",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0013",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Liability and Legal Concepts|Malpractice": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Liability and Legal Concepts|Standard of Care": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Medical Conditions and Diseases|Anxiety": [
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Medical Conditions and Diseases|Cancer": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0016",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Medical Conditions and Diseases|Dementia": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0027"
+  ],
+  "Medical Conditions and Diseases|Depression": [
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Medical Conditions and Diseases|Diabetes": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0031"
+  ],
+  "Medical Conditions and Diseases|Diabetic Retinopathy": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Medical Conditions and Diseases|Heart Failure": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0027"
+  ],
+  "Medical Conditions and Diseases|Liver Disease": [
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Medical Conditions and Diseases|Multiple Sclerosis": [
+    "HHS-ONC-2026-0001-0040"
+  ],
+  "Medical Conditions and Diseases|Obesity": [
+    "HHS-ONC-2026-0001-0031"
+  ],
+  "Medical Conditions and Diseases|Parkinson's Disease": [
+    "HHS-ONC-2026-0001-0016"
+  ],
+  "Medical Conditions and Diseases|Rare Disease": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0016"
+  ],
+  "Medical Conditions and Diseases|Sepsis": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023"
+  ],
+  "Patient-Centered Concepts|Caregiver": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0044",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Patient-Centered Concepts|Patient Autonomy": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0020",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Patient-Centered Concepts|Patient Engagement": [
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Patient-Centered Concepts|Patient Experience": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0023",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Patient-Centered Concepts|Patient Trust": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0004",
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0006",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0018",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0042",
+    "HHS-ONC-2026-0001-0045",
+    "HHS-ONC-2026-0001-0046",
+    "HHS-ONC-2026-0001-0047"
+  ],
+  "Patient-Centered Concepts|Patient-Generated Health Data": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Payment and Reimbursement|Bundled Payment": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012"
+  ],
+  "Payment and Reimbursement|CED": [
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Payment and Reimbursement|Fee-for-Service": [
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Payment and Reimbursement|MLR": [
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Payment and Reimbursement|NTAP": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0020"
+  ],
+  "Payment and Reimbursement|Physician Fee Schedule": [
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0027"
+  ],
+  "Payment and Reimbursement|RVU": [
+    "HHS-ONC-2026-0001-0027",
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Payment and Reimbursement|Value-Based Care": [
+    "HHS-ONC-2026-0001-0005",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0015",
+    "HHS-ONC-2026-0001-0031",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Professional Organizations|AAMC": [
+    "HHS-ONC-2026-0001-0019"
+  ],
+  "Professional Organizations|ACHE": [
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Professional Organizations|ACS": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Professional Organizations|AMA": [
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Professional Organizations|AORN": [
+    "HHS-ONC-2026-0001-0023"
+  ],
+  "Professional Organizations|AdvaMed": [
+    "HHS-ONC-2026-0001-0020"
+  ],
+  "Professional Organizations|CHIME": [
+    "HHS-ONC-2026-0001-0030",
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "Professional Organizations|Coalition for Health AI": [
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Professional Organizations|DPA": [
+    "HHS-ONC-2026-0001-0020"
+  ],
+  "Professional Organizations|ECRI Institute": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Professional Organizations|HIMSS": [
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Professional Organizations|IAC": [
+    "HHS-ONC-2026-0001-0041"
+  ],
+  "Professional Organizations|IEEE": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012"
+  ],
+  "Professional Organizations|ISO": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0041"
+  ],
+  "Professional Organizations|Joint Commission": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Professional Organizations|RBMA": [
+    "HHS-ONC-2026-0001-0037"
+  ],
+  "Professional Organizations|URAC": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Professional Organizations|USCAP": [
+    "HHS-ONC-2026-0001-0020"
+  ],
+  "Research and Funding Mechanisms|CRADA": [
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0039"
+  ],
+  "Research and Funding Mechanisms|Cancer Moonshot": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0038"
+  ],
+  "Research and Funding Mechanisms|Cooperative Agreement": [
+    "HHS-ONC-2026-0001-0007",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Research and Funding Mechanisms|IRB": [
+    "HHS-ONC-2026-0001-0022"
+  ],
+  "Research and Funding Mechanisms|Implementation Science": [
+    "HHS-ONC-2026-0001-0002",
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0039",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Research and Funding Mechanisms|NAIRR": [
+    "HHS-ONC-2026-0001-0004"
+  ],
+  "Research and Funding Mechanisms|RWE": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0037",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Research and Funding Mechanisms|SBIR": [
+    "HHS-ONC-2026-0001-0042"
+  ],
+  "Social Determinants of Health|Digital Divide": [
+    "HHS-ONC-2026-0001-0044"
+  ],
+  "Social Determinants of Health|Digital Literacy": [
+    "HHS-ONC-2026-0001-0033",
+    "HHS-ONC-2026-0001-0043",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Social Determinants of Health|Health Literacy": [
+    "HHS-ONC-2026-0001-0040"
+  ],
+  "Social Determinants of Health|SDOH": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0022",
+    "HHS-ONC-2026-0001-0040",
+    "HHS-ONC-2026-0001-0045"
+  ],
+  "Social Determinants of Health|Underserved Population": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0029",
+    "HHS-ONC-2026-0001-0038",
+    "HHS-ONC-2026-0001-0045"
+  ]
+}

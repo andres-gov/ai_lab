@@ -1,0 +1,1516 @@
+[
+  {
+    "id": "HHS-ONC-2026-0001-0002",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Onboard AI",
+    "submitterType": "Organization",
+    "date": "2026-01-08T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Unable to extract content from this submission\n  - The comment text states only \"See attached file(s)\"\n  - The attached PDF file (09000064b9119271.pdf) is in an unsupported format and could not be processed\n  - No substantive content is available for distillation",
+      "oneLineSummary": "An AI company submitted comments via PDF attachment that could not be processed, leaving their position unknown.",
+      "commenterProfile": "- **Name/Organization:** Onboard AI\n- **Type:** Business\n- **Role/Expertise:** AI technology company (based on organization name)\n- **Geographic Scope:** Unknown\n- **Stake in Issue:** Unknown - likely related to AI/technology aspects of the regulation given company name",
+      "corePosition": "Unable to determine. The substantive content was submitted as a PDF attachment that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - content in unprocessable PDF attachment.",
+      "mainConcerns": "No specific concerns available - content in unprocessable PDF attachment.",
+      "notableExperiences": "No distinctive experiences available - content in unprocessable PDF attachment.",
+      "keyQuotations": "No quotations available - content in unprocessable PDF attachment.\n\n---\n\n**Note to reviewer:** This comment requires manual retrieval and review of the PDF attachment (09000064b9119271.pdf) from the regulations.gov docket (HHS-ONC-2026-0001-0002) to capture Onboard AI's substantive input."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 31,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0003",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Amir Abrams",
+    "submitterType": "Individual",
+    "date": "2026-01-08T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Core problem identified\n  - Clinical AI often fails in real care settings not because models lack capability, but because they are deployed into workflows where longitudinal patient context is incomplete or unavailable\n  - Missing history drives false positives/negatives and can worsen bias\n  - Problem is especially acute for patients receiving care across multiple systems\n\n- Recommendation\n  - Enable a one-time patient designation of a certified longitudinal endpoint\n  - Full-fidelity USCDI data would be automatically delivered across care settings to this endpoint\n  - Patients would not need to actively use or manage this endpoint\n  - Treating systems could retrieve a complete, current record in real time with patient consent\n  - This creates the input conditions clinical AI needs to be safe and reliable\n\n- Requested actions for HHS/ASTP/ONC\n  - Define and certify patient-designated longitudinal endpoints\n    - Security requirements\n    - Provenance requirements\n    - Auditability requirements\n    - Consent/revocation mechanisms\n  - Establish a persistent routing mechanism so designations follow patients across care settings\n  - Pilot reimbursement and R&D programs tied to verified data delivery and longitudinal completeness\n    - Not based on capability attestations\n\n- Additional details, safeguards, and evaluation measures referenced in attached PDF (not available for review)\n\n---",
+      "oneLineSummary": "Individual commenter argues clinical AI fails not from lack of capability but from incomplete patient data, proposing a patient-designated longitudinal endpoint system to automatically aggregate records across care settings.\n\n---",
+      "commenterProfile": "- **Name/Organization:** Amir Abrams\n- **Type:** Individual\n- **Role/Expertise:** Not specified; demonstrates technical knowledge of health IT infrastructure and clinical AI deployment\n- **Geographic Scope:** National (federal policy recommendations)\n- **Stake in Issue:** Concerned with improving clinical AI safety and effectiveness through better data infrastructure\n\n---",
+      "corePosition": "Clinical AI fails in real care settings primarily because longitudinal patient context is incomplete or unavailable—not because the models themselves lack capability. The solution is enabling patients to designate a certified endpoint that automatically receives their complete health data across all care settings, which treating systems can then access in real time with consent.\n\n---",
+      "keyRecommendations": "- Define and certify patient-designated longitudinal endpoints with requirements for:\n  - Security\n  - Provenance\n  - Auditability\n  - Consent and revocation mechanisms\n- Establish a persistent routing mechanism so patient designations follow them across care settings\n- Pilot reimbursement and R&D programs tied to:\n  - Verified data delivery\n  - Longitudinal completeness\n  - Not capability attestations\n\n---",
+      "mainConcerns": "- Clinical AI deployed into workflows with incomplete longitudinal patient context\n- Missing patient history drives false positives and false negatives\n- Bias worsened for patients receiving care across multiple systems\n- Current system requires patients to actively manage data aggregation\n\n---",
+      "notableExperiences": "- Reframes the clinical AI problem: the issue isn't model capability but data availability at the point of deployment\n- Proposes a passive system where patients designate once and don't need to actively manage their endpoint—reducing burden while improving data completeness\n- Suggests measuring success by verified data delivery rather than capability attestations—a shift from process to outcomes\n\n---",
+      "keyQuotations": "- \"Clinical AI often fails in real care settings not because models lack capability, but because they are deployed into workflows where longitudinal patient context is incomplete or unavailable.\"\n- \"Missing history drives false positives/negatives and can worsen bias, especially for patients receiving care across multiple systems.\""
+    },
+    "themeScores": {
+      "1": 1,
+      "10": 1,
+      "1.1": 1,
+      "1.2": 1,
+      "10.1": 1,
+      "11.1": 1
+    },
+    "entities": [
+      {
+        "category": "AI Governance Concepts",
+        "label": "Algorithmic Bias"
+      },
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Clinical AI"
+      },
+      {
+        "category": "Data and Privacy Concepts",
+        "label": "Patient Consent"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "HHS"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "ONC"
+      },
+      {
+        "category": "Health IT Standards and Interoperability",
+        "label": "USCDI"
+      },
+      {
+        "category": "Healthcare Administrative Processes",
+        "label": "ONC Certification"
+      },
+      {
+        "category": "Healthcare Administrative Processes",
+        "label": "Reimbursement"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Clinical Workflow"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Longitudinal Patient Data"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Patients"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 199,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0004",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Mitchell Berger",
+    "submitterType": "Individual",
+    "date": "2026-01-08T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Response to HHS request for information concerning suggestions for Accelerating the Adoption and use of AI as part of clinical care\n- Primary suggestion: HHS should further emphasize the ethical aspects of AI in its work addressing AI in clinical care\n- Recommended approaches for emphasizing ethics:\n  - Involving HHS and other federal bioethics staff and advisory committees\n  - Collaborating with non-federal ethics and bioethics centers, departments and institutes\n  - Potentially supporting restoration of a Presidential-Level commission on bioethics to discuss AI and other topics\n- Disclaimer: Views expressed are the commenter's alone and not those of any other individuals nor any public or private entities\n- Full comment attached (PDF attachment not accessible for processing)\n\n---",
+      "oneLineSummary": "An individual commenter urges HHS to prioritize bioethics in clinical AI adoption by engaging federal and non-federal ethics bodies and potentially restoring a Presidential-level bioethics commission.\n\n---",
+      "commenterProfile": "- **Name/Organization:** Mitchell Berger\n- **Type:** Individual\n- **Role/Expertise:** Not specified; demonstrates familiarity with federal bioethics infrastructure\n- **Geographic Scope:** National\n- **Stake in Issue:** Concerned citizen interested in ethical governance of AI in healthcare\n\n---",
+      "corePosition": "I believe HHS should place greater emphasis on the ethical dimensions of AI in clinical care. This should include engaging existing federal bioethics resources, partnering with non-federal ethics organizations, and considering the restoration of a Presidential-level bioethics commission to address AI and related topics.\n\n---",
+      "keyRecommendations": "- Emphasize ethical aspects of AI in HHS's clinical care AI work\n- Involve HHS and other federal bioethics staff and advisory committees\n- Collaborate with non-federal ethics and bioethics centers, departments, and institutes\n- Consider supporting restoration of a Presidential-level commission on bioethics to discuss AI and other topics\n\n---",
+      "mainConcerns": "- Implicit concern that ethical considerations may be insufficiently emphasized in current AI clinical care initiatives\n- Need for high-level, coordinated bioethics oversight of AI in healthcare\n\n---",
+      "notableExperiences": "No distinctive experiences shared (note: full comment in PDF attachment was not accessible for processing and may contain additional content)\n\n---",
+      "keyQuotations": "No standout quotations (the accessible portion of the comment is primarily procedural; the PDF attachment may contain more substantive language)"
+    },
+    "themeScores": {
+      "2.8": 1
+    },
+    "entities": [
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Clinical AI"
+      },
+      {
+        "category": "Research and Evidence Concepts",
+        "label": "Bioethics"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 137,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0005",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Health AI Institute",
+    "submitterType": "Organization",
+    "date": "2026-01-08T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Unable to extract content from this comment\n  - The comment text states only \"See attached file(s)\"\n  - The attached PDF file (09000064b911a530.pdf) is in an unsupported format and could not be processed\n  - No substantive content is available for distillation",
+      "oneLineSummary": "Health AI Institute submitted a comment with an unreadable PDF attachment, leaving their position on the regulation unknown.",
+      "commenterProfile": "- **Name/Organization:** Health AI Institute\n- **Type:** Other (likely Academic/Research or Advocacy Group based on name)\n- **Role/Expertise:** Unknown - attachment unreadable\n- **Geographic Scope:** Unknown\n- **Stake in Issue:** Unknown - likely related to artificial intelligence in healthcare based on organization name",
+      "corePosition": "Unable to determine. The comment consists only of a reference to an attached PDF file that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - attachment unreadable.",
+      "mainConcerns": "No specific concerns available - attachment unreadable.",
+      "notableExperiences": "No distinctive experiences shared - attachment unreadable.",
+      "keyQuotations": "No standout quotations - attachment unreadable.\n\n---\n\n**Note to reviewers:** This comment from Health AI Institute contains substantive content in a PDF attachment that could not be processed. Given the organization's name suggests expertise in health-related artificial intelligence, their input may be particularly relevant to this rulemaking. Manual retrieval and review of the original PDF attachment (09000064b911a530.pdf) is recommended."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 33,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0006",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Akshaya Bhagavathula",
+    "submitterType": "Individual",
+    "date": "2026-01-08T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Comment submitted with attached PDF file\n- PDF attachment could not be processed due to unsupported format\n- No text content available from the original submission\n- Submitter identified as Akshaya Bhagavathula\n- Submitted as an individual commenter",
+      "oneLineSummary": "An individual submitter whose comment content remains unknown due to an unreadable PDF attachment.",
+      "commenterProfile": "- **Name/Organization:** Akshaya Bhagavathula\n- **Type:** Individual\n- **Role/Expertise:** Not determinable from available information\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** Not determinable from available information",
+      "corePosition": "Unable to determine. The substantive content of this comment was submitted as a PDF attachment that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - PDF attachment unreadable.",
+      "mainConcerns": "No specific concerns available - PDF attachment unreadable.",
+      "notableExperiences": "No distinctive experiences shared - PDF attachment unreadable.",
+      "keyQuotations": "No standout quotations - PDF attachment unreadable."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 28,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0007",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Keith Mountjoy",
+    "submitterType": "Individual",
+    "date": "2026-01-08T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Unable to extract content from this comment\n  - The comment text states only \"See attached file(s)\"\n  - The attached PDF file (09000064b911c3f3.pdf) is in an unsupported format and could not be processed\n  - No substantive content is available for distillation",
+      "oneLineSummary": "An individual commenter whose substantive input remains inaccessible due to an unprocessable PDF attachment.",
+      "commenterProfile": "- **Name/Organization:** Keith Mountjoy\n- **Type:** Individual\n- **Role/Expertise:** Not determinable from available content\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** Not determinable from available content",
+      "corePosition": "Unable to determine. The commenter's position is contained entirely within an attached PDF that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - content locked in unprocessable attachment.",
+      "mainConcerns": "No specific concerns available - content locked in unprocessable attachment.",
+      "notableExperiences": "No distinctive experiences available - content locked in unprocessable attachment.",
+      "keyQuotations": "No standout quotations available - content locked in unprocessable attachment."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 28,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0008",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Nicholas Lewis",
+    "submitterType": "Individual",
+    "date": "2026-01-08T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- An effective way to promote innovation and effective usage of AI in the medical field would be for HHS and CMS to champion the cause by releasing an interactive Medicare mobile app for beneficiaries and providers\n  - This would ensure market usage and adoption by beneficiaries and providers\n  - Would provide a program \"owned and controlled\" platform for any other future private sector or provider integration\n- The \"Medicare Mobile\" app would provide real-time location tracking and health data for patients and providers\n  - Would be a strong deterrent for fraud, waste, and abuse\n- The app would allow integration of AI-based tools for:\n  - Claim verification\n  - Pre-authorization\n  - Payment determination\n  - Resource allocation\n  - Illness or outbreak detection and monitoring\n  - And much more\n- The app would also provide an on-demand communication solution for patients and providers\n  - Would reduce program administration costs\n- I have a platform and mobile app that I'm willing to donate provided there is any interest",
+      "oneLineSummary": "Individual proposes HHS create a government-owned \"Medicare Mobile\" app to drive AI adoption, reduce fraud, and offers to donate his own platform to make it happen.",
+      "commenterProfile": "- **Name/Organization:** Nicholas Lewis\n- **Type:** Individual\n- **Role/Expertise:** App/platform developer (has existing mobile app to donate)\n- **Geographic Scope:** National\n- **Stake in Issue:** Technology developer with potential solution to offer",
+      "corePosition": "HHS and CMS should lead AI adoption in healthcare by creating an official Medicare mobile app that serves both beneficiaries and providers. A government-owned platform would drive market adoption and provide a foundation for future private sector integration.",
+      "keyRecommendations": "- HHS and CMS should release an interactive Medicare mobile app for beneficiaries and providers\n  - Would create a government \"owned and controlled\" platform\n  - Would serve as foundation for future private sector or provider integration\n- App should include real-time location tracking and health data capabilities\n- App should integrate AI-based tools for:\n  - Claim verification\n  - Pre-authorization\n  - Payment determination\n  - Resource allocation\n  - Illness/outbreak detection and monitoring\n- App should provide on-demand communication between patients and providers",
+      "mainConcerns": "- Need for government leadership to drive AI adoption in healthcare\n- Fraud, waste, and abuse in Medicare system\n- Program administration costs",
+      "notableExperiences": "- Commenter has developed a platform and mobile app that he's willing to donate to the government for this purpose\n- Proposes government ownership as strategy to ensure market adoption and create integration standards",
+      "keyQuotations": "- \"I have a platform & mobile app that I'm willing to donate provided there is any interest.\""
+    },
+    "themeScores": {
+      "12": 1,
+      "12.1": 1
+    },
+    "entities": [
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "CMS"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "HHS"
+      },
+      {
+        "category": "Healthcare Administrative Processes",
+        "label": "Fraud Prevention"
+      },
+      {
+        "category": "Healthcare Administrative Processes",
+        "label": "Resource Allocation"
+      },
+      {
+        "category": "Healthcare Programs",
+        "label": "Medicare"
+      },
+      {
+        "category": "Healthcare Programs",
+        "label": "Medicare Mobile App"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Healthcare Providers"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Patients"
+      }
+    ],
+    "hasAttachments": false,
+    "wordCount": 168,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0009",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Massive Bio",
+    "submitterType": "Organization",
+    "date": "2026-01-08T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- This submission responds to the HHS Request for Information on accelerating AI adoption in clinical care, focusing on oncology as the highest-cost, highest-complexity use case\n- AI in healthcare has reached an inflection point\n  - The core challenge is no longer innovation or model performance, but execution at scale\n  - Despite record per-capita healthcare spending, the U.S. underperforms on outcomes, access, and equity\n  - These failures are starkly visible in cancer care through delayed access, fragmented decision-making, and inefficient use of clinical trials\n\n- Core Thesis: Clinical Trials as Care Infrastructure\n  - Clinical trials are among the most underutilized assets in U.S. healthcare\n  - Benefits of clinical trials:\n    - Provide cutting-edge therapy\n    - Shift costs from payers to sponsors\n    - Generate real-world evidence\n    - Preserve patient choice\n  - Yet most patients learn about trials too late—after prior authorization delays or disease progression\n  - This is a structural failure, not a technology gap\n  - AI enables a reversal: every eligible patient should receive a Trial and Pathway Report before prior authorization is approved\n  - Implementing \"trial-before-authorization\" would:\n    - Reduce unnecessary utilization\n    - Accelerate access to advanced care\n    - Preserve clinician and patient agency\n    - Deflate downstream costs\n\n- Execution Model: A Hub-and-Spoke National Architecture\n  - To move from pilots to scale, HHS should prioritize execution-ready models\n  - Massive Bio operates a national hub-and-spoke infrastructure purpose-built for this transformation\n  - The Hub functions as a federated AI orchestration layer that:\n    - Ingests patient-consented clinical and genomic data\n    - Maps evidence-based pathways\n    - Matches patients to clinical trials in real time\n    - Produces outputs that are auditable, explainable, and compatible with decentralized, hybrid, and just-in-time (JIT) trial designs\n  - The Spokes include:\n    - Community oncology practices\n    - Academic centers\n    - Patient advocacy organizations\n    - Sponsors and CROs\n    - Enables national scale without centralized data control while preserving privacy and local clinical autonomy\n  - Cost Deflation is achieved through:\n    - Decentralized and JIT trials\n    - Reduced unused infrastructure\n    - Trial-first pathways that allow sponsor-funded therapies to precede payer authorization cycles\n\n- Key Policy Recommendations for HHS\n  - 1. Establish Trial-First AI Pathways\n    - Explicitly support AI-generated trial and pathway reports prior to prior authorization\n    - Enable \"gold card\" mechanisms for real-time approval when evidence-based criteria are met\n    - Treat trial enrollment as a prior-auth exception\n  - 2. Align CMS Incentives\n    - Reimburse AI-enabled trial matching and care coordination via new CPT codes\n    - Integrate trial utilization into value-based care models (APMs, MIPS) to reward cost-deflation through sponsor-funded therapies\n  - 3. Create Safe Harbors for Validated AI\n    - Provide liability clarity for clinicians using HHS-certified AI tools\n    - Launch voluntary ONC certification to validate safety, bias mitigation, and interoperability\n  - 4. Fund National Demonstrations\n    - Shift from pilots to operational-scale demonstrations through public-private partnerships\n    - Including a coordinated national AI deployment effort (\"Genesis Project\" for health)\n  - 5. Enforce Interoperability\n    - Accelerate adoption of FHIR and mCODE\n    - Mandate bulk data access to support robust, representative AI training and benchmarking\n\n- Preserving Trust and Agency\n  - AI must expand choice, not constrain it\n  - The proposed model is consent-driven, privacy-by-design, and explicitly preserves physician autonomy\n  - AI informs but does not dictate\n  - Addressing provider barriers is essential for adoption:\n    - Data fragmentation\n    - Misaligned incentives\n    - Liability uncertainty\n  - Addressing patient priorities is essential for adoption:\n    - Clarity\n    - Access\n    - Personalization\n\n- Conclusion\n  - The next wave of healthcare AI will be defined not by better models, but by responsible operationalization at scale\n  - Treating clinical trials as care infrastructure and deploying AI as a coordination layer can reduce costs, accelerate access, and restore trust\n  - Massive Bio operates today as national infrastructure—not a pilot or an app—and stands ready to partner with HHS to implement this vision now\n\n- Note: PDF attachment could not be processed\n\n---",
+      "oneLineSummary": "AI-powered clinical trial matching company argues that trials should be treated as care infrastructure, proposing a \"trial-before-authorization\" model and hub-and-spoke architecture to scale AI in oncology while deflating costs.\n\n---",
+      "commenterProfile": "- **Name/Organization:** Massive Bio\n- **Type:** Business\n- **Role/Expertise:** AI-powered clinical trial matching and oncology care coordination platform; operates national hub-and-spoke infrastructure for trial matching\n- **Geographic Scope:** National (U.S.)\n- **Stake in Issue:** Direct business interest in policies that would mandate or incentivize AI-enabled trial matching; positioned to serve as implementation partner for proposed federal initiatives\n\n---",
+      "corePosition": "We believe the core challenge for healthcare AI is no longer innovation but execution at scale. Clinical trials are massively underutilized care infrastructure, and AI should be deployed to match every eligible cancer patient to trials before prior authorization is approved—shifting costs to sponsors, accelerating access, and preserving patient choice. We operate national infrastructure ready to implement this vision now.\n\n---",
+      "keyRecommendations": "- Establish Trial-First AI Pathways\n  - Support AI-generated trial and pathway reports prior to prior authorization\n  - Enable \"gold card\" mechanisms for real-time approval when evidence-based criteria are met\n  - Treat trial enrollment as a prior-authorization exception\n\n- Align CMS Incentives\n  - Create new CPT codes for AI-enabled trial matching and care coordination\n  - Integrate trial utilization into value-based care models (APMs, MIPS)\n  - Reward cost-deflation through sponsor-funded therapies\n\n- Create Safe Harbors for Validated AI\n  - Provide liability clarity for clinicians using HHS-certified AI tools\n  - Launch voluntary ONC certification for safety, bias mitigation, and interoperability\n\n- Fund National Demonstrations\n  - Shift from pilots to operational-scale demonstrations via public-private partnerships\n  - Launch coordinated national AI deployment effort (\"Genesis Project\" for health)\n\n- Enforce Interoperability\n  - Accelerate FHIR and mCODE adoption\n  - Mandate bulk data access for AI training and benchmarking\n\n---",
+      "mainConcerns": "- Structural failures in cancer care delivery\n  - Most patients learn about clinical trials too late—after prior authorization delays or disease progression\n  - Delayed access, fragmented decision-making, and inefficient trial utilization persist despite record spending\n\n- Barriers to AI adoption\n  - Data fragmentation across providers\n  - Misaligned financial incentives\n  - Liability uncertainty for clinicians using AI tools\n\n- Risk of AI constraining rather than expanding choice\n  - AI must preserve physician autonomy and patient agency\n  - Systems must be consent-driven and privacy-by-design\n\n---",
+      "notableExperiences": "- Reframes clinical trials as \"care infrastructure\" rather than research—arguing they provide cutting-edge therapy, shift costs from payers to sponsors, and should be the first option considered, not the last resort\n- Proposes inverting the current sequence: AI-generated trial matching should happen before prior authorization, not after treatment failures\n- Describes operational hub-and-spoke model already functioning at national scale\n  - Hub: federated AI layer for real-time trial matching with auditable, explainable outputs\n  - Spokes: community practices, academic centers, advocacy groups, sponsors, CROs\n  - Claims to enable scale without centralized data control\n\n---",
+      "keyQuotations": "- \"Clinical trials are among the most underutilized assets in U.S. healthcare.\"\n\n- \"This is a structural failure, not a technology gap.\"\n\n- \"The next wave of healthcare AI will be defined not by better models, but by responsible operationalization at scale.\""
+    },
+    "themeScores": {
+      "3": 1,
+      "8": 1,
+      "9": 1,
+      "11": 1,
+      "12": 1,
+      "1.3": 1,
+      "11.1": 1,
+      "11.2": 1,
+      "12.2": 1,
+      "3.1": 1,
+      "8.1": 1,
+      "8.2": 1,
+      "9.1": 1,
+      "9.2": 1
+    },
+    "entities": [
+      {
+        "category": "AI Governance Concepts",
+        "label": "Algorithmic Bias"
+      },
+      {
+        "category": "AI Governance Concepts",
+        "label": "Explainability"
+      },
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Clinical AI"
+      },
+      {
+        "category": "Data and Privacy Concepts",
+        "label": "Patient Consent"
+      },
+      {
+        "category": "Data and Privacy Concepts",
+        "label": "Privacy by Design"
+      },
+      {
+        "category": "Emerging Concepts",
+        "label": "Gold Card Mechanisms"
+      },
+      {
+        "category": "Emerging Concepts",
+        "label": "Hub-and-Spoke Architecture"
+      },
+      {
+        "category": "Emerging Concepts",
+        "label": "Trial-First Pathways"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "CMS"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "HHS"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "ONC"
+      },
+      {
+        "category": "Health IT Standards and Interoperability",
+        "label": "Bulk Data Access"
+      },
+      {
+        "category": "Health IT Standards and Interoperability",
+        "label": "FHIR"
+      },
+      {
+        "category": "Health IT Standards and Interoperability",
+        "label": "Interoperability"
+      },
+      {
+        "category": "Health IT Standards and Interoperability",
+        "label": "mCODE"
+      },
+      {
+        "category": "Healthcare Administrative Processes",
+        "label": "ONC Certification"
+      },
+      {
+        "category": "Healthcare Administrative Processes",
+        "label": "Reimbursement"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Care Coordination"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Clinical Trials"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Health Equity"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Patient Safety"
+      },
+      {
+        "category": "Healthcare Programs",
+        "label": "Value-Based Care Models"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Healthcare Providers"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Patients"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Payers"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Sponsors"
+      },
+      {
+        "category": "Medical Specialties",
+        "label": "Oncology"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "Liability Framework"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "Prior Authorization"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "Request for Information"
+      },
+      {
+        "category": "Research and Evidence Concepts",
+        "label": "Real-World Evidence"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 564,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0010",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "David Bynon",
+    "submitterType": "Individual",
+    "date": "2026-01-12T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- This comment proposes a model-agnostic, non-device protocol for governing clinical and administrative AI\n  - Focuses on deterministic, audit-by-design outputs rather than model inspection\n- The core challenge facing HHS is not whether AI can be deployed, but how to scale its use\n  - Must avoid expanding federal operational burden\n  - Cannot rely on opaque, non-scalable model-level oversight\n- Proposed approach: deterministic semantic substrate\n  - Makes authoritative policy and benefit meaning explicit\n  - Content is versioned and machine-retrievable at the point of AI use\n  - Requires AI systems to retrieve from authoritative, machine-readable policy memory\n  - Eliminates need for AI to infer meaning from narrative text\n  - Enables AI outputs to be verified directly against published definitions\n  - Verification possible without inspecting model internals or reconstructing inference\n- This approach supports \"deflationary AI adoption\"\n  - Aligns semantic responsibility with carriers, providers, and intermediaries\n  - Builds on existing accuracy obligations already residing with these entities\n  - Preserves federal oversight through auditable outputs\n- Benefits of the approach\n  - Reduces downstream reconciliation costs\n    - Appeals\n    - Beneficiary inquiries\n    - Administrative adjudication\n  - Operationalizes the \"AI-enabling infrastructure and documentation\" principles in OMB Memorandum M-25-21\n- Attached submission provides additional detail\n  - Full technical description\n  - Governance rationale\n  - Illustrative examples\n  - Explains how protocol can be explored through existing sub-regulatory guidance or voluntary innovation pilots\n  - Does not require creating new model-specific regulatory regimes\n- Note: Three PDF attachments were included but could not be processed",
+      "oneLineSummary": "Technical commenter proposes a \"deterministic semantic substrate\" protocol that would govern AI through auditable outputs tied to machine-readable policy definitions rather than opaque model inspection.",
+      "commenterProfile": "- **Name/Organization:** David Bynon\n- **Type:** Individual\n- **Role/Expertise:** Appears to have technical expertise in AI governance architecture and policy infrastructure design\n- **Geographic Scope:** National\n- **Stake in Issue:** Proposing a specific technical framework for AI governance that could shape federal approach to healthcare AI oversight",
+      "corePosition": "The federal government should govern healthcare AI through auditable outputs rather than model inspection. By creating authoritative, machine-readable policy definitions that AI systems must retrieve from (rather than inferring from narrative text), HHS can scale AI adoption without expanding operational burden or relying on opaque oversight methods.",
+      "keyRecommendations": "- Adopt a model-agnostic, non-device protocol for AI governance based on deterministic, audit-by-design outputs\n- Create a \"deterministic semantic substrate\" that makes policy and benefit meanings:\n  - Explicit\n  - Versioned\n  - Machine-retrievable at point of AI use\n- Require AI systems to retrieve from authoritative, machine-readable policy memory rather than infer from narrative text\n- Align semantic responsibility with carriers, providers, and intermediaries where accuracy obligations already exist\n- Explore this protocol through existing sub-regulatory guidance or voluntary innovation pilots\n  - Avoids creating new model-specific regulatory regimes",
+      "mainConcerns": "- Current model-level oversight approaches are opaque and non-scalable\n- Expanding federal operational burden to govern AI is unsustainable\n- Downstream reconciliation costs from appeals, beneficiary inquiries, and administrative adjudication are significant\n- Model inspection and inference reconstruction are impractical governance methods",
+      "notableExperiences": "- Proposes shifting the governance paradigm from \"inspecting AI models\" to \"auditing AI outputs against published definitions\"\n- Frames AI governance as a semantic infrastructure problem rather than a model regulation problem\n- Introduces concept of \"deflationary AI adoption\" that leverages existing accuracy obligations rather than creating new regulatory frameworks\n- Connects proposal to OMB Memorandum M-25-21's \"AI-enabling infrastructure and documentation\" principles",
+      "keyQuotations": "- \"The core challenge facing HHS is not whether AI can be deployed, but how to scale its use without expanding federal operational burden or relying on opaque, non-scalable model-level oversight.\"\n- \"By requiring AI systems to retrieve from authoritative, machine-readable policy memory rather than infer meaning from narrative text, this protocol enables AI outputs to be verified directly against published definitions—without inspecting model internals or reconstructing inference.\""
+    },
+    "themeScores": {
+      "2": 1,
+      "1.5": 1,
+      "2.2": 1,
+      "2.7": 1
+    },
+    "entities": [
+      {
+        "category": "AI Governance Concepts",
+        "label": "Deterministic AI"
+      },
+      {
+        "category": "Emerging Concepts",
+        "label": "Deflationary AI"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "OMB"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Healthcare Providers"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Payers"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "OMB Memorandum M-25-21"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 231,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0011",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "EHY Consulting LLC",
+    "submitterType": "Organization",
+    "date": "2026-01-12T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- These comments align with the HHS Artificial Intelligence Strategy and respond directly to the ten RFI questions\n- Central observation\n  - Effective and responsible AI adoption in clinical care is constrained less by algorithmic performance than by workflow integration, lifecycle governance, and enforceable data stewardship across real-world clinical environments\n- Clinical AI as a socio-technical system\n  - Once deployed, AI systems reshape clinical workflows\n  - AI redistributes accountability\n  - AI generates compounding learning from operational data, outcomes, and process metadata\n- Current governance approaches are insufficient\n  - Approaches focusing only on privacy or pre-deployment validation cannot manage:\n    - Post-deployment drift\n    - Vendor updates\n    - Subcontractor access\n    - Long-term learning accumulation\n- Responses map each RFI question to relevant HHS divisions\n  - CMS\n  - ASTP/ONC\n  - OCR\n  - CIO/ONS\n  - OGA\n  - Acquisition functions\n- Key themes addressed\n  - Acquisition and contracting identified as the primary control plane for enforceable safeguards\n  - Interoperability as integrated component of clinical AI adoption\n  - Cybersecurity considerations\n  - International alignment\n  - Patient trust\n- Full submission included as PDF attachment (content not available for extraction)",
+      "oneLineSummary": "Healthcare consulting firm argues that clinical AI governance must shift focus from algorithmic performance to workflow integration, lifecycle management, and using acquisition/contracting as the primary enforcement mechanism.",
+      "commenterProfile": "- **Name/Organization:** EHY Consulting LLC\n- **Type:** Business\n- **Role/Expertise:** Healthcare consulting, appears to specialize in AI governance and policy\n- **Geographic Scope:** National (engaging with federal HHS strategy)\n- **Stake in Issue:** Consulting practice likely advises healthcare organizations on AI implementation and compliance",
+      "corePosition": "We believe clinical AI should be treated as a socio-technical system, not just an algorithm to validate. The real challenges aren't about whether AI performs well in testing—they're about how it integrates into workflows, who's accountable when things change post-deployment, and how to enforce data stewardship in messy real-world clinical settings. Acquisition and contracting should be the primary lever for making AI safeguards actually enforceable.",
+      "keyRecommendations": "- Treat clinical AI as a socio-technical system rather than focusing narrowly on algorithmic performance\n- Shift governance focus to workflow integration, lifecycle management, and enforceable data stewardship\n- Use acquisition and contracting as the primary control plane for enforceable safeguards\n- Address post-deployment concerns including:\n  - Drift monitoring\n  - Vendor update management\n  - Subcontractor access controls\n  - Long-term learning accumulation\n- Integrate interoperability, cybersecurity, international alignment, and patient trust as connected components of AI adoption strategy",
+      "mainConcerns": "- Current governance approaches are too narrow\n  - Focus only on privacy or pre-deployment validation\n  - Fail to address what happens after AI is deployed\n- Post-deployment risks are inadequately managed\n  - Algorithm drift over time\n  - Vendor updates changing system behavior\n  - Subcontractor access creating accountability gaps\n  - Compounding effects of accumulated learning data\n- AI reshapes clinical environments in ways that require ongoing governance\n  - Workflow changes\n  - Redistribution of accountability\n  - Data generation and use patterns",
+      "notableExperiences": "- Reframes the AI governance problem: the bottleneck isn't algorithmic performance but the messy realities of integration and ongoing management\n- Identifies acquisition/contracting as an underutilized enforcement mechanism—a practical lever that already exists in government operations\n- Maps AI governance responsibilities across multiple HHS divisions, suggesting current fragmentation may be a barrier",
+      "keyQuotations": "- \"Effective and responsible adoption of AI in clinical care is constrained less by algorithmic performance than by workflow integration, lifecycle governance, and enforceable data stewardship across real-world clinical environments.\"\n- \"Governance approaches that focus only on privacy or pre-deployment validation are insufficient to manage post-deployment drift, vendor updates, subcontractor access, and long-term learning accumulation.\""
+    },
+    "themeScores": {
+      "2": 1,
+      "5": 1,
+      "2.3": 1,
+      "2.4": 1,
+      "2.5": 1,
+      "2.6": 1
+    },
+    "entities": [
+      {
+        "category": "AI Governance Concepts",
+        "label": "Model Drift"
+      },
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Clinical AI"
+      },
+      {
+        "category": "Data and Privacy Concepts",
+        "label": "Data Stewardship"
+      },
+      {
+        "category": "Data and Privacy Concepts",
+        "label": "Privacy by Design"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "CIO/ONS"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "CMS"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "HHS"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "OCR"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "OGA"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "ONC"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Clinical Workflow"
+      },
+      {
+        "category": "Policy and Strategy Documents",
+        "label": "HHS AI Strategy"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "Request for Information"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 193,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0012",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Sancian LLC",
+    "submitterType": "Organization",
+    "date": "2026-01-13T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- SANCIAN LLC submits response to HHS's Request for Information on accelerating AI adoption in clinical care\n- Drawing on over 15 years of experience implementing AI governance across federal health agencies\n- Offers an operational framework grounded in five principles:\n  - Governance-first adoption\n  - Readiness before reimbursement\n  - Payment aligned to burden reduction\n  - Implementation science over model development\n  - Human capacity as a success metric\n- Core position: HHS should treat AI not as technology to be adopted, but as care infrastructure to be governed\n- Attached document addresses all ten questions in the RFI\n- Offers operational frameworks HHS could pilot or scale\n- Organization stands ready to support HHS in translating recommendations into implementation\n- Note: PDF attachment could not be processed; detailed content from attachment unavailable",
+      "oneLineSummary": "Federal health AI governance consultancy urges HHS to treat AI as \"care infrastructure to be governed\" rather than technology to be adopted, offering a five-principle operational framework built on 15 years of agency experience.",
+      "commenterProfile": "- **Name/Organization:** Sancian LLC\n- **Type:** Business\n- **Role/Expertise:** AI governance implementation for federal health agencies; 15+ years experience\n- **Geographic Scope:** National (federal agency focus)\n- **Stake in Issue:** Potential implementer/consultant for AI governance frameworks; expertise in federal health AI policy",
+      "corePosition": "HHS should treat AI not as technology to be adopted, but as care infrastructure to be governed. We offer an operational framework built on five principles: governance-first adoption, readiness before reimbursement, payment aligned to burden reduction, implementation science over model development, and human capacity as a success metric.",
+      "keyRecommendations": "- Adopt governance-first approach to AI implementation\n- Establish readiness requirements before reimbursement\n- Align payment structures to burden reduction outcomes\n- Prioritize implementation science over model development\n- Use human capacity as a key success metric\n- Consider piloting or scaling the operational frameworks provided in attachment\n\n*Note: Detailed recommendations likely contained in unprocessed PDF attachment*",
+      "mainConcerns": "No specific concerns explicitly stated in available text\n\n*Note: Concerns may be detailed in unprocessed PDF attachment*",
+      "notableExperiences": "- Framing of AI as \"care infrastructure to be governed\" rather than \"technology to be adopted\" offers a conceptual reframe for policy approach\n- Five-principle framework suggests systematic approach developed through federal implementation experience\n\n*Note: Specific experiences and case studies likely contained in unprocessed PDF attachment*",
+      "keyQuotations": "- \"HHS should treat AI not as technology to be adopted, but as care infrastructure to be governed.\""
+    },
+    "themeScores": {
+      "2": 1,
+      "8": 1,
+      "2.1": 1,
+      "8.3": 1
+    },
+    "entities": [
+      {
+        "category": "AI Governance Concepts",
+        "label": "AI Governance"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "HHS"
+      },
+      {
+        "category": "Healthcare Administrative Processes",
+        "label": "Reimbursement"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "Request for Information"
+      },
+      {
+        "category": "Research and Evidence Concepts",
+        "label": "Implementation Science"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 139,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0013",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Kanav Jain",
+    "submitterType": "Individual",
+    "date": "2026-01-14T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- This response addresses the RFI on accelerating AI adoption in clinical care\n- Because this is an RFI rather than a rulemaking action, its principal value is agenda-setting\n  - It defines which governance dimensions will be treated as central as HHS explores policy, program, and operational levers\n- Primary recommendation: AI governance that prioritizes transparency without enforceable contestability will fail in practice\n  - Explanations, model cards, and \"human-in-the-loop\" language do not produce accountability unless affected parties can compel review, correction, and repair within defined time bounds\n  - Affected parties include both patients and clinicians\n- Treat AI as a source of exposure, not a neutral tool\n  - When AI influences clinical action, eligibility, documentation, or resource allocation, it becomes part of the causal chain of harm\n  - Governance must reflect this by requiring durable decision provenance and enforceable reversal pathways\n- Minimum governance requirements HHS should advance:\n  - Decision provenance as a default output\n    - AI-influenced actions should generate a durable record\n    - Record should include: inputs, model/version, confidence/uncertainty, downstream action taken, and accountable authority\n  - Contestability with binding timelines\n    - Create standard pathways for clinicians and patients to contest AI-driven outcomes\n    - Must include deadlines and escalation procedures\n  - Override and rollback as real control surfaces\n    - \"Human oversight\" should be defined as functional override and rollback capability\n    - Not merely a nominal review step\n  - Liability clarity and anti-evasion design\n    - Avoid governance frameworks that allow responsibility to be laundered through vendor disclaimers or performative \"human review\"\n    - System design must not prevent meaningful intervention\n- Accelerating adoption without enforceable remedy externalizes risk onto clinicians and patients and undermines trust\n- The question is not whether an AI system can explain itself\n  - It is whether harm can be forced to matter through correction, repair, and rollback",
+      "oneLineSummary": "An independent systems designer argues that AI governance without enforceable contestability and reversal mechanisms will fail, urging HHS to require decision provenance, binding timelines for challenges, and real override capabilities rather than performative transparency.",
+      "commenterProfile": "- **Name/Organization:** Kanav Jain\n- **Type:** Individual\n- **Role/Expertise:** Independent researcher and systems designer\n- **Geographic Scope:** Local (Chicago, IL)\n- **Stake in Issue:** Professional interest in AI governance design and accountability frameworks",
+      "corePosition": "I believe AI governance that prioritizes transparency without enforceable contestability will fail in practice. When AI influences clinical decisions, it becomes part of the causal chain of harm—governance must require durable decision provenance and enforceable reversal pathways, not just explanations and model cards.",
+      "keyRecommendations": "- Require decision provenance as a default output for all AI-influenced actions\n  - Record should include inputs, model/version, confidence/uncertainty, downstream action taken, and accountable authority\n- Establish contestability pathways with binding timelines\n  - Standard pathways for clinicians and patients to challenge AI-driven outcomes\n  - Must include deadlines and escalation procedures\n- Define \"human oversight\" as functional override and rollback capability\n  - Not merely a nominal review step\n- Design liability frameworks to prevent responsibility laundering\n  - Block vendor disclaimers and performative \"human review\" from shielding accountability\n  - Ensure system design allows meaningful intervention",
+      "mainConcerns": "- Transparency alone does not produce accountability\n  - Explanations and model cards are insufficient without enforcement mechanisms\n- Risk of externalizing harm onto clinicians and patients\n  - Accelerating adoption without enforceable remedy shifts burden to those least able to control outcomes\n- \"Human-in-the-loop\" language can be performative rather than functional\n  - System design may prevent meaningful intervention while claiming human oversight\n- Governance frameworks may allow responsibility laundering\n  - Vendor disclaimers and nominal review steps can obscure accountability",
+      "notableExperiences": "- Frames AI not as a neutral tool but as \"a source of exposure\"—a conceptual shift that reorients governance thinking\n- Distinguishes between AI that can \"explain itself\" versus systems where \"harm can be forced to matter\"\n- Identifies the RFI's strategic value as agenda-setting rather than rulemaking, suggesting sophisticated understanding of regulatory process",
+      "keyQuotations": "- \"AI governance that prioritizes transparency without enforceable contestability will fail in practice.\"\n- \"The question is not whether an AI system can explain itself; it is whether harm can be forced to matter through correction, repair, and rollback.\"\n- \"Avoid governance frameworks that allow responsibility to be laundered through vendor disclaimers or performative 'human review' while the system design prevents meaningful intervention.\""
+    },
+    "themeScores": {
+      "2": 1,
+      "3": 1,
+      "6": 1,
+      "2.1": 1,
+      "2.7": 1,
+      "3.2": 1,
+      "3.3": 1,
+      "3.4": 1,
+      "3.5": 1
+    },
+    "entities": [
+      {
+        "category": "AI Governance Concepts",
+        "label": "AI Governance"
+      },
+      {
+        "category": "AI Governance Concepts",
+        "label": "Contestability"
+      },
+      {
+        "category": "AI Governance Concepts",
+        "label": "Decision Provenance"
+      },
+      {
+        "category": "AI Governance Concepts",
+        "label": "Explainability"
+      },
+      {
+        "category": "AI Governance Concepts",
+        "label": "Human-in-the-Loop"
+      },
+      {
+        "category": "AI Governance Concepts",
+        "label": "Model Cards"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "HHS"
+      },
+      {
+        "category": "Healthcare Administrative Processes",
+        "label": "Resource Allocation"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Healthcare Providers"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Patients"
+      }
+    ],
+    "hasAttachments": false,
+    "wordCount": 326,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0014",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Ferz.AI",
+    "submitterType": "Organization",
+    "date": "2026-01-14T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- A deterministic AI governance model will accelerate AI adoption in clinical care\n  - This approach will increase trust in AI\n  - Enables providers and regulatory agencies to ensure compliance\n- Having a deterministic layer will allow clinical provider organizations to adopt AI at a much faster pace\n- Attachment referenced but content not available for review\n  - PDF attachment included but could not be processed\n\n---",
+      "oneLineSummary": "AI company advocates for deterministic AI governance models to accelerate clinical AI adoption and build trust with providers and regulators.\n\n---",
+      "commenterProfile": "- **Name/Organization:** Ferz.AI\n- **Type:** Business\n- **Role/Expertise:** AI technology company (specific focus area not detailed in available text)\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** As an AI company, likely develops or provides AI solutions that would be affected by governance frameworks\n\n---",
+      "corePosition": "We believe a deterministic AI governance model is essential for accelerating AI adoption in clinical care. This approach will build trust among providers and regulators while enabling faster, compliant implementation of AI technologies.\n\n---",
+      "keyRecommendations": "- Implement a deterministic AI governance model for clinical AI\n  - Would provide predictable, consistent outputs that can be verified\n  - Enables compliance verification by providers and regulatory agencies\n- Add a \"deterministic layer\" to AI governance frameworks\n  - Would allow clinical organizations to adopt AI more rapidly\n\n---",
+      "mainConcerns": "No specific concerns raised (comment focuses on recommendations rather than problems with proposed rule)\n\n---",
+      "notableExperiences": "No distinctive experiences shared (substantive content may be contained in the unprocessed PDF attachment)\n\n---",
+      "keyQuotations": "- \"A deterministic AI governance model will accelerate the adoption of AI in Clinical care.\"\n\n---\n\n*Note: This comment references an attached PDF that could not be processed. The full substance of the commenter's position, supporting evidence, and detailed recommendations may be contained in that attachment.*"
+    },
+    "themeScores": {
+      "2": 1,
+      "2.2": 1,
+      "2.7": 1
+    },
+    "entities": [
+      {
+        "category": "AI Governance Concepts",
+        "label": "Deterministic AI"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Healthcare Providers"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 78,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0015",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Lumenex Advisory",
+    "submitterType": "Organization",
+    "date": "2026-01-14T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "*Note: The attachment for this comment is in PDF format and could not be processed. The comment text contains only \"See attached file(s)\" with no additional substantive content available for distillation.*\n\n- Comment submitted by Lumenex Advisory organization\n- All substantive content contained in PDF attachment\n- PDF attachment could not be parsed or extracted",
+      "oneLineSummary": "An advisory organization submitted comments via PDF attachment that could not be processed, leaving the substance of their input unknown.",
+      "commenterProfile": "- **Name/Organization:** Lumenex Advisory\n- **Type:** Other (Advisory firm - specific focus unknown)\n- **Role/Expertise:** Unknown - details in inaccessible attachment\n- **Geographic Scope:** Unknown\n- **Stake in Issue:** Unknown - details in inaccessible attachment",
+      "corePosition": "Unable to determine. All substantive content is contained in a PDF attachment that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - content in inaccessible PDF attachment.",
+      "mainConcerns": "No specific concerns available - content in inaccessible PDF attachment.",
+      "notableExperiences": "No distinctive experiences available - content in inaccessible PDF attachment.",
+      "keyQuotations": "No standout quotations available - content in inaccessible PDF attachment.\n\n---\n\n**Processing Note:** This comment requires manual review of the PDF attachment (09000064b913e04a.pdf) to extract substantive content. The organization name \"Lumenex Advisory\" suggests a consulting or advisory firm, but without access to the attachment, no policy positions, recommendations, or concerns can be identified."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 31,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0016",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Steven Zecola",
+    "submitterType": "Individual",
+    "date": "2026-01-20T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Comment submitted with attached file in DOCX format\n- Attachment content could not be extracted due to unsupported file format\n- No text provided in the main comment body beyond reference to attachment",
+      "oneLineSummary": "An individual commenter whose substantive input remains inaccessible due to an unreadable attachment format.",
+      "commenterProfile": "- **Name/Organization:** Steven Zecola\n- **Type:** Individual\n- **Role/Expertise:** Not determinable from available content\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** Not determinable from available content",
+      "corePosition": "Unable to determine. The commenter's position is contained in an attached DOCX file that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - content locked in unreadable attachment.",
+      "mainConcerns": "No specific concerns available - content locked in unreadable attachment.",
+      "notableExperiences": "No distinctive experiences shared - content locked in unreadable attachment.",
+      "keyQuotations": "No standout quotations - content locked in unreadable attachment.\n\n---\n\n**Note:** This comment's substantive content is contained in an attached Word document (09000064b915ceae.docx) that could not be extracted. The original attachment would need to be accessed directly to distill the commenter's actual positions, concerns, and recommendations."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 28,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0017",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Vamsi Varra",
+    "submitterType": "Individual",
+    "date": "2026-01-20T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- I am a dermatologist whose research specializes in artificial intelligence applications in clinical care\n- One of the challenges for introducing safe AI tools to improve healthcare is navigating the regulations surrounding it\n  - Information for companies developing clinical AI products would be helpful to distinguish AI tools which do or do not require FDA approval\n- In the future, autonomous medical decision making without involvement of a human clinician could be possible\n  - It will be crucial to create regulatory standards for compliance of those tools",
+      "oneLineSummary": "A dermatologist specializing in AI research calls for clearer FDA guidance on clinical AI tools and proactive standards for future autonomous medical decision-making systems.",
+      "commenterProfile": "- **Name/Organization:** Vamsi Varra\n- **Type:** Individual\n- **Role/Expertise:** Dermatologist; researcher specializing in artificial intelligence applications in clinical care\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** Directly involved in developing and introducing AI tools for healthcare; navigates regulatory landscape for clinical AI applications",
+      "corePosition": "As a dermatologist researching AI in clinical care, I see regulatory navigation as a key barrier to introducing safe AI tools in healthcare. Companies need clearer guidance on which AI products require FDA approval, and we need to proactively develop standards for autonomous AI systems before they become reality.",
+      "keyRecommendations": "- Provide clearer information to help companies distinguish which clinical AI tools require FDA approval versus those that do not\n- Develop regulatory standards for autonomous medical decision-making tools that operate without human clinician involvement\n  - Standards should be created proactively, before such tools become widespread",
+      "mainConcerns": "- Navigating current regulations is a significant challenge for introducing safe AI tools to healthcare\n- Lack of clarity on FDA approval requirements for different types of clinical AI products\n- Future autonomous AI systems will need compliance standards that don't yet exist",
+      "notableExperiences": "- Offers perspective from someone actively working at the intersection of clinical practice and AI research\n- Identifies regulatory uncertainty as a barrier to beneficial AI adoption in healthcare",
+      "keyQuotations": "- \"One of the challenges for introducing safe AI tools to improve healthcare is navigating the regulations surrounding it.\"\n- \"In the future autonomous medical decision making without involvement of a human clinician could be possible. It will be crucial to create regulatory standards for compliance of those tools.\""
+    },
+    "themeScores": {
+      "4": 1,
+      "4.1": 1,
+      "4.2": 1
+    },
+    "entities": [
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Clinical AI"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "FDA"
+      },
+      {
+        "category": "Medical Specialties",
+        "label": "Dermatology"
+      }
+    ],
+    "hasAttachments": false,
+    "wordCount": 101,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0018",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Binita Ashar",
+    "submitterType": "Individual",
+    "date": "2026-01-20T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Unable to extract content from this comment\n  - The comment text states only \"See attached file(s)\"\n  - The attached PDF file (09000064b9160477.pdf) is in an unsupported format and could not be processed\n  - No substantive content is available for distillation",
+      "oneLineSummary": "An individual commenter whose substantive input remains inaccessible due to an unprocessable PDF attachment.",
+      "commenterProfile": "- **Name/Organization:** Binita Ashar\n- **Type:** Individual\n- **Role/Expertise:** Not determinable from available content\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** Not determinable from available content",
+      "corePosition": "Unable to determine. The commenter's position is contained in an attached PDF that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - content locked in unprocessable PDF attachment.",
+      "mainConcerns": "No specific concerns available - content locked in unprocessable PDF attachment.",
+      "notableExperiences": "No distinctive experiences available - content locked in unprocessable PDF attachment.",
+      "keyQuotations": "No standout quotations available - content locked in unprocessable PDF attachment."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 28,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0019",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Pal Randhawa",
+    "submitterType": "Individual",
+    "date": "2026-01-20T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Comment submitted in response to ASTP/ONC Request for Information on \"Accelerating the Adoption and Use of AI as Part of Clinical Care\" (RIN 0955-AA13)\n- Proposes a new interoperability concept called Workforce Readiness Telemetry (WRT)\n  - Frames AI as deflationary infrastructure\n  - Designed to help predict and prevent clinical capacity degradation\n- Attachment provides specific responses to selected RFI questions\n  - Question 1: Interoperability\n  - Question 3: Governance\n  - Question 8: Liability considerations\n  - Question 10: Research priorities\n- Comments submitted in personal capacity as a board-certified neurosurgeon\n  - Views are commenter's own\n  - Do not represent any employer, institution, advisory body, or public/private entity\n- Full details of the WRT concept and specific question responses contained in PDF attachment\n  - PDF attachment could not be processed (unsupported format)\n\n---",
+      "oneLineSummary": "A board-certified neurosurgeon proposes \"Workforce Readiness Telemetry,\" a new interoperability concept that frames AI as deflationary infrastructure to predict and prevent clinical capacity degradation.\n\n---",
+      "commenterProfile": "- **Name/Organization:** Pal Randhawa, MD, EMBA, FAANS\n- **Type:** Individual\n- **Role/Expertise:** Board-certified neurosurgeon; Fellow of the American Association of Neurological Surgeons; holds Executive MBA\n- **Geographic Scope:** National (no specific location provided)\n- **Stake in Issue:** Clinical practitioner concerned with workforce capacity and AI integration in healthcare delivery\n\n---",
+      "corePosition": "I am proposing Workforce Readiness Telemetry (WRT) as a new interoperability framework that positions AI as deflationary infrastructure capable of predicting and preventing clinical capacity degradation. This concept addresses interoperability, governance, liability, and research priorities for AI in clinical care.\n\n---",
+      "keyRecommendations": "- Adopt Workforce Readiness Telemetry (WRT) as an interoperability concept\n  - Use AI to predict clinical capacity degradation before it occurs\n  - Frame AI as deflationary infrastructure to improve workforce efficiency\n- Address governance structures for AI in clinical settings (specific details in attachment)\n- Consider liability frameworks for AI-assisted care (specific details in attachment)\n- Prioritize research aligned with workforce readiness applications (specific details in attachment)\n\n---",
+      "mainConcerns": "- Clinical capacity degradation as a systemic challenge requiring predictive solutions\n- Need for new interoperability frameworks to support AI integration in clinical workflows\n- Note: Specific concerns and detailed analysis contained in PDF attachment that could not be processed\n\n---",
+      "notableExperiences": "- Introduces novel concept of \"Workforce Readiness Telemetry\" as a framework for AI adoption\n- Reframes AI's role as \"deflationary infrastructure\" rather than additive technology\n  - Suggests AI should reduce burden rather than add complexity\n- Focuses on predictive capacity management rather than reactive solutions\n\n---",
+      "keyQuotations": "- \"The attached document proposes a new interoperability concept, Workforce Readiness Telemetry (WRT), framing AI as deflationary infrastructure to help predict and prevent clinical capacity degradation.\"\n\n---\n\n**Note:** The substantive content of this comment, including the full WRT concept proposal and detailed responses to Questions 1, 3, 8, and 10, is contained in a PDF attachment that could not be processed. The distillation above reflects only the cover letter content."
+    },
+    "themeScores": {
+      "5.3": 1
+    },
+    "entities": [
+      {
+        "category": "Emerging Concepts",
+        "label": "Deflationary AI"
+      },
+      {
+        "category": "Emerging Concepts",
+        "label": "Workforce Readiness Telemetry"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "ONC"
+      },
+      {
+        "category": "Health IT Standards and Interoperability",
+        "label": "Interoperability"
+      },
+      {
+        "category": "Healthcare Administrative Processes",
+        "label": "ONC Certification"
+      },
+      {
+        "category": "Medical Specialties",
+        "label": "Neurosurgery"
+      },
+      {
+        "category": "Policy and Strategy Documents",
+        "label": "RIN 0955-AA13"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "Request for Information"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 148,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0020",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Pictor Labs Inc",
+    "submitterType": "Organization",
+    "date": "2026-01-23T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Unable to extract content from this submission\n  - The comment text states only \"See attached file(s)\"\n  - The attached PDF file (09000064b91631a3.pdf) is in an unsupported format and could not be processed\n  - No substantive content is available for distillation",
+      "oneLineSummary": "An organization submitted a comment with an unreadable PDF attachment, leaving their position unknown.",
+      "commenterProfile": "- **Name/Organization:** Pictor Labs Inc\n- **Type:** Business\n- **Role/Expertise:** Not determinable from available content\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** Not determinable from available content",
+      "corePosition": "Unable to determine. The substantive content of this comment is contained in a PDF attachment that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - attachment unreadable",
+      "mainConcerns": "No specific concerns available - attachment unreadable",
+      "notableExperiences": "No distinctive experiences available - attachment unreadable",
+      "keyQuotations": "No quotations available - attachment unreadable"
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 33,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0021",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Scientific Knowledge Accelerator Foundation",
+    "submitterType": "Organization",
+    "date": "2026-01-23T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Feedback on how current HHS regulations impact AI adoption and use for clinical care\n  - FDA regulation of CDS software is limited to situations where the software replaces clinical judgment without opportunity to apply clinical judgment\n  - Providing rationale/evidence behind recommendations to healthcare professionals for independent review enables avoiding FDA regulation requirements\n  - Expected pattern for providing evidence is a systematic review that comprehensively reports benefits AND harms for the decision along with certainty of evidence\n    - This is RATHER THAN selective reporting of only benefits\n  - If AI is determining the recommendation, it needs to provide comprehensive systematic representation of supporting evidence\n    - RATHER THAN selective one-sided justification generated after the recommendation is determined\n  - Evidence Based Medicine on FHIR (EBMonFHIR) Implementation Guide provides a method that is:\n    - Human-readable\n    - Machine-interpretable\n    - Interoperable\n    - Re-usable\n  - This method can be used for AI-generated CDS that allows independent review by healthcare professionals\n  - Guide available at https://build.fhir.org/ig/HL7/ebm\n\n- Feedback on ways HHS may invest in R&D to integrate AI in care delivery and create long-term market opportunities\n  - Many R&D opportunities exist across the entire scope of the EBMonFHIR Implementation Guide\n  - Specific opportunity highlighted: SummaryOfNetEffect Profile\n    - Structure definition for combining all data elements related to a decision\n    - Data elements include:\n      - Specification of the Population represented for that decision\n      - Specification of the Intervention represented for that decision\n      - Specification of the Comparator represented for that decision\n      - Specification of the outcomes to be considered for that decision\n      - For each outcome, specifying:\n        - Risk for the outcome without treatment (or with the Comparator)\n        - Estimated change in outcome resulting from treatment (use of Intervention)\n        - Desirability of the outcome (desirable or undesirable)\n        - Relative importance of outcome (derived from population surveys or individualized for personal decision making)\n        - Net effect contribution (calculated by multiplying effect estimate and relative importance)\n      - Specification of net effect estimate (statistically combining net effect contributions)\n  - Example: SummaryOfNetEffect for ESAs for CKD patients with anemia receiving dialysis\n    - Available at https://fevir.net/resources/Composition/422055\n    - Evidence easily shown in human-interpretable and machine-interpretable forms\n  - Further representation designed to support individualized shared decision making\n    - Available at https://netbenefitcalculator.com/422055\n  - Nearly infinite combinations exist for how this evidence could be shared to support CDS\n  - HHS investment in R&D to establish common basis for sharing this data would create new long-term market opportunities\n\n- Analogy to navigation software\n  - Navigation software (MapQuest, Google Maps) is far advanced today and used in nearly infinite ways\n  - This success exists because of common expectations in data sharing with both human-interpretable and machine-interpretable interfaces\n  - Currently no standardized navigation system (\"GPS\") for healthcare\n\n- More detailed descriptions provided in attachment (DOCX format, not processed)\n\n---",
+      "oneLineSummary": "Health informatics foundation advocates for standardized, transparent evidence-sharing frameworks for AI clinical decision support, offering their EBMonFHIR tools as a \"GPS for healthcare\" that could unlock market opportunities while keeping clinicians in control.\n\n---",
+      "commenterProfile": "- **Name/Organization:** Scientific Knowledge Accelerator Foundation\n- **Type:** Academic/Research\n- **Role/Expertise:** Health informatics standards development; developers of EBMonFHIR Implementation Guide and related tools\n- **Geographic Scope:** National/International (developing interoperability standards)\n- **Stake in Issue:** Directly involved in creating technical standards and tools for evidence-based clinical decision support that would be affected by AI regulation\n\n---",
+      "corePosition": "We believe AI-generated clinical decision support should provide comprehensive, balanced evidence (both benefits and harms) rather than selective one-sided justifications. Our EBMonFHIR Implementation Guide offers a ready-made solution for human-readable, machine-interpretable evidence sharing that enables clinician oversight while avoiding burdensome FDA regulation. HHS investment in standardized evidence-sharing infrastructure would create long-term market opportunities similar to how GPS standards enabled the navigation software industry.\n\n---",
+      "keyRecommendations": "- Invest in R&D to establish a common basis for sharing clinical decision support evidence data\n  - Would create new, long-term market opportunities\n  - Should support both human-interpretable and machine-interpretable interfaces\n- Adopt the EBMonFHIR Implementation Guide approach for AI-generated CDS\n  - Enables independent review by healthcare professionals\n  - Provides comprehensive systematic evidence representation\n- Explore the SummaryOfNetEffect Profile as a specific R&D opportunity\n  - Structures all relevant decision data elements (population, intervention, comparator, outcomes, net effects)\n  - Supports individualized shared decision making\n\n---",
+      "mainConcerns": "- AI systems may generate selective, one-sided justifications after determining recommendations rather than providing comprehensive evidence\n- Current lack of standardized \"navigation system\" for healthcare evidence sharing limits CDS adoption and market development\n- Without comprehensive reporting of both benefits AND harms with certainty of evidence, AI recommendations may not support proper clinical judgment\n\n---",
+      "notableExperiences": "- Developed working examples of structured evidence presentation for real clinical scenarios (ESAs for CKD patients with anemia on dialysis)\n- Created a \"net benefit calculator\" tool demonstrating how standardized evidence can support individualized shared decision making\n- Key regulatory insight: providing rationale/evidence for independent clinician review is the pathway to avoiding FDA regulation of CDS software\n- The distinction between comprehensive systematic evidence vs. post-hoc selective justification is critical for trustworthy AI recommendations\n\n---",
+      "keyQuotations": "- \"If AI is determining the recommendation, it needs to provide a comprehensive systematic representation of the supporting evidence RATHER THAN selective one-sided justification generated after the recommendation is determined.\"\n- \"Navigation software (MapQuest, Google Maps) is far advanced today and used in nearly infinite ways because there are common expectations in data sharing with both human-interpretable and machine-interpretable interfaces. But there is currently no standardized navigation system ('GPS') for healthcare.\""
+    },
+    "themeScores": {
+      "1": 1,
+      "6": 1,
+      "1.3": 1,
+      "1.4": 1,
+      "6.1": 1
+    },
+    "entities": [
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Clinical Decision Support"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "FDA"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "HHS"
+      },
+      {
+        "category": "Health IT Standards and Interoperability",
+        "label": "EBMonFHIR"
+      },
+      {
+        "category": "Health IT Standards and Interoperability",
+        "label": "FHIR"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Care Coordination"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Shared Decision Making"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Healthcare Providers"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Patients"
+      },
+      {
+        "category": "Professional Associations",
+        "label": "HL7"
+      },
+      {
+        "category": "Research and Evidence Concepts",
+        "label": "Systematic Review"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 557,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0022",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Interstella",
+    "submitterType": "Organization",
+    "date": "2026-01-23T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Unable to extract content from this submission\n  - The comment text states only \"See attached file(s)\"\n  - The attached PDF file (09000064b91766ae.pdf) is in an unsupported format and could not be processed\n  - No substantive content is available for distillation",
+      "oneLineSummary": "An organization called Interstella submitted a comment with an unreadable PDF attachment, leaving their position unknown.",
+      "commenterProfile": "- **Name/Organization:** Interstella\n- **Type:** Organization\n- **Role/Expertise:** Unknown - attachment unreadable\n- **Geographic Scope:** Unknown\n- **Stake in Issue:** Unknown - attachment unreadable",
+      "corePosition": "Unable to determine. The comment consists only of a reference to an attached PDF file that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - attachment unreadable",
+      "mainConcerns": "No specific concerns available - attachment unreadable",
+      "notableExperiences": "No distinctive experiences shared - attachment unreadable",
+      "keyQuotations": "No standout quotations - attachment unreadable"
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 29,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0023",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Association of periOperative Registered Nurses (AORN)",
+    "submitterType": "Organization",
+    "date": "2026-01-23T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Unable to extract content from submitted comment\n  - Comment text states only \"See attached file(s)\"\n  - Attached PDF file (09000064b9177ed2.pdf) is in an unsupported format and could not be processed\n  - No substantive content is available for distillation",
+      "oneLineSummary": "A perioperative nursing association submitted comments via PDF attachment that could not be processed.",
+      "commenterProfile": "- **Name/Organization:** Association of periOperative Registered Nurses (AORN)\n- **Type:** Trade Association\n- **Role/Expertise:** Professional association representing perioperative registered nurses (surgical/operating room nursing)\n- **Geographic Scope:** National\n- **Stake in Issue:** Unknown - attachment content unavailable",
+      "corePosition": "Unable to determine - the submitted PDF attachment could not be processed.",
+      "keyRecommendations": "No specific recommendations available - attachment unreadable",
+      "mainConcerns": "No specific concerns available - attachment unreadable",
+      "notableExperiences": "No distinctive experiences shared - attachment unreadable",
+      "keyQuotations": "No standout quotations - attachment unreadable\n\n---\n\n**Note:** This comment requires manual review. AORN is a significant professional nursing organization, and their full submission is contained in a PDF attachment that could not be automatically processed. The actual content may contain substantive policy positions, recommendations, and concerns relevant to perioperative nursing practice."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 39,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0024",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Anil bodepudi",
+    "submitterType": "Individual",
+    "date": "2026-01-23T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Comment submitted with attached PDF file\n- PDF attachment could not be processed due to unsupported format\n- No readable text content available from the submission",
+      "oneLineSummary": "An individual submitter whose comment remains unknown due to an unreadable PDF attachment.",
+      "commenterProfile": "- **Name/Organization:** Anil Bodepudi\n- **Type:** Individual\n- **Role/Expertise:** Not determinable from available content\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** Not determinable from available content",
+      "corePosition": "Unable to determine. The commenter's substantive position was contained in a PDF attachment that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - PDF attachment unreadable.",
+      "mainConcerns": "No specific concerns available - PDF attachment unreadable.",
+      "notableExperiences": "No distinctive experiences shared - PDF attachment unreadable.",
+      "keyQuotations": "No standout quotations - PDF attachment unreadable."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 28,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0025",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Anita Oppen",
+    "submitterType": "Individual",
+    "date": "2026-01-26T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- This is a Request for Information functioning like a proposed rule invitation for public input\n- The RFI concerns the use and regulation of artificial intelligence in the health sector\n  - Particularly related to health information technology and health data\n- ONC is seeking public comments on several aspects of AI governance\n  - How AI tools should be governed\n  - How AI should be used responsibly\n  - How AI should be integrated into patient care and healthcare systems\n- Specific areas of focus include\n  - Data security\n  - Interoperability\n  - Patient safety\n- Commenters can address topics such as\n  - The balance between innovation and patient protection\n  - Transparency in AI systems\n  - How to encourage ethical use of AI in healthcare",
+      "oneLineSummary": "An individual provides a descriptive overview of the RFI's purpose and scope without offering personal opinions or recommendations on AI in healthcare.",
+      "commenterProfile": "- **Name/Organization:** Anita Oppen\n- **Type:** Individual\n- **Role/Expertise:** Not specified\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** Not specified",
+      "corePosition": "This submission describes what the RFI is about and what topics commenters can address, rather than taking a position on AI regulation in healthcare. No personal stance or recommendations are offered.",
+      "keyRecommendations": "No specific recommendations provided",
+      "mainConcerns": "No specific concerns raised",
+      "notableExperiences": "No distinctive experiences shared",
+      "keyQuotations": "No standout quotations"
+    },
+    "themeScores": {},
+    "entities": [
+      {
+        "category": "AI Governance Concepts",
+        "label": "AI Governance"
+      },
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Clinical AI"
+      },
+      {
+        "category": "Cybersecurity Concepts",
+        "label": "Data Security"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "ONC"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Patient Safety"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Healthcare Organizations"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Patients"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "Request for Information"
+      },
+      {
+        "category": "Research and Evidence Concepts",
+        "label": "Bioethics"
+      }
+    ],
+    "hasAttachments": false,
+    "wordCount": 116,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0026",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Emilie Maxie",
+    "submitterType": "Individual",
+    "date": "2026-01-26T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Submitting this comment as someone who works as a frontline clinician\n- Experience with AI in clinical care is mostly through tools built into electronic health records\n  - Decision support prompts\n  - Predictive risk scores\n  - Alerts\n  - Documentation assistance\n- This Request for Information seeks to accelerate the safe and effective adoption of AI in clinical care\n- Comments focus on the day-to-day realities that determine whether that goal is actually achieved in practice\n- From my perspective, adoption succeeds or fails based on four key factors:\n  - Whether AI tools fit into real clinical workflows\n  - Whether tools are transparent and understandable\n  - Whether there is clear accountability\n  - Whether tools truly reduce burden while improving outcomes and equity\n\n*Note: PDF attachment could not be processed - additional substantive content may be present in the attachment*\n\n---",
+      "oneLineSummary": "A frontline clinician argues that AI adoption in healthcare will succeed or fail based on workflow integration, transparency, accountability, and whether tools actually reduce burden while improving outcomes.\n\n---",
+      "commenterProfile": "- **Name/Organization:** Emilie Maxie\n- **Type:** Healthcare Provider\n- **Role/Expertise:** Frontline clinician with direct experience using AI tools embedded in electronic health records\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** Direct user of clinical AI tools including decision support, predictive risk scores, alerts, and documentation assistance\n\n---",
+      "corePosition": "As a frontline clinician, I believe AI adoption in clinical care succeeds or fails based on practical realities, not theoretical benefits. Tools must fit real workflows, be transparent and understandable, have clear accountability, and genuinely reduce burden while improving outcomes and equity.\n\n---",
+      "keyRecommendations": "No specific recommendations provided in the accessible text (PDF attachment may contain additional recommendations)\n\n---",
+      "mainConcerns": "- AI tools may not fit into real clinical workflows\n- Lack of transparency and understandability in AI systems\n- Unclear accountability for AI-driven decisions\n- Risk that AI increases rather than reduces clinician burden\n- Potential failure to improve outcomes and equity\n\n---",
+      "notableExperiences": "- Offers a ground-level perspective on the types of AI tools clinicians actually encounter day-to-day: decision support prompts, predictive risk scores, alerts, and documentation assistance\n- Frames the success/failure question around practical workflow integration rather than technical capabilities\n\n*Note: Additional experiences may be contained in the unprocessed PDF attachment*\n\n---",
+      "keyQuotations": "- \"From my perspective, adoption succeeds or fails based on whether the AI tools fit into real clinical workflows, are transparent and understandable, have clear accountability, and truly reduce burden while improving outcomes and equity.\""
+    },
+    "themeScores": {
+      "5": 1,
+      "5.1": 1,
+      "5.2": 1
+    },
+    "entities": [
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Clinical AI"
+      },
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Predictive Risk Scores"
+      },
+      {
+        "category": "Health IT Standards and Interoperability",
+        "label": "Electronic Health Records"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Clinical Workflow"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Health Equity"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "Request for Information"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 136,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0027",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Tapestryhealth",
+    "submitterType": "Organization",
+    "date": "2026-01-27T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Unable to extract content from this comment\n  - The comment text only states \"See attached file(s)\"\n  - The attached PDF file (09000064b9183ca7.pdf) is in an unsupported format and could not be processed\n  - No substantive content is available for distillation",
+      "oneLineSummary": "Healthcare organization Tapestryhealth submitted a comment with an unreadable PDF attachment, leaving their position unknown.",
+      "commenterProfile": "- **Name/Organization:** Tapestryhealth\n- **Type:** Organization (likely Healthcare Provider based on name)\n- **Role/Expertise:** Unknown - attachment unreadable\n- **Geographic Scope:** Unknown\n- **Stake in Issue:** Unknown - attachment unreadable",
+      "corePosition": "Unable to determine. The comment consists only of a reference to an attached PDF file that could not be processed.",
+      "keyRecommendations": "No specific recommendations available - attachment unreadable.",
+      "mainConcerns": "No specific concerns available - attachment unreadable.",
+      "notableExperiences": "No distinctive experiences shared - attachment unreadable.",
+      "keyQuotations": "No standout quotations - attachment unreadable.\n\n---\n\n**Note:** This comment requires manual review of the original PDF attachment (09000064b9183ca7.pdf) to extract the substantive content submitted by Tapestryhealth."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 29,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0028",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Ty Greenhalgh",
+    "submitterType": "Individual",
+    "date": "2026-01-29T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Regulatory Visibility: Addressing the \"Encrypted Blind Spot\"\n  - Context: The Importance of Device Identification\n    - The FDA has authorized over 1,250 AI-enabled medical devices as of 2026\n    - This surge in \"black box\" devices on clinical networks creates a massive visibility gap\n    - While encryption is vital for patient privacy, it often masks the device's identity from traditional network security tools\n    - Hospitals are left unable to verify if a device is a legitimate diagnostic tool or a compromised endpoint\n  - Recommendation\n    - HHS should mandate that manufacturers provide a standardized mechanism (such as a public API or shared cryptographic \"Identification Key\")\n    - This would allow network security platforms to identify devices at the hardware and software level without decrypting sensitive clinical data\n    - Identification should be available to all security vendors at no cost or nominal fee, contingent upon Covered Entity permission\n    - Without this \"transparent-yet-secure\" identification standard, hospitals are forced to choose between HIPAA-compliant encryption and network visibility required for basic patient safety\n\n- Transitioning to AI-Based Exposure Management (CTEM)\n  - Context: The Inadequacy of Static Inventories\n    - OMB Memorandum M-25-21 and recent HIPAA Security Rule updates emphasize 100% asset inventory\n    - In an AI-driven clinical environment, a static spreadsheet of hardware is no longer sufficient\n    - AI software \"lives\" in ephemeral containers, cloud environments, and embedded firmware\n  - Recommendation\n    - HHS should formalize a requirement for Continuous Threat Exposure Management (CTEM) to align with M-25-21 and proposed HIPAA updates\n    - Traditional periodic scanning is insufficient for AI assets\n    - Covered Entities require an automated, AI-driven inventory system that discovers AI models and their dependencies in real-time\n    - Inventory must be integrated into broader exposure management that uses AI to prioritize vulnerabilities based on actual reachability and clinical impact\n    - Static CVSS scores do not account for the unique \"agentic\" risks of clinical AI\n\n- Defense Against \"AI on AI\" Attacks\n  - Context: The New Speed of Conflict\n    - Modern threats have moved beyond simple malware to Autonomous Agentic Malware\n    - Attackers are using reinforcement learning to perform real-time calculus on defensive gaps\n    - They generate novel prompt injections for every stage of an attack to bypass standard Indicators of Compromise (IOC) monitoring\n    - Recent incidents demonstrate attackers are \"hijacking\" AI tools hospitals rely on:\n      - ServiceNow \"BodySnatcher\" flaw\n      - Salesforce \"ForcedLeak\" exploit\n      - Silver Fox group targeting medical imaging software\n  - Recommendation\n    - HHS must recognize the threat landscape has shifted to \"AI vs. AI\"\n    - Clinical care cannot be protected by human-speed manual responses when attackers use agentic AI to automate lateral movement and data exfiltration\n    - HHS reimbursement and regulatory frameworks should prioritize and incentivize AI-based defensive solutions\n    - These solutions must be capable of autonomous detection and response—matching attacker speed to isolate compromised AI agents or medical devices before they can execute multi-step calculus on hospital networks\n    - A policy relying on human intervention for AI-driven threats is a policy that accepts failure\n\n- Relevant Electronic Information Systems (REIS) and Accountability\n  - Context: Expanding the Definition of \"Asset\"\n    - Under the modernized HIPAA framework, the definition of REIS must expand to include data pipelines that feed AI models\n    - If the data is poisoned, the clinical output is compromised\n  - Recommendation\n    - HHS should clarify that AI \"Models and Pipelines\" are considered Relevant Electronic Information Systems under the HIPAA Security Rule\n    - The 100% inventory requirement should include not just physical servers but specific versioning of AI models and their data training sources\n    - Providing a \"Nutrition Label\" or AI Bill of Materials (AIBOM) for every clinical AI tool will ensure rapid identification of vulnerable models\n    - When novel prompt injection vulnerabilities (like \"Silver Fox\" or \"BodySnatcher\" variants) are discovered, Covered Entities can instantly identify every instance across their entire enterprise ecosystem",
+      "oneLineSummary": "A cybersecurity expert argues that hospitals face an impossible choice between encryption and visibility, urging HHS to mandate AI device identification standards, continuous threat exposure management, and AI-powered defenses to counter the new reality of \"AI vs. AI\" attacks.",
+      "commenterProfile": "- **Name/Organization:** Ty Greenhalgh\n- **Type:** Individual\n- **Role/Expertise:** Cybersecurity professional with expertise in healthcare network security, AI threats, and medical device vulnerabilities\n- **Geographic Scope:** National\n- **Stake in Issue:** Professional interest in healthcare cybersecurity policy and protecting clinical networks from emerging AI-based threats",
+      "corePosition": "The healthcare sector faces a fundamental security crisis: over 1,250 FDA-authorized AI medical devices create \"encrypted blind spots\" that leave hospitals unable to distinguish legitimate tools from compromised endpoints. HHS must recognize that we've entered an era of \"AI vs. AI\" conflict where human-speed responses are inadequate, and regulations must mandate both transparent device identification and autonomous AI-based defenses.",
+      "keyRecommendations": "- Mandate standardized device identification mechanisms\n  - Require manufacturers to provide public APIs or shared cryptographic \"Identification Keys\"\n  - Enable network security platforms to identify devices without decrypting clinical data\n  - Make identification available to all security vendors at no or nominal cost\n  - Require Covered Entity permission for access\n\n- Formalize Continuous Threat Exposure Management (CTEM) requirements\n  - Replace traditional periodic scanning with automated, AI-driven inventory systems\n  - Require real-time discovery of AI models and their dependencies\n  - Prioritize vulnerabilities based on actual reachability and clinical impact rather than static CVSS scores\n\n- Incentivize AI-based defensive solutions through reimbursement and regulatory frameworks\n  - Require autonomous detection and response capabilities\n  - Match defensive speed to attacker speed\n  - Enable isolation of compromised AI agents or devices before multi-step attacks execute\n\n- Clarify that AI Models and Pipelines qualify as Relevant Electronic Information Systems (REIS)\n  - Extend 100% inventory requirement to include AI model versioning and data training sources\n  - Require \"Nutrition Labels\" or AI Bill of Materials (AIBOM) for every clinical AI tool\n  - Enable instant enterprise-wide identification of vulnerable models when new exploits emerge",
+      "mainConcerns": "- The \"encrypted blind spot\" problem\n  - Encryption masks device identity from security tools\n  - Hospitals cannot verify if devices are legitimate or compromised\n  - Current framework forces choice between HIPAA compliance and network visibility\n\n- Static inventory approaches are obsolete\n  - AI software exists in ephemeral containers, cloud environments, and embedded firmware\n  - Spreadsheet-based hardware inventories cannot track dynamic AI assets\n  - Static CVSS scores don't account for \"agentic\" risks of clinical AI\n\n- Autonomous Agentic Malware represents a new threat paradigm\n  - Attackers use reinforcement learning to find defensive gaps in real-time\n  - Novel prompt injections bypass standard IOC monitoring\n  - Real-world examples: ServiceNow \"BodySnatcher,\" Salesforce \"ForcedLeak,\" Silver Fox targeting medical imaging\n  - Attackers are hijacking the AI tools hospitals depend on\n\n- Data pipeline vulnerabilities compromise clinical outputs\n  - Poisoned training data leads to compromised AI decisions\n  - Current REIS definitions don't adequately cover AI model dependencies",
+      "notableExperiences": "- Identifies a fundamental policy paradox: hospitals must currently choose between HIPAA-compliant encryption and the network visibility needed for patient safety—two requirements that shouldn't be mutually exclusive\n- Frames the emerging threat landscape as \"AI vs. AI\" conflict where defensive speed must match offensive speed\n- Proposes the concept of an \"AI Bill of Materials\" (AIBOM) analogous to software bills of materials, enabling rapid vulnerability response across enterprise ecosystems\n- Cites specific, named vulnerabilities (BodySnatcher, ForcedLeak, Silver Fox) as evidence that attackers are already weaponizing AI tools against healthcare",
+      "keyQuotations": "- \"Without this 'transparent-yet-secure' identification standard, hospitals are forced to choose between HIPAA-compliant encryption and the network visibility required for basic patient safety.\"\n\n- \"A policy that relies on human intervention for AI-driven threats is a policy that accepts failure.\"\n\n- \"If the data is poisoned, the clinical output is compromised.\""
+    },
+    "themeScores": {
+      "7": 1,
+      "7.1": 1,
+      "7.2": 1,
+      "7.3": 1,
+      "7.4": 1,
+      "7.5": 1
+    },
+    "entities": [
+      {
+        "category": "AI Governance Concepts",
+        "label": "AI Bill of Materials"
+      },
+      {
+        "category": "AI Technologies and Systems",
+        "label": "AI-Enabled Medical Devices"
+      },
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Agentic AI"
+      },
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Clinical AI"
+      },
+      {
+        "category": "Cybersecurity Concepts",
+        "label": "Asset Inventory"
+      },
+      {
+        "category": "Cybersecurity Concepts",
+        "label": "CTEM"
+      },
+      {
+        "category": "Cybersecurity Concepts",
+        "label": "Data Security"
+      },
+      {
+        "category": "Cybersecurity Concepts",
+        "label": "Network Security"
+      },
+      {
+        "category": "Cybersecurity Concepts",
+        "label": "Prompt Injection"
+      },
+      {
+        "category": "Cybersecurity Concepts",
+        "label": "REIS"
+      },
+      {
+        "category": "Data and Privacy Concepts",
+        "label": "Data Pipelines"
+      },
+      {
+        "category": "Data and Privacy Concepts",
+        "label": "Privacy by Design"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "FDA"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "HHS"
+      },
+      {
+        "category": "Federal Agencies and Offices",
+        "label": "OMB"
+      },
+      {
+        "category": "Healthcare Administrative Processes",
+        "label": "Reimbursement"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Patient Safety"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Healthcare Organizations"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Patients"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "HIPAA"
+      },
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "OMB Memorandum M-25-21"
+      }
+    ],
+    "hasAttachments": false,
+    "wordCount": 662,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0029",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "Van Pelt & Company, LLC",
+    "submitterType": "Organization",
+    "date": "2026-01-29T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Comment submitted in response to HHS Health Sector AI RFI\n- Substantive content contained in PDF attachment\n  - PDF attachment could not be processed (unsupported format)\n  - No text content available for distillation\n\n---",
+      "oneLineSummary": "A company submitted a response to the Health Sector AI RFI, but the substantive content in their PDF attachment could not be extracted.\n\n---",
+      "commenterProfile": "- **Name/Organization:** Van Pelt & Company, LLC\n- **Type:** Business\n- **Role/Expertise:** Not determinable from available content\n- **Geographic Scope:** Not specified\n- **Stake in Issue:** Not determinable from available content\n\n---",
+      "corePosition": "Unable to determine. The comment text only contains the title \"HHS Health Sector AI RFI\" and the attached PDF could not be processed.\n\n---",
+      "keyRecommendations": "No specific recommendations available - PDF attachment could not be processed.\n\n---",
+      "mainConcerns": "No specific concerns available - PDF attachment could not be processed.\n\n---",
+      "notableExperiences": "No distinctive experiences shared - substantive content unavailable.\n\n---",
+      "keyQuotations": "No standout quotations - substantive content unavailable."
+    },
+    "themeScores": {},
+    "entities": [
+      {
+        "category": "Regulations and Legal Frameworks",
+        "label": "Request for Information"
+      }
+    ],
+    "hasAttachments": true,
+    "wordCount": 39,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0030",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "UConn Health",
+    "submitterType": "Organization",
+    "date": "2026-01-29T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- A unified, multi-stakeholder framework is essential for AI implementation in healthcare\n  - Enhanced clinical and business workflow automations, including those integrated into Electronic Medical Records, must be implemented consistently and transparently\n  - Implementation should support all patients regardless of geography, delivery system, or social status\n- UConn Health is already engaging in productive dialogue on AI in healthcare IT\n  - Actively working with statewide partners through:\n    - Connecticut Hospital Association\n    - HIMSS\n    - ACHE\n    - FMSA\n    - CHiME\n  - Focus is on how to safely incorporate AI into healthcare IT\n- To ensure consistency across the country, alignment is needed among:\n  - Federal agencies\n  - States\n  - Healthcare organizations\n  - Caregivers\n  - Patients\n- This alignment should promote:\n  - Patient safety\n  - Equity\n  - Realization of potential benefits from AI-driven advancements",
+      "oneLineSummary": "Connecticut academic health center calls for unified multi-stakeholder AI framework to ensure consistent, equitable implementation across all healthcare settings.",
+      "commenterProfile": "- **Name/Organization:** UConn Health\n- **Type:** Healthcare Provider / Academic\n- **Role/Expertise:** Academic medical center already engaged in statewide AI implementation discussions\n- **Geographic Scope:** State (Connecticut) with national policy interest\n- **Stake in Issue:** Implementing AI in clinical and business workflows; coordinating with state partners on safe AI adoption",
+      "corePosition": "We believe a unified, multi-stakeholder framework is essential to ensure AI-driven healthcare automations are implemented consistently, transparently, and equitably for all patients. Federal alignment with states, healthcare organizations, caregivers, and patients is necessary to promote both patient safety and the full benefits of AI advancements.",
+      "keyRecommendations": "- Establish a unified, multi-stakeholder framework for AI implementation in healthcare\n  - Should cover clinical and business workflow automations, including EMR integrations\n  - Must ensure consistency and transparency across implementations\n- Align federal agencies, states, healthcare organizations, caregivers, and patients on expectations\n  - Goal: promote patient safety, equity, and realization of AI benefits",
+      "mainConcerns": "- Risk of inconsistent AI implementation across different geographies, delivery systems, and patient populations\n- Need to ensure AI benefits reach all patients regardless of social status",
+      "notableExperiences": "- UConn Health is actively collaborating with multiple statewide and national organizations (Connecticut Hospital Association, HIMSS, ACHE, FMSA, CHiME) to explore safe AI incorporation into healthcare IT\n  - Demonstrates existing multi-stakeholder coordination at state level that could inform federal approach",
+      "keyQuotations": "- \"A unified, multi stakeholder framework is essential to ensure that enhanced clinical and business workflow automations—including those integrated into Electronic Medical Records—are implemented consistently, transparently, and in ways that support all patients regardless of geography, delivery system or social status.\""
+    },
+    "themeScores": {
+      "10": 1,
+      "10.2": 1,
+      "4.3": 1
+    },
+    "entities": [
+      {
+        "category": "AI Technologies and Systems",
+        "label": "Clinical AI"
+      },
+      {
+        "category": "Health IT Standards and Interoperability",
+        "label": "Electronic Health Records"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Clinical Workflow"
+      },
+      {
+        "category": "Healthcare Delivery Concepts",
+        "label": "Patient Safety"
+      },
+      {
+        "category": "Healthcare Stakeholders",
+        "label": "Patients"
+      },
+      {
+        "category": "Professional Associations",
+        "label": "ACHE"
+      },
+      {
+        "category": "Professional Associations",
+        "label": "CHiME"
+      },
+      {
+        "category": "Professional Associations",
+        "label": "Connecticut Hospital Association"
+      },
+      {
+        "category": "Professional Associations",
+        "label": "FMSA"
+      },
+      {
+        "category": "Professional Associations",
+        "label": "HIMSS"
+      },
+      {
+        "category": "Research and Evidence Concepts",
+        "label": "Implementation Science"
+      }
+    ],
+    "hasAttachments": false,
+    "wordCount": 147,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  },
+  {
+    "id": "HHS-ONC-2026-0001-0031",
+    "documentId": "HHS-ONC-2026-0001-0001",
+    "submitter": "ScriptChain Health",
+    "submitterType": "Organization",
+    "date": "2026-01-30T05:00:00Z",
+    "location": "",
+    "structuredSections": {
+      "detailedContent": "- Unable to extract content from this submission\n  - Comment text contains only \"See attached file(s)\"\n  - Attached PDF file (09000064b91890d8.pdf) is in an unsupported format and could not be processed\n  - No substantive content is available for distillation",
+      "oneLineSummary": "A healthcare technology organization submitted comments via PDF attachment that could not be processed.",
+      "commenterProfile": "- **Name/Organization:** ScriptChain Health\n- **Type:** Organization (likely Healthcare Technology/Health IT based on name)\n- **Role/Expertise:** Unknown - content not accessible\n- **Geographic Scope:** Unknown\n- **Stake in Issue:** Unknown - likely related to health information technology given organization name suggests blockchain/prescription technology focus",
+      "corePosition": "Unable to determine - comment content is contained in an inaccessible PDF attachment.",
+      "keyRecommendations": "No specific recommendations available - PDF attachment could not be processed.",
+      "mainConcerns": "No specific concerns available - PDF attachment could not be processed.",
+      "notableExperiences": "No distinctive experiences shared - content not accessible.",
+      "keyQuotations": "No standout quotations - content not accessible.\n\n---\n\n**Processing Note:** This comment requires manual review of the PDF attachment (09000064b91890d8.pdf) to extract substantive content. The organization name \"ScriptChain Health\" suggests potential relevance to health IT interoperability, prescription management, or blockchain technology in healthcare, but no content analysis is possible without access to the attachment."
+    },
+    "themeScores": {},
+    "entities": [],
+    "hasAttachments": true,
+    "wordCount": 31,
+    "clusterSize": 1,
+    "isClusterRepresentative": false,
+    "clusterRepresentativeId": null,
+    "isAlignedSummary": false
+  }
+]

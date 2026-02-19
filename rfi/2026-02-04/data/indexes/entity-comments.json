@@ -1,0 +1,328 @@
+{
+  "AI Governance Concepts|AI Bill of Materials": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "AI Governance Concepts|AI Governance": [
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0013",
+    "HHS-ONC-2026-0001-0025"
+  ],
+  "AI Governance Concepts|Algorithmic Bias": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "AI Governance Concepts|Contestability": [
+    "HHS-ONC-2026-0001-0013"
+  ],
+  "AI Governance Concepts|Decision Provenance": [
+    "HHS-ONC-2026-0001-0013"
+  ],
+  "AI Governance Concepts|Deterministic AI": [
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0014"
+  ],
+  "AI Governance Concepts|Explainability": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0013"
+  ],
+  "AI Governance Concepts|Human-in-the-Loop": [
+    "HHS-ONC-2026-0001-0013"
+  ],
+  "AI Governance Concepts|Model Cards": [
+    "HHS-ONC-2026-0001-0013"
+  ],
+  "AI Governance Concepts|Model Drift": [
+    "HHS-ONC-2026-0001-0011"
+  ],
+  "AI Technologies and Systems|AI-Enabled Medical Devices": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "AI Technologies and Systems|Agentic AI": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "AI Technologies and Systems|Clinical AI": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0004",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0017",
+    "HHS-ONC-2026-0001-0025",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "AI Technologies and Systems|Clinical Decision Support": [
+    "HHS-ONC-2026-0001-0021"
+  ],
+  "AI Technologies and Systems|Predictive Risk Scores": [
+    "HHS-ONC-2026-0001-0026"
+  ],
+  "Cybersecurity Concepts|Asset Inventory": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Cybersecurity Concepts|CTEM": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Cybersecurity Concepts|Data Security": [
+    "HHS-ONC-2026-0001-0025",
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Cybersecurity Concepts|Network Security": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Cybersecurity Concepts|Prompt Injection": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Cybersecurity Concepts|REIS": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Data and Privacy Concepts|Data Pipelines": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Data and Privacy Concepts|Data Stewardship": [
+    "HHS-ONC-2026-0001-0011"
+  ],
+  "Data and Privacy Concepts|Patient Consent": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Data and Privacy Concepts|Privacy by Design": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Emerging Concepts|Deflationary AI": [
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0019"
+  ],
+  "Emerging Concepts|Gold Card Mechanisms": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Emerging Concepts|Hub-and-Spoke Architecture": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Emerging Concepts|Trial-First Pathways": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Emerging Concepts|Workforce Readiness Telemetry": [
+    "HHS-ONC-2026-0001-0019"
+  ],
+  "Federal Agencies and Offices|CIO/ONS": [
+    "HHS-ONC-2026-0001-0011"
+  ],
+  "Federal Agencies and Offices|CMS": [
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011"
+  ],
+  "Federal Agencies and Offices|FDA": [
+    "HHS-ONC-2026-0001-0017",
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Federal Agencies and Offices|HHS": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0013",
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Federal Agencies and Offices|OCR": [
+    "HHS-ONC-2026-0001-0011"
+  ],
+  "Federal Agencies and Offices|OGA": [
+    "HHS-ONC-2026-0001-0011"
+  ],
+  "Federal Agencies and Offices|OMB": [
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Federal Agencies and Offices|ONC": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0025"
+  ],
+  "Health IT Standards and Interoperability|Bulk Data Access": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Health IT Standards and Interoperability|EBMonFHIR": [
+    "HHS-ONC-2026-0001-0021"
+  ],
+  "Health IT Standards and Interoperability|Electronic Health Records": [
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Health IT Standards and Interoperability|FHIR": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0021"
+  ],
+  "Health IT Standards and Interoperability|Interoperability": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0019"
+  ],
+  "Health IT Standards and Interoperability|USCDI": [
+    "HHS-ONC-2026-0001-0003"
+  ],
+  "Health IT Standards and Interoperability|mCODE": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare Administrative Processes|Fraud Prevention": [
+    "HHS-ONC-2026-0001-0008"
+  ],
+  "Healthcare Administrative Processes|ONC Certification": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0019"
+  ],
+  "Healthcare Administrative Processes|Reimbursement": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Healthcare Administrative Processes|Resource Allocation": [
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0013"
+  ],
+  "Healthcare Delivery Concepts|Care Coordination": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0021"
+  ],
+  "Healthcare Delivery Concepts|Clinical Trials": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare Delivery Concepts|Clinical Workflow": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Healthcare Delivery Concepts|Health Equity": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0026"
+  ],
+  "Healthcare Delivery Concepts|Longitudinal Patient Data": [
+    "HHS-ONC-2026-0001-0003"
+  ],
+  "Healthcare Delivery Concepts|Patient Safety": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0025",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Healthcare Delivery Concepts|Shared Decision Making": [
+    "HHS-ONC-2026-0001-0021"
+  ],
+  "Healthcare Programs|Medicare": [
+    "HHS-ONC-2026-0001-0008"
+  ],
+  "Healthcare Programs|Medicare Mobile App": [
+    "HHS-ONC-2026-0001-0008"
+  ],
+  "Healthcare Programs|Value-Based Care Models": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Healthcare Stakeholders|Healthcare Organizations": [
+    "HHS-ONC-2026-0001-0025",
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Healthcare Stakeholders|Healthcare Providers": [
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0013",
+    "HHS-ONC-2026-0001-0014",
+    "HHS-ONC-2026-0001-0021"
+  ],
+  "Healthcare Stakeholders|Patients": [
+    "HHS-ONC-2026-0001-0003",
+    "HHS-ONC-2026-0001-0008",
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0013",
+    "HHS-ONC-2026-0001-0021",
+    "HHS-ONC-2026-0001-0025",
+    "HHS-ONC-2026-0001-0028",
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Healthcare Stakeholders|Payers": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0010"
+  ],
+  "Healthcare Stakeholders|Sponsors": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Medical Specialties|Dermatology": [
+    "HHS-ONC-2026-0001-0017"
+  ],
+  "Medical Specialties|Neurosurgery": [
+    "HHS-ONC-2026-0001-0019"
+  ],
+  "Medical Specialties|Oncology": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Policy and Strategy Documents|HHS AI Strategy": [
+    "HHS-ONC-2026-0001-0011"
+  ],
+  "Policy and Strategy Documents|RIN 0955-AA13": [
+    "HHS-ONC-2026-0001-0019"
+  ],
+  "Professional Associations|ACHE": [
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Professional Associations|CHiME": [
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Professional Associations|Connecticut Hospital Association": [
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Professional Associations|FMSA": [
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Professional Associations|HIMSS": [
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Professional Associations|HL7": [
+    "HHS-ONC-2026-0001-0021"
+  ],
+  "Regulations and Legal Frameworks|HIPAA": [
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Regulations and Legal Frameworks|Liability Framework": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Regulations and Legal Frameworks|OMB Memorandum M-25-21": [
+    "HHS-ONC-2026-0001-0010",
+    "HHS-ONC-2026-0001-0028"
+  ],
+  "Regulations and Legal Frameworks|Prior Authorization": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Regulations and Legal Frameworks|Request for Information": [
+    "HHS-ONC-2026-0001-0009",
+    "HHS-ONC-2026-0001-0011",
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0019",
+    "HHS-ONC-2026-0001-0025",
+    "HHS-ONC-2026-0001-0026",
+    "HHS-ONC-2026-0001-0029"
+  ],
+  "Research and Evidence Concepts|Bioethics": [
+    "HHS-ONC-2026-0001-0004",
+    "HHS-ONC-2026-0001-0025"
+  ],
+  "Research and Evidence Concepts|Implementation Science": [
+    "HHS-ONC-2026-0001-0012",
+    "HHS-ONC-2026-0001-0030"
+  ],
+  "Research and Evidence Concepts|Real-World Evidence": [
+    "HHS-ONC-2026-0001-0009"
+  ],
+  "Research and Evidence Concepts|Systematic Review": [
+    "HHS-ONC-2026-0001-0021"
+  ]
+}
