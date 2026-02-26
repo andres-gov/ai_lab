@@ -1,0 +1,614 @@
+{
+  "summary": {
+    "totalClusters": 46,
+    "totalCommentsClustered": 46,
+    "singletons": 46,
+    "largestClusterSize": 1,
+    "distribution": [
+      {
+        "cluster_size": 1,
+        "count": 46
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "id": 1,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0012",
+      "members": [
+        "HHS-ONC-2026-0001-0012"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Sancian LLC",
+        "snippetPreview": "SANCIAN LLC submits the attached response to HHS&#39;s Request for Information on accelerating AI ad..."
+      }
+    },
+    {
+      "id": 2,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0023",
+      "members": [
+        "HHS-ONC-2026-0001-0023"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Association of periOperative Registered Nurses (AORN)",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 3,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0021",
+      "members": [
+        "HHS-ONC-2026-0001-0021"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Scientific Knowledge Accelerator Foundation",
+        "snippetPreview": "Regarding feedback on how current HHS regulations impact AI adoption and use for clinical care:<br/>..."
+      }
+    },
+    {
+      "id": 4,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0024",
+      "members": [
+        "HHS-ONC-2026-0001-0024"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 5,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0004",
+      "members": [
+        "HHS-ONC-2026-0001-0004"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Dear Mr. Posnack: In response to HHS&rsquo;s request for information (RFI) concerning suggestions fo..."
+      }
+    },
+    {
+      "id": 6,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0006",
+      "members": [
+        "HHS-ONC-2026-0001-0006"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 7,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0033",
+      "members": [
+        "HHS-ONC-2026-0001-0033"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "HealthScoreAI, Inc.",
+        "snippetPreview": "RE:<span style='padding-left: 30px'></span>HHS Health Sector AI RFI<br/>RIN 0955-AA13<br/>Request fo..."
+      }
+    },
+    {
+      "id": 8,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0028",
+      "members": [
+        "HHS-ONC-2026-0001-0028"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "1. Regulatory Visibility: Addressing the &quot;Encrypted Blind Spot&quot;<br/>Context: The Importanc..."
+      }
+    },
+    {
+      "id": 9,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0031",
+      "members": [
+        "HHS-ONC-2026-0001-0031"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "ScriptChain Health",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 10,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0017",
+      "members": [
+        "HHS-ONC-2026-0001-0017"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am dermatologist whose research specializes in artificial intelligence applications in clinical ca..."
+      }
+    },
+    {
+      "id": 11,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0016",
+      "members": [
+        "HHS-ONC-2026-0001-0016"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 12,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0042",
+      "members": [
+        "HHS-ONC-2026-0001-0042"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Advanced Interactive Technology Holdings LLC",
+        "snippetPreview": "Raynold Gallego <br/>Advanced Interactive Technology Holdings LLC<br/>admin@aitechholdings.com<br/>L..."
+      }
+    },
+    {
+      "id": 13,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0039",
+      "members": [
+        "HHS-ONC-2026-0001-0039"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "BlueHalo, LLC, an AV Company",
+        "snippetPreview": "This response highlights systemic barriers that limit the safe, scalable adoption of artificial inte..."
+      }
+    },
+    {
+      "id": 14,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0044",
+      "members": [
+        "HHS-ONC-2026-0001-0044"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "The University of Kansas Health System",
+        "snippetPreview": "The University of Kansas Health System is pleased to provide feedback on the HHS strategy for AI ado..."
+      }
+    },
+    {
+      "id": 15,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0036",
+      "members": [
+        "HHS-ONC-2026-0001-0036"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "1.<span style='padding-left: 30px'></span>What are the biggest barriers to private sector innovation..."
+      }
+    },
+    {
+      "id": 16,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0045",
+      "members": [
+        "HHS-ONC-2026-0001-0045"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Ellipsis Health",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 17,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0019",
+      "members": [
+        "HHS-ONC-2026-0001-0019"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Dear Mr. Posnack and ASTP Policy Staff:<br/><br/>In response to the ASTP/ONC Request for Information..."
+      }
+    },
+    {
+      "id": 18,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0008",
+      "members": [
+        "HHS-ONC-2026-0001-0008"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "An effective way to promote innovation &amp; effective usage of AI in the medical field would be for..."
+      }
+    },
+    {
+      "id": 19,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0002",
+      "members": [
+        "HHS-ONC-2026-0001-0002"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Onboard AI",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 20,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0010",
+      "members": [
+        "HHS-ONC-2026-0001-0010"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "This comment proposes a model-agnostic, non-device protocol for governing clinical and administrativ..."
+      }
+    },
+    {
+      "id": 21,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0047",
+      "members": [
+        "HHS-ONC-2026-0001-0047"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Global Liver Institute",
+        "snippetPreview": "See attached file"
+      }
+    },
+    {
+      "id": 22,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0030",
+      "members": [
+        "HHS-ONC-2026-0001-0030"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "UConn Health",
+        "snippetPreview": "Thank you for considering these comments and for your commitment to advancing AI in ways that enhanc..."
+      }
+    },
+    {
+      "id": 23,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0026",
+      "members": [
+        "HHS-ONC-2026-0001-0026"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am submitting this comment as someone who works as a frontline clinician. My experience with AI in..."
+      }
+    },
+    {
+      "id": 24,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0035",
+      "members": [
+        "HHS-ONC-2026-0001-0035"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Hi my name is Brian Graham aka Cosmicraftsman I am an artist from Perth Western Australia and a crea..."
+      }
+    },
+    {
+      "id": 25,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0043",
+      "members": [
+        "HHS-ONC-2026-0001-0043"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am submitting this public comment in response to the Department of Health and Human Services Reque..."
+      }
+    },
+    {
+      "id": 26,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0041",
+      "members": [
+        "HHS-ONC-2026-0001-0041"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Intersocietal Accreditation Commission",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 27,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0040",
+      "members": [
+        "HHS-ONC-2026-0001-0040"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "National Multiple Sclerosis Society",
+        "snippetPreview": "Please see the attached for comments from the National Multiple Sclerosis Society"
+      }
+    },
+    {
+      "id": 28,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0038",
+      "members": [
+        "HHS-ONC-2026-0001-0038"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "ShiftOS",
+        "snippetPreview": "Dear Mr. Posnack,<br/><br/>ShiftOS is a healthcare technology company building AI-powered workforce ..."
+      }
+    },
+    {
+      "id": 29,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0032",
+      "members": [
+        "HHS-ONC-2026-0001-0032"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am a high-functioning American on SSI with a chronic heart arrhythmia. Passive AI is a barrier to ..."
+      }
+    },
+    {
+      "id": 30,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0007",
+      "members": [
+        "HHS-ONC-2026-0001-0007"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 31,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0009",
+      "members": [
+        "HHS-ONC-2026-0001-0009"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Massive Bio",
+        "snippetPreview": "This submission responds to the HHS Request for Information on accelerating adoption of artificial i..."
+      }
+    },
+    {
+      "id": 32,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0005",
+      "members": [
+        "HHS-ONC-2026-0001-0005"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Health AI Institute",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 33,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0003",
+      "members": [
+        "HHS-ONC-2026-0001-0003"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am submitting an attached written comment titled &ldquo;Patient-Designated Longitudinal Routing to..."
+      }
+    },
+    {
+      "id": 34,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0015",
+      "members": [
+        "HHS-ONC-2026-0001-0015"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Lumenex Advisory",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 35,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0018",
+      "members": [
+        "HHS-ONC-2026-0001-0018"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 36,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0011",
+      "members": [
+        "HHS-ONC-2026-0001-0011"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "EHY Consulting LLC",
+        "snippetPreview": "These comments are submitted in alignment with the HHS Artificial Intelligence Strategy and respond ..."
+      }
+    },
+    {
+      "id": 37,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0013",
+      "members": [
+        "HHS-ONC-2026-0001-0013"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Re: RFI &mdash; Accelerating AI Adoption in Clinical Care &mdash; Governance Must Include Enforceabl..."
+      }
+    },
+    {
+      "id": 38,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0014",
+      "members": [
+        "HHS-ONC-2026-0001-0014"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Ferz.AI",
+        "snippetPreview": "A deterministic AI governance model will accelerate the adoption of AI in Clinical care. This will i..."
+      }
+    },
+    {
+      "id": 39,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0029",
+      "members": [
+        "HHS-ONC-2026-0001-0029"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Van Pelt & Company, LLC",
+        "snippetPreview": "HHS Health Sector AI RFI"
+      }
+    },
+    {
+      "id": 40,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0025",
+      "members": [
+        "HHS-ONC-2026-0001-0025"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "This is a Request for Information (which functions like a proposed rule invitation for public input)..."
+      }
+    },
+    {
+      "id": 41,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0027",
+      "members": [
+        "HHS-ONC-2026-0001-0027"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Tapestryhealth",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 42,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0020",
+      "members": [
+        "HHS-ONC-2026-0001-0020"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Pictor Labs Inc",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 43,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0022",
+      "members": [
+        "HHS-ONC-2026-0001-0022"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Interstella",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 44,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0046",
+      "members": [
+        "HHS-ONC-2026-0001-0046"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Logos Research Centre",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 45,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0034",
+      "members": [
+        "HHS-ONC-2026-0001-0034"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "This comment describes an emerging interoperability challenge as healthcare data exchange increasing..."
+      }
+    },
+    {
+      "id": 46,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0037",
+      "members": [
+        "HHS-ONC-2026-0001-0037"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Radiology Business Management Association",
+        "snippetPreview": "Radiology Business Management Association provides comment on RIN 0955-AA13.  Accelerating adoption ..."
+      }
+    }
+  ]
+}
