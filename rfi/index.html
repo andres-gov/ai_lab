@@ -160,5 +160,31 @@
       </div>
     </main>
     <footer>Last updated: 2026-03-06</footer>
+    <script>
+      (() => {
+        const grid = document.querySelector(".grid");
+        if (!grid) return;
+
+        const cards = Array.from(grid.querySelectorAll(".card"));
+        const datePattern = /^\d{4}-\d{2}-\d{2}$/;
+
+        const sortable = cards.map((card, index) => {
+          const title = card.querySelector(".title")?.textContent?.trim() ?? "";
+          const isDate = datePattern.test(title);
+          const timestamp = isDate ? new Date(`${title}T00:00:00Z`).getTime() : Number.NEGATIVE_INFINITY;
+
+          return { card, index, isDate, timestamp };
+        });
+
+        sortable.sort((a, b) => {
+          if (a.isDate && b.isDate) return b.timestamp - a.timestamp;
+          if (a.isDate) return -1;
+          if (b.isDate) return 1;
+          return a.index - b.index;
+        });
+
+        sortable.forEach(({ card }) => grid.appendChild(card));
+      })();
+    </script>
   </body>
 </html>
