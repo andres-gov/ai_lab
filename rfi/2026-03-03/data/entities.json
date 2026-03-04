@@ -1,0 +1,2447 @@
+{
+  "AI Governance and Evaluation": [
+    {
+      "label": "AI Governance",
+      "definition": "Frameworks and processes for overseeing AI development and deployment",
+      "terms": [
+        "AI governance",
+        "governance framework",
+        "AI oversight"
+      ],
+      "mentionCount": 42
+    },
+    {
+      "label": "Trustworthy AI",
+      "definition": "AI systems meeting standards for safety, fairness, and transparency",
+      "terms": [
+        "trustworthy AI"
+      ],
+      "mentionCount": 12
+    },
+    {
+      "label": "NIST AI RMF",
+      "definition": "NIST Artificial Intelligence Risk Management Framework",
+      "terms": [
+        "NIST AI RMF",
+        "AI Risk Management Framework",
+        "NIST AI Risk Management Framework"
+      ],
+      "mentionCount": 8
+    },
+    {
+      "label": "PCCP",
+      "definition": "Predetermined Change Control Plan for FDA-regulated AI updates",
+      "terms": [
+        "PCCP",
+        "Predetermined Change Control Plan",
+        "Predetermined Change Control Plans"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "Algorithmovigilance",
+      "definition": "Ongoing monitoring of AI algorithm safety and performance",
+      "terms": [
+        "algorithmovigilance"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "FAVES Framework",
+      "definition": "AI evaluation framework: Fair, Appropriate, Valid, Effective, Safe",
+      "terms": [
+        "FAVES",
+        "FAVES framework"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "ISO 42001",
+      "definition": "International standard for AI management systems",
+      "terms": [
+        "ISO 42001",
+        "ISO/IEC 42001"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "TEMPO",
+      "definition": "FDA pilot program for AI/ML medical device oversight",
+      "terms": [
+        "TEMPO",
+        "TEMPO pilot"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Total Product Lifecycle",
+      "definition": "FDA approach for continuous AI/ML device oversight",
+      "terms": [
+        "total product lifecycle",
+        "TPLC"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "AI Reporting Guidelines": [
+    {
+      "label": "FUTURE-AI",
+      "definition": "International consensus guideline for trustworthy AI",
+      "terms": [
+        "FUTURE-AI",
+        "FUTURE AI"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "CONSORT-AI",
+      "definition": "Reporting guideline for AI clinical trials",
+      "terms": [
+        "CONSORT-AI",
+        "CONSORT AI"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "DECIDE-AI",
+      "definition": "Reporting guideline for early clinical evaluation of AI",
+      "terms": [
+        "DECIDE-AI",
+        "DECIDE AI"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "PROBAST+AI",
+      "definition": "Risk of bias assessment tool for AI prediction models",
+      "terms": [
+        "PROBAST+AI",
+        "PROBAST"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "SPIRIT-AI",
+      "definition": "Protocol reporting guideline for AI clinical trials",
+      "terms": [
+        "SPIRIT-AI",
+        "SPIRIT AI"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "TRIPOD+AI",
+      "definition": "Reporting guideline for prediction model studies with AI",
+      "terms": [
+        "TRIPOD+AI",
+        "TRIPOD"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "AI and Machine Learning Concepts": [
+    {
+      "label": "Algorithmic Bias",
+      "definition": "Systematic unfairness in AI outputs affecting certain groups",
+      "terms": [
+        "algorithmic bias",
+        "AI bias",
+        "bias",
+        "bias testing",
+        "bias mitigation"
+      ],
+      "mentionCount": 55
+    },
+    {
+      "label": "Human-in-the-Loop",
+      "definition": "AI systems requiring human oversight or intervention",
+      "terms": [
+        "human-in-the-loop",
+        "HITL",
+        "human oversight",
+        "human in the loop"
+      ],
+      "mentionCount": 38
+    },
+    {
+      "label": "Agentic AI",
+      "definition": "AI systems capable of autonomous decision-making and actions",
+      "terms": [
+        "agentic AI",
+        "AI agents",
+        "agentic systems",
+        "autonomous AI"
+      ],
+      "mentionCount": 28
+    },
+    {
+      "label": "Explainability",
+      "definition": "Ability to understand and interpret AI decision-making processes",
+      "terms": [
+        "explainability",
+        "explainable AI",
+        "XAI",
+        "interpretability"
+      ],
+      "mentionCount": 21
+    },
+    {
+      "label": "Large Language Model",
+      "definition": "AI models trained on text data for natural language understanding",
+      "terms": [
+        "LLM",
+        "LLMs",
+        "large language model",
+        "large language models"
+      ],
+      "mentionCount": 21
+    },
+    {
+      "label": "Machine Learning",
+      "definition": "AI systems that learn and improve from data without explicit programming",
+      "terms": [
+        "machine learning",
+        "ML"
+      ],
+      "mentionCount": 21
+    },
+    {
+      "label": "Model Drift",
+      "definition": "Degradation of AI model performance over time due to data changes",
+      "terms": [
+        "model drift",
+        "algorithm drift",
+        "drift detection",
+        "data drift"
+      ],
+      "mentionCount": 21
+    },
+    {
+      "label": "AI Hallucination",
+      "definition": "AI generating confident but false or fabricated information",
+      "terms": [
+        "hallucination",
+        "hallucinations",
+        "AI hallucination",
+        "AI hallucinations"
+      ],
+      "mentionCount": 18
+    },
+    {
+      "label": "Generative AI",
+      "definition": "AI systems that create new content like text, images, or code",
+      "terms": [
+        "generative AI",
+        "GenAI",
+        "generative artificial intelligence"
+      ],
+      "mentionCount": 15
+    },
+    {
+      "label": "Model Card",
+      "definition": "Documentation describing AI model characteristics and limitations",
+      "terms": [
+        "model card",
+        "model cards"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "Natural Language Processing",
+      "definition": "AI technology for understanding and generating human language",
+      "terms": [
+        "NLP",
+        "natural language processing"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "Federated Learning",
+      "definition": "Machine learning approach training models across decentralized data",
+      "terms": [
+        "federated learning",
+        "federated model training"
+      ],
+      "mentionCount": 6
+    },
+    {
+      "label": "Differential Privacy",
+      "definition": "Mathematical framework for privacy-preserving data analysis",
+      "terms": [
+        "differential privacy"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "Reinforcement Learning",
+      "definition": "Machine learning using rewards to optimize decision-making",
+      "terms": [
+        "reinforcement learning",
+        "RL"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "Deep Learning",
+      "definition": "Machine learning using neural networks with multiple layers",
+      "terms": [
+        "deep learning"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Transfer Learning",
+      "definition": "Applying knowledge from one AI task to improve another",
+      "terms": [
+        "transfer learning"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Clinical AI Applications": [
+    {
+      "label": "Clinical Decision Support",
+      "definition": "AI tools providing clinical recommendations to healthcare providers",
+      "terms": [
+        "CDS",
+        "clinical decision support",
+        "CDSS",
+        "clinical decision support system",
+        "clinical decision support systems"
+      ],
+      "mentionCount": 38
+    },
+    {
+      "label": "Care Coordination AI",
+      "definition": "AI supporting coordination of patient care across providers",
+      "terms": [
+        "care coordination",
+        "care management",
+        "AI-enabled care management"
+      ],
+      "mentionCount": 26
+    },
+    {
+      "label": "Risk Stratification",
+      "definition": "AI identifying patients at high risk for adverse outcomes",
+      "terms": [
+        "risk stratification",
+        "risk prediction",
+        "predictive analytics",
+        "risk assessment"
+      ],
+      "mentionCount": 24
+    },
+    {
+      "label": "Ambient Clinical Documentation",
+      "definition": "AI that listens to visits and generates clinical notes automatically",
+      "terms": [
+        "ambient clinical documentation",
+        "ambient documentation",
+        "ambient listening",
+        "AI scribe",
+        "AI scribes",
+        "ambient AI"
+      ],
+      "mentionCount": 22
+    },
+    {
+      "label": "Chatbot",
+      "definition": "AI-powered conversational interface for patient interaction",
+      "terms": [
+        "chatbot",
+        "chatbots",
+        "AI chatbot"
+      ],
+      "mentionCount": 18
+    },
+    {
+      "label": "Population Health Management",
+      "definition": "AI-driven approaches to improve health outcomes across populations",
+      "terms": [
+        "population health management",
+        "population health",
+        "population health analytics"
+      ],
+      "mentionCount": 17
+    },
+    {
+      "label": "SaMD",
+      "definition": "Software as a Medical Device, software intended for medical purposes",
+      "terms": [
+        "SaMD",
+        "Software as a Medical Device",
+        "AI/ML SaMD"
+      ],
+      "mentionCount": 13
+    },
+    {
+      "label": "Precision Medicine",
+      "definition": "Tailoring treatment based on individual patient characteristics",
+      "terms": [
+        "precision medicine",
+        "personalized medicine",
+        "precision prevention"
+      ],
+      "mentionCount": 8
+    },
+    {
+      "label": "Sepsis Prediction",
+      "definition": "AI systems detecting early signs of sepsis in patients",
+      "terms": [
+        "sepsis prediction",
+        "sepsis early warning",
+        "sepsis detection",
+        "sepsis alerts"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "Medical Imaging AI",
+      "definition": "AI analyzing medical images for diagnosis and screening",
+      "terms": [
+        "medical imaging AI",
+        "AI imaging",
+        "image analysis",
+        "radiology AI"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "Clinical Trial Matching",
+      "definition": "AI matching patients to appropriate clinical trial opportunities",
+      "terms": [
+        "trial matching",
+        "clinical trial matching",
+        "trial enrollment"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Digital Therapeutics",
+      "definition": "Software-based therapeutic interventions for medical conditions",
+      "terms": [
+        "digital therapeutics",
+        "DTx"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Robotic Process Automation",
+      "definition": "Software automating repetitive administrative tasks",
+      "terms": [
+        "RPA",
+        "robotic process automation"
+      ],
+      "mentionCount": 2
+    }
+  ],
+  "Clinical Assessments and Measures": [
+    {
+      "label": "Biomarker",
+      "definition": "Measurable indicator of biological state or condition",
+      "terms": [
+        "biomarker",
+        "biomarkers"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "GAD-7",
+      "definition": "Generalized Anxiety Disorder 7-item scale",
+      "terms": [
+        "GAD-7",
+        "GAD"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "PHQ-9",
+      "definition": "Patient Health Questionnaire for depression screening",
+      "terms": [
+        "PHQ-9",
+        "PHQ",
+        "Patient Health Questionnaire"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "A1c",
+      "definition": "Hemoglobin A1c test measuring average blood sugar",
+      "terms": [
+        "A1c",
+        "HbA1c",
+        "hemoglobin A1c"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "DSM-5",
+      "definition": "Diagnostic and Statistical Manual of Mental Disorders, 5th edition",
+      "terms": [
+        "DSM-5",
+        "DSM",
+        "Diagnostic and Statistical Manual"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "PCL-5",
+      "definition": "PTSD Checklist for DSM-5",
+      "terms": [
+        "PCL-5"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "SOAP Notes",
+      "definition": "Clinical documentation format: Subjective, Objective, Assessment, Plan",
+      "terms": [
+        "SOAP notes",
+        "SOAP"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Data Privacy and Security": [
+    {
+      "label": "Cybersecurity",
+      "definition": "Protection of computer systems and data from threats",
+      "terms": [
+        "cybersecurity",
+        "cyber security",
+        "data security"
+      ],
+      "mentionCount": 28
+    },
+    {
+      "label": "De-identification",
+      "definition": "Removing identifying information from health data",
+      "terms": [
+        "de-identification",
+        "de-identified",
+        "deidentification",
+        "deidentified"
+      ],
+      "mentionCount": 23
+    },
+    {
+      "label": "PHI",
+      "definition": "Protected Health Information under HIPAA",
+      "terms": [
+        "PHI",
+        "protected health information"
+      ],
+      "mentionCount": 22
+    },
+    {
+      "label": "Consent Management",
+      "definition": "Systems for managing patient data sharing permissions",
+      "terms": [
+        "consent management",
+        "consent orchestration",
+        "patient consent"
+      ],
+      "mentionCount": 15
+    },
+    {
+      "label": "Business Associate Agreement",
+      "definition": "HIPAA contract for entities handling PHI",
+      "terms": [
+        "Business Associate Agreement",
+        "BAA",
+        "business associate"
+      ],
+      "mentionCount": 10
+    },
+    {
+      "label": "Privacy-Preserving Technology",
+      "definition": "Technical methods protecting privacy during data analysis",
+      "terms": [
+        "privacy-preserving",
+        "privacy enhancing technologies",
+        "PET"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "Data Breach",
+      "definition": "Unauthorized access to protected information",
+      "terms": [
+        "data breach",
+        "data breaches",
+        "breach"
+      ],
+      "mentionCount": 8
+    }
+  ],
+  "Electronic Health Records and Health IT": [
+    {
+      "label": "EHR",
+      "definition": "Electronic Health Record system for digital patient records",
+      "terms": [
+        "EHR",
+        "EHRs",
+        "electronic health record",
+        "electronic health records",
+        "EMR",
+        "EMRs",
+        "electronic medical record",
+        "electronic medical records"
+      ],
+      "mentionCount": 68
+    },
+    {
+      "label": "Health IT Certification",
+      "definition": "ONC certification program for health information technology",
+      "terms": [
+        "Health IT Certification",
+        "ONC certification",
+        "certified EHR",
+        "ONC-certified"
+      ],
+      "mentionCount": 17
+    },
+    {
+      "label": "Information Blocking",
+      "definition": "Practices that unreasonably limit health information access or exchange",
+      "terms": [
+        "information blocking"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "PACS",
+      "definition": "Picture Archiving and Communication System for medical imaging",
+      "terms": [
+        "PACS",
+        "Picture Archiving and Communication System"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "Meaningful Use",
+      "definition": "CMS program incentivizing EHR adoption and use",
+      "terms": [
+        "Meaningful Use",
+        "MU"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "Promoting Interoperability",
+      "definition": "CMS quality program for health IT use (replaced Meaningful Use)",
+      "terms": [
+        "Promoting Interoperability",
+        "PI Program"
+      ],
+      "mentionCount": 2
+    }
+  ],
+  "Federal Agencies and Offices": [
+    {
+      "label": "CMS",
+      "definition": "Centers for Medicare and Medicaid Services, administers federal healthcare programs",
+      "terms": [
+        "CMS",
+        "Centers for Medicare and Medicaid Services",
+        "Centers for Medicare & Medicaid Services"
+      ],
+      "mentionCount": 65
+    },
+    {
+      "label": "FDA",
+      "definition": "Food and Drug Administration, regulates medical devices and drugs",
+      "terms": [
+        "FDA",
+        "Food and Drug Administration"
+      ],
+      "mentionCount": 56
+    },
+    {
+      "label": "ONC",
+      "definition": "Office of the National Coordinator for Health Information Technology",
+      "terms": [
+        "ONC",
+        "Office of the National Coordinator",
+        "ASTP/ONC",
+        "ASTP",
+        "Assistant Secretary for Technology Policy"
+      ],
+      "mentionCount": 50
+    },
+    {
+      "label": "CMMI",
+      "definition": "Center for Medicare and Medicaid Innovation, tests new payment models",
+      "terms": [
+        "CMMI",
+        "CMS Innovation Center",
+        "Innovation Center",
+        "Center for Medicare and Medicaid Innovation"
+      ],
+      "mentionCount": 16
+    },
+    {
+      "label": "NIST",
+      "definition": "National Institute of Standards and Technology, develops technology standards",
+      "terms": [
+        "NIST",
+        "National Institute of Standards and Technology"
+      ],
+      "mentionCount": 16
+    },
+    {
+      "label": "NIH",
+      "definition": "National Institutes of Health, primary federal medical research agency",
+      "terms": [
+        "NIH",
+        "National Institutes of Health"
+      ],
+      "mentionCount": 15
+    },
+    {
+      "label": "OCR",
+      "definition": "Office for Civil Rights within HHS, enforces HIPAA privacy rules",
+      "terms": [
+        "OCR",
+        "Office for Civil Rights",
+        "HHS OCR"
+      ],
+      "mentionCount": 11
+    },
+    {
+      "label": "AHRQ",
+      "definition": "Agency for Healthcare Research and Quality, supports healthcare quality research",
+      "terms": [
+        "AHRQ",
+        "Agency for Healthcare Research and Quality"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "CDC",
+      "definition": "Centers for Disease Control and Prevention, national public health agency",
+      "terms": [
+        "CDC",
+        "Centers for Disease Control and Prevention",
+        "Centers for Disease Control"
+      ],
+      "mentionCount": 8
+    },
+    {
+      "label": "SAMHSA",
+      "definition": "Substance Abuse and Mental Health Services Administration",
+      "terms": [
+        "SAMHSA",
+        "Substance Abuse and Mental Health Services Administration"
+      ],
+      "mentionCount": 8
+    },
+    {
+      "label": "OIG",
+      "definition": "Office of Inspector General, investigates healthcare fraud and abuse",
+      "terms": [
+        "OIG",
+        "Office of Inspector General"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "HRSA",
+      "definition": "Health Resources and Services Administration, supports underserved populations",
+      "terms": [
+        "HRSA",
+        "Health Resources and Services Administration"
+      ],
+      "mentionCount": 6
+    },
+    {
+      "label": "VA",
+      "definition": "Department of Veterans Affairs, provides healthcare to veterans",
+      "terms": [
+        "VA",
+        "Department of Veterans Affairs",
+        "Veterans Affairs"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "DOJ",
+      "definition": "Department of Justice, prosecutes healthcare fraud cases",
+      "terms": [
+        "DOJ",
+        "Department of Justice"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "DoD",
+      "definition": "Department of Defense, operates military health system",
+      "terms": [
+        "DoD",
+        "Department of Defense"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "NSF",
+      "definition": "National Science Foundation, funds scientific research",
+      "terms": [
+        "NSF",
+        "National Science Foundation"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "NCI",
+      "definition": "National Cancer Institute, leads federal cancer research",
+      "terms": [
+        "NCI",
+        "National Cancer Institute"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "NIMH",
+      "definition": "National Institute of Mental Health, NIH institute for mental health research",
+      "terms": [
+        "NIMH",
+        "National Institute of Mental Health"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "NLM",
+      "definition": "National Library of Medicine, maintains medical databases and standards",
+      "terms": [
+        "NLM",
+        "National Library of Medicine"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "DEA",
+      "definition": "Drug Enforcement Administration, regulates controlled substances",
+      "terms": [
+        "DEA",
+        "Drug Enforcement Administration"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "DOE",
+      "definition": "Department of Energy, supports scientific computing research",
+      "terms": [
+        "DOE",
+        "Department of Energy"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Federal Healthcare Programs": [
+    {
+      "label": "Medicare",
+      "definition": "Federal health insurance program for people 65+ and certain disabilities",
+      "terms": [
+        "Medicare"
+      ],
+      "mentionCount": 44
+    },
+    {
+      "label": "Medicaid",
+      "definition": "Joint federal-state health insurance for low-income individuals",
+      "terms": [
+        "Medicaid"
+      ],
+      "mentionCount": 19
+    },
+    {
+      "label": "Medicare Advantage",
+      "definition": "Private insurance alternative to traditional Medicare (Part C)",
+      "terms": [
+        "Medicare Advantage",
+        "MA",
+        "MA plans",
+        "MA plan"
+      ],
+      "mentionCount": 13
+    },
+    {
+      "label": "Medicare Part D",
+      "definition": "Medicare prescription drug coverage program",
+      "terms": [
+        "Medicare Part D",
+        "Part D"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "D-SNP",
+      "definition": "Dual Eligible Special Needs Plan, Medicare Advantage for dual eligibles",
+      "terms": [
+        "D-SNP",
+        "Dual Eligible Special Needs Plan"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Medicaid Managed Care",
+      "definition": "Medicaid benefits delivered through contracted managed care organizations",
+      "terms": [
+        "Medicaid managed care",
+        "Medicaid MCO",
+        "Medicaid managed care organizations"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Dual Eligible",
+      "definition": "Individuals eligible for both Medicare and Medicaid benefits",
+      "terms": [
+        "dual-eligible",
+        "dual eligible",
+        "dually eligible",
+        "dual-eligibles"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Federal Laws and Regulations": [
+    {
+      "label": "HIPAA",
+      "definition": "Health Insurance Portability and Accountability Act, governs health data privacy",
+      "terms": [
+        "HIPAA",
+        "Health Insurance Portability and Accountability Act"
+      ],
+      "mentionCount": 48
+    },
+    {
+      "label": "21st Century Cures Act",
+      "definition": "Law promoting health IT interoperability and information blocking prevention",
+      "terms": [
+        "21st Century Cures Act",
+        "Cures Act",
+        "21st Century Cures"
+      ],
+      "mentionCount": 10
+    },
+    {
+      "label": "HIPAA Privacy Rule",
+      "definition": "HIPAA regulations protecting patient health information privacy",
+      "terms": [
+        "HIPAA Privacy Rule",
+        "Privacy Rule",
+        "45 CFR Part 164",
+        "45 CFR 164"
+      ],
+      "mentionCount": 10
+    },
+    {
+      "label": "42 CFR Part 2",
+      "definition": "Federal regulations protecting substance use disorder treatment records",
+      "terms": [
+        "42 CFR Part 2",
+        "Part 2",
+        "42 CFR 2"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "CLIA",
+      "definition": "Clinical Laboratory Improvement Amendments, regulates laboratory testing",
+      "terms": [
+        "CLIA",
+        "Clinical Laboratory Improvement Amendments"
+      ],
+      "mentionCount": 6
+    },
+    {
+      "label": "EU AI Act",
+      "definition": "European Union comprehensive AI regulatory framework",
+      "terms": [
+        "EU AI Act",
+        "AI Act",
+        "European AI Act"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "HITECH Act",
+      "definition": "Health Information Technology for Economic and Clinical Health Act",
+      "terms": [
+        "HITECH Act",
+        "HITECH",
+        "Health Information Technology for Economic and Clinical Health Act"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "Anti-Kickback Statute",
+      "definition": "Law prohibiting payment for patient referrals in federal programs",
+      "terms": [
+        "Anti-Kickback Statute",
+        "AKS",
+        "anti-kickback"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "HIPAA Security Rule",
+      "definition": "HIPAA regulations for electronic health information security",
+      "terms": [
+        "HIPAA Security Rule",
+        "Security Rule"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "Stark Law",
+      "definition": "Physician self-referral law prohibiting certain referral arrangements",
+      "terms": [
+        "Stark Law",
+        "Stark",
+        "physician self-referral law"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "45 CFR Part 171",
+      "definition": "Information blocking regulations under 21st Century Cures Act",
+      "terms": [
+        "45 CFR Part 171",
+        "45 CFR 171"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "False Claims Act",
+      "definition": "Law imposing liability for fraudulent claims to federal programs",
+      "terms": [
+        "False Claims Act",
+        "FCA"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "42 CFR Part 438",
+      "definition": "Federal regulations governing Medicaid managed care organizations",
+      "terms": [
+        "42 CFR Part 438",
+        "42 CFR 438"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Colorado AI Act",
+      "definition": "Colorado state law regulating high-risk AI systems",
+      "terms": [
+        "Colorado AI Act",
+        "Colorado's AI Act",
+        "SB 24-205"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "EKRA",
+      "definition": "Eliminating Kickbacks in Recovery Act, prohibits kickbacks in addiction treatment",
+      "terms": [
+        "EKRA",
+        "Eliminating Kickbacks in Recovery Act"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "ERISA",
+      "definition": "Employee Retirement Income Security Act, governs employer health plans",
+      "terms": [
+        "ERISA",
+        "Employee Retirement Income Security Act"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "MIPPA",
+      "definition": "Medicare Improvements for Patients and Providers Act of 2008",
+      "terms": [
+        "MIPPA",
+        "Medicare Improvements for Patients and Providers Act"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "PAMA",
+      "definition": "Protecting Access to Medicare Act, reformed clinical lab fee schedule",
+      "terms": [
+        "PAMA",
+        "Protecting Access to Medicare Act"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "TCPA",
+      "definition": "Telephone Consumer Protection Act, regulates automated communications",
+      "terms": [
+        "TCPA",
+        "Telephone Consumer Protection Act"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Health IT Standards and Interoperability": [
+    {
+      "label": "FHIR",
+      "definition": "Fast Healthcare Interoperability Resources, modern health data exchange standard",
+      "terms": [
+        "FHIR",
+        "HL7 FHIR",
+        "FHIR R4",
+        "Fast Healthcare Interoperability Resources"
+      ],
+      "mentionCount": 40
+    },
+    {
+      "label": "USCDI",
+      "definition": "United States Core Data for Interoperability, standardized health data elements",
+      "terms": [
+        "USCDI",
+        "United States Core Data for Interoperability",
+        "USCDI+"
+      ],
+      "mentionCount": 17
+    },
+    {
+      "label": "HL7",
+      "definition": "Health Level Seven International, health informatics standards organization",
+      "terms": [
+        "HL7",
+        "Health Level Seven",
+        "HL7 International"
+      ],
+      "mentionCount": 15
+    },
+    {
+      "label": "TEFCA",
+      "definition": "Trusted Exchange Framework and Common Agreement for nationwide data exchange",
+      "terms": [
+        "TEFCA",
+        "Trusted Exchange Framework and Common Agreement",
+        "Trusted Exchange Framework"
+      ],
+      "mentionCount": 12
+    },
+    {
+      "label": "DICOM",
+      "definition": "Digital Imaging and Communications in Medicine standard",
+      "terms": [
+        "DICOM",
+        "DICOMweb",
+        "Digital Imaging and Communications in Medicine"
+      ],
+      "mentionCount": 8
+    },
+    {
+      "label": "SNOMED CT",
+      "definition": "Systematized Nomenclature of Medicine Clinical Terms",
+      "terms": [
+        "SNOMED CT",
+        "SNOMED",
+        "Systematized Nomenclature of Medicine"
+      ],
+      "mentionCount": 6
+    },
+    {
+      "label": "ICD-10",
+      "definition": "International Classification of Diseases 10th revision for diagnosis coding",
+      "terms": [
+        "ICD-10",
+        "ICD-10-CM",
+        "International Classification of Diseases"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "LOINC",
+      "definition": "Logical Observation Identifiers Names and Codes for lab and clinical observations",
+      "terms": [
+        "LOINC",
+        "Logical Observation Identifiers Names and Codes"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "C-CDA",
+      "definition": "Consolidated Clinical Document Architecture for clinical document exchange",
+      "terms": [
+        "C-CDA",
+        "CCDA",
+        "Consolidated Clinical Document Architecture",
+        "CDA"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "Da Vinci",
+      "definition": "HL7 FHIR accelerator for payer-provider data exchange",
+      "terms": [
+        "Da Vinci",
+        "DaVinci",
+        "Da Vinci PDEX",
+        "PDEX Plan Net"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "GA4GH",
+      "definition": "Global Alliance for Genomics and Health data sharing standards",
+      "terms": [
+        "GA4GH",
+        "Global Alliance for Genomics and Health"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Gravity Project",
+      "definition": "HL7 initiative standardizing social determinants of health data",
+      "terms": [
+        "Gravity Project",
+        "HL7 Gravity Project"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "IEEE 11073",
+      "definition": "Standards for medical device communication",
+      "terms": [
+        "IEEE 11073",
+        "11073"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "NCPDP SCRIPT",
+      "definition": "Standard for electronic prescribing transactions",
+      "terms": [
+        "NCPDP SCRIPT",
+        "NCPDP",
+        "SCRIPT"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "OMOP",
+      "definition": "Observational Medical Outcomes Partnership common data model",
+      "terms": [
+        "OMOP",
+        "OMOP common data model",
+        "Observational Medical Outcomes Partnership"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "ISO 39075",
+      "definition": "International standard for graph query language",
+      "terms": [
+        "ISO 39075",
+        "GQL",
+        "graph query language"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "mCODE",
+      "definition": "Minimal Common Oncology Data Elements standard for cancer data",
+      "terms": [
+        "mCODE",
+        "minimal Common Oncology Data Elements"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Healthcare Administration": [
+    {
+      "label": "Administrative Burden",
+      "definition": "Time and resources spent on non-clinical tasks",
+      "terms": [
+        "administrative burden",
+        "administrative tasks",
+        "documentation burden"
+      ],
+      "mentionCount": 55
+    },
+    {
+      "label": "Claims Processing",
+      "definition": "Administrative handling of healthcare payment claims",
+      "terms": [
+        "claims processing",
+        "claims",
+        "claim denial",
+        "claim denials"
+      ],
+      "mentionCount": 42
+    },
+    {
+      "label": "Medical Coding",
+      "definition": "Translating healthcare services into standardized codes",
+      "terms": [
+        "medical coding",
+        "coding",
+        "billing codes"
+      ],
+      "mentionCount": 34
+    },
+    {
+      "label": "Healthcare Fraud",
+      "definition": "Intentional deception for unauthorized healthcare benefits",
+      "terms": [
+        "healthcare fraud",
+        "Medicare fraud",
+        "fraud"
+      ],
+      "mentionCount": 14
+    },
+    {
+      "label": "Utilization Management",
+      "definition": "Evaluating appropriateness of healthcare services",
+      "terms": [
+        "utilization management",
+        "UM",
+        "utilization review"
+      ],
+      "mentionCount": 12
+    },
+    {
+      "label": "Care Gap",
+      "definition": "Difference between recommended and actual care received",
+      "terms": [
+        "care gap",
+        "care gaps",
+        "gap closure"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "Revenue Cycle Management",
+      "definition": "Financial processes from patient registration to payment",
+      "terms": [
+        "revenue cycle management",
+        "RCM",
+        "revenue cycle"
+      ],
+      "mentionCount": 3
+    }
+  ],
+  "Healthcare Delivery Settings": [
+    {
+      "label": "Health System",
+      "definition": "Integrated network of hospitals and healthcare facilities",
+      "terms": [
+        "health system",
+        "health systems",
+        "healthcare system",
+        "healthcare systems"
+      ],
+      "mentionCount": 72
+    },
+    {
+      "label": "Hospital",
+      "definition": "Facility providing inpatient medical care",
+      "terms": [
+        "hospital",
+        "hospitals"
+      ],
+      "mentionCount": 54
+    },
+    {
+      "label": "Clinical Laboratory",
+      "definition": "Facility performing diagnostic testing on patient specimens",
+      "terms": [
+        "clinical laboratory",
+        "clinical laboratories",
+        "laboratory",
+        "laboratories",
+        "lab",
+        "labs"
+      ],
+      "mentionCount": 35
+    },
+    {
+      "label": "Telehealth",
+      "definition": "Healthcare services delivered remotely via technology",
+      "terms": [
+        "telehealth",
+        "telemedicine",
+        "virtual care"
+      ],
+      "mentionCount": 14
+    },
+    {
+      "label": "Ambulatory Care",
+      "definition": "Outpatient healthcare services not requiring hospitalization",
+      "terms": [
+        "ambulatory care",
+        "ambulatory",
+        "outpatient"
+      ],
+      "mentionCount": 12
+    },
+    {
+      "label": "Emergency Department",
+      "definition": "Hospital unit providing emergency medical care",
+      "terms": [
+        "emergency department",
+        "ED",
+        "emergency room",
+        "ER"
+      ],
+      "mentionCount": 11
+    },
+    {
+      "label": "Primary Care",
+      "definition": "First point of contact for general healthcare services",
+      "terms": [
+        "primary care"
+      ],
+      "mentionCount": 11
+    },
+    {
+      "label": "Rural Hospital",
+      "definition": "Hospital serving rural geographic areas",
+      "terms": [
+        "rural hospital",
+        "rural hospitals",
+        "rural healthcare"
+      ],
+      "mentionCount": 10
+    },
+    {
+      "label": "Academic Medical Center",
+      "definition": "Hospital affiliated with medical school for teaching and research",
+      "terms": [
+        "academic medical center",
+        "academic medical centers",
+        "AMC"
+      ],
+      "mentionCount": 8
+    },
+    {
+      "label": "Community Health Center",
+      "definition": "Federally qualified health center serving underserved populations",
+      "terms": [
+        "community health center",
+        "community health centers",
+        "FQHC",
+        "FQHCs",
+        "federally qualified health center"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "Long-Term Care",
+      "definition": "Extended care services for chronic conditions or disabilities",
+      "terms": [
+        "long-term care",
+        "LTC"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "Home Health",
+      "definition": "Healthcare services provided in patient's home",
+      "terms": [
+        "home health",
+        "home healthcare",
+        "at-home care"
+      ],
+      "mentionCount": 3
+    }
+  ],
+  "Healthcare Initiatives and Programs": [
+    {
+      "label": "ACCESS Model",
+      "definition": "CMS care management model for high-needs populations",
+      "terms": [
+        "ACCESS",
+        "ACCESS model"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "Cancer Moonshot",
+      "definition": "Federal initiative to accelerate cancer research",
+      "terms": [
+        "Cancer Moonshot",
+        "White House Cancer Moonshot"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "988 Lifeline",
+      "definition": "National suicide and crisis prevention hotline",
+      "terms": [
+        "988",
+        "988 Suicide and Crisis Lifeline",
+        "988 Lifeline"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "Make America Healthy Again",
+      "definition": "Federal initiative focused on improving national health",
+      "terms": [
+        "Make America Healthy Again",
+        "MAHA"
+      ],
+      "mentionCount": 1
+    },
+    {
+      "label": "UDS+",
+      "definition": "Uniform Data System modernization using FHIR",
+      "terms": [
+        "UDS+",
+        "UDS+ Modernization"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Healthcare Payers and Plans": [
+    {
+      "label": "Health Plan",
+      "definition": "Organization providing health insurance coverage",
+      "terms": [
+        "health plan",
+        "health plans",
+        "health insurance",
+        "insurer",
+        "insurers",
+        "payer",
+        "payers"
+      ],
+      "mentionCount": 57
+    },
+    {
+      "label": "MCO",
+      "definition": "Managed Care Organization delivering healthcare through networks",
+      "terms": [
+        "MCO",
+        "MCOs",
+        "managed care organization",
+        "managed care organizations",
+        "managed care"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "PBM",
+      "definition": "Pharmacy Benefit Manager administering prescription drug programs",
+      "terms": [
+        "PBM",
+        "PBMs",
+        "pharmacy benefit manager",
+        "pharmacy benefit managers"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "LBM",
+      "definition": "Laboratory Benefit Manager administering lab test coverage",
+      "terms": [
+        "LBM",
+        "LBMs",
+        "laboratory benefit manager",
+        "laboratory benefit managers"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Healthcare Payment and Reimbursement": [
+    {
+      "label": "Value-Based Care",
+      "definition": "Payment models linking reimbursement to quality and outcomes",
+      "terms": [
+        "value-based care",
+        "VBC",
+        "value-based",
+        "value based care"
+      ],
+      "mentionCount": 35
+    },
+    {
+      "label": "CPT Codes",
+      "definition": "Current Procedural Terminology codes for billing medical services",
+      "terms": [
+        "CPT",
+        "CPT codes",
+        "CPT code",
+        "Current Procedural Terminology"
+      ],
+      "mentionCount": 21
+    },
+    {
+      "label": "Fee-for-Service",
+      "definition": "Payment model reimbursing providers for each service rendered",
+      "terms": [
+        "fee-for-service",
+        "FFS"
+      ],
+      "mentionCount": 19
+    },
+    {
+      "label": "Prior Authorization",
+      "definition": "Payer approval required before providing certain services",
+      "terms": [
+        "prior authorization",
+        "prior auth",
+        "PA",
+        "prior-authorization"
+      ],
+      "mentionCount": 19
+    },
+    {
+      "label": "PFS",
+      "definition": "Physician Fee Schedule, Medicare payment rates for physician services",
+      "terms": [
+        "PFS",
+        "Physician Fee Schedule",
+        "Medicare Physician Fee Schedule"
+      ],
+      "mentionCount": 8
+    },
+    {
+      "label": "APM",
+      "definition": "Alternative Payment Model, CMS payment arrangements beyond fee-for-service",
+      "terms": [
+        "APM",
+        "APMs",
+        "alternative payment model",
+        "alternative payment models"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "MIPS",
+      "definition": "Merit-Based Incentive Payment System for Medicare quality reporting",
+      "terms": [
+        "MIPS",
+        "Merit-Based Incentive Payment System"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "ACO",
+      "definition": "Accountable Care Organization, provider group sharing savings/risk",
+      "terms": [
+        "ACO",
+        "ACOs",
+        "Accountable Care Organization",
+        "Accountable Care Organizations"
+      ],
+      "mentionCount": 6
+    },
+    {
+      "label": "PLA Codes",
+      "definition": "Proprietary Laboratory Analyses codes for unique lab tests",
+      "terms": [
+        "PLA",
+        "PLA codes",
+        "Proprietary Laboratory Analyses",
+        "Proprietary Laboratory Analysis"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "Bundled Payment",
+      "definition": "Single payment for all services in an episode of care",
+      "terms": [
+        "bundled payment",
+        "bundled payments",
+        "episode-based payment"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "CLFS",
+      "definition": "Clinical Laboratory Fee Schedule, Medicare payment rates for lab tests",
+      "terms": [
+        "CLFS",
+        "Clinical Laboratory Fee Schedule"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "Medical Loss Ratio",
+      "definition": "Percentage of premiums spent on medical care vs administration",
+      "terms": [
+        "Medical Loss Ratio",
+        "MLR"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "NTAP",
+      "definition": "New Technology Add-on Payment for innovative hospital technologies",
+      "terms": [
+        "NTAP",
+        "New Technology Add-on Payment",
+        "technology add-on payments"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "Risk Adjustment",
+      "definition": "Payment adjustment based on patient health status and risk factors",
+      "terms": [
+        "risk adjustment",
+        "risk-adjustment",
+        "risk adjusted"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "Capitation",
+      "definition": "Fixed per-member payment regardless of services provided",
+      "terms": [
+        "capitation",
+        "capitated",
+        "capitated payment",
+        "PMPM",
+        "per member per month"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "FMAP",
+      "definition": "Federal Medical Assistance Percentage, federal Medicaid matching rate",
+      "terms": [
+        "FMAP",
+        "Federal Medical Assistance Percentage"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Healthcare Quality and Safety": [
+    {
+      "label": "Patient Safety",
+      "definition": "Prevention of errors and adverse effects in healthcare",
+      "terms": [
+        "patient safety"
+      ],
+      "mentionCount": 36
+    },
+    {
+      "label": "Adverse Event",
+      "definition": "Unintended harm to patient from medical care",
+      "terms": [
+        "adverse event",
+        "adverse events"
+      ],
+      "mentionCount": 18
+    },
+    {
+      "label": "Alert Fatigue",
+      "definition": "Desensitization to clinical alerts due to excessive notifications",
+      "terms": [
+        "alert fatigue"
+      ],
+      "mentionCount": 10
+    },
+    {
+      "label": "Quality Measure",
+      "definition": "Standardized metric for assessing healthcare quality",
+      "terms": [
+        "quality measure",
+        "quality measures",
+        "quality metrics"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "Conditions of Participation",
+      "definition": "CMS requirements for providers to participate in Medicare/Medicaid",
+      "terms": [
+        "Conditions of Participation",
+        "CoP"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "HEDIS",
+      "definition": "Healthcare Effectiveness Data and Information Set quality measures",
+      "terms": [
+        "HEDIS",
+        "Healthcare Effectiveness Data and Information Set"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "Patient-Reported Outcomes",
+      "definition": "Health outcomes reported directly by patients",
+      "terms": [
+        "patient-reported outcomes",
+        "PRO",
+        "PROs",
+        "patient reported outcomes"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "STAR Ratings",
+      "definition": "CMS quality rating system for Medicare Advantage plans",
+      "terms": [
+        "STAR ratings",
+        "STARs",
+        "Star ratings",
+        "Medicare Star ratings"
+      ],
+      "mentionCount": 3
+    }
+  ],
+  "Healthcare Workforce": [
+    {
+      "label": "Clinician Burnout",
+      "definition": "Physical and emotional exhaustion among healthcare providers",
+      "terms": [
+        "clinician burnout",
+        "physician burnout",
+        "burnout",
+        "provider burnout"
+      ],
+      "mentionCount": 27
+    },
+    {
+      "label": "Nurse",
+      "definition": "Licensed healthcare professional providing nursing care",
+      "terms": [
+        "nurse",
+        "nurses",
+        "nursing",
+        "RN",
+        "registered nurse"
+      ],
+      "mentionCount": 20
+    },
+    {
+      "label": "CIO",
+      "definition": "Chief Information Officer, executive leading IT strategy",
+      "terms": [
+        "CIO",
+        "Chief Information Officer"
+      ],
+      "mentionCount": 10
+    },
+    {
+      "label": "Radiologist",
+      "definition": "Physician specializing in medical imaging interpretation",
+      "terms": [
+        "radiologist",
+        "radiologists"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "CMO",
+      "definition": "Chief Medical Officer, senior physician executive",
+      "terms": [
+        "CMO",
+        "Chief Medical Officer"
+      ],
+      "mentionCount": 8
+    },
+    {
+      "label": "CMIO",
+      "definition": "Chief Medical Information Officer, physician leading health IT",
+      "terms": [
+        "CMIO",
+        "Chief Medical Information Officer"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "Pathologist",
+      "definition": "Physician specializing in laboratory diagnosis of disease",
+      "terms": [
+        "pathologist",
+        "pathologists"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "Pharmacist",
+      "definition": "Healthcare professional specializing in medication management",
+      "terms": [
+        "pharmacist",
+        "pharmacists"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "Care Manager",
+      "definition": "Professional coordinating patient care across settings",
+      "terms": [
+        "care manager",
+        "care managers",
+        "care coordinator",
+        "care coordinators"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "CISO",
+      "definition": "Chief Information Security Officer, executive leading cybersecurity",
+      "terms": [
+        "CISO",
+        "Chief Information Security Officer"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Community Health Worker",
+      "definition": "Frontline worker connecting communities to health services",
+      "terms": [
+        "community health worker",
+        "community health workers",
+        "CHW"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Psychiatrist",
+      "definition": "Physician specializing in mental health treatment",
+      "terms": [
+        "psychiatrist",
+        "psychiatrists"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Oncologist",
+      "definition": "Physician specializing in cancer treatment",
+      "terms": [
+        "oncologist",
+        "oncologists"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Liability and Legal Concepts": [
+    {
+      "label": "Safe Harbor",
+      "definition": "Legal protection from liability when meeting certain conditions",
+      "terms": [
+        "safe harbor",
+        "safe harbors"
+      ],
+      "mentionCount": 18
+    },
+    {
+      "label": "Indemnification",
+      "definition": "Contractual protection against liability or loss",
+      "terms": [
+        "indemnification",
+        "indemnity"
+      ],
+      "mentionCount": 17
+    },
+    {
+      "label": "Medical Malpractice",
+      "definition": "Legal liability for negligent medical care",
+      "terms": [
+        "medical malpractice",
+        "malpractice",
+        "malpractice liability"
+      ],
+      "mentionCount": 17
+    },
+    {
+      "label": "Standard of Care",
+      "definition": "Level of care a reasonable provider would deliver",
+      "terms": [
+        "standard of care"
+      ],
+      "mentionCount": 12
+    }
+  ],
+  "Medical Devices and Technology": [
+    {
+      "label": "Wearable Device",
+      "definition": "Technology worn on body to monitor health metrics",
+      "terms": [
+        "wearable",
+        "wearables",
+        "wearable device",
+        "wearable devices"
+      ],
+      "mentionCount": 11
+    },
+    {
+      "label": "CT Scan",
+      "definition": "Computed Tomography diagnostic imaging",
+      "terms": [
+        "CT scan",
+        "CT",
+        "computed tomography"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "MRI",
+      "definition": "Magnetic Resonance Imaging diagnostic scan",
+      "terms": [
+        "MRI",
+        "magnetic resonance imaging"
+      ],
+      "mentionCount": 6
+    },
+    {
+      "label": "CGM",
+      "definition": "Continuous Glucose Monitor for real-time blood sugar tracking",
+      "terms": [
+        "CGM",
+        "continuous glucose monitor",
+        "continuous glucose monitors",
+        "continuous glucose monitoring"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Insulin Pump",
+      "definition": "Device delivering continuous insulin for diabetes management",
+      "terms": [
+        "insulin pump",
+        "insulin pumps",
+        "automated insulin delivery"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Echocardiography",
+      "definition": "Ultrasound imaging of the heart",
+      "terms": [
+        "echocardiography",
+        "echocardiogram",
+        "echo"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Medical Specialties and Conditions": [
+    {
+      "label": "Behavioral Health",
+      "definition": "Mental health and substance use disorder treatment",
+      "terms": [
+        "behavioral health",
+        "mental health",
+        "behavioral healthcare"
+      ],
+      "mentionCount": 37
+    },
+    {
+      "label": "Chronic Disease",
+      "definition": "Long-lasting health conditions requiring ongoing management",
+      "terms": [
+        "chronic disease",
+        "chronic diseases",
+        "chronic conditions",
+        "chronic illness"
+      ],
+      "mentionCount": 19
+    },
+    {
+      "label": "Genomics",
+      "definition": "Study of genes and their functions in health and disease",
+      "terms": [
+        "genomics",
+        "genomic",
+        "genetic",
+        "genetics"
+      ],
+      "mentionCount": 17
+    },
+    {
+      "label": "Diabetes",
+      "definition": "Chronic condition affecting blood sugar regulation",
+      "terms": [
+        "diabetes",
+        "diabetic"
+      ],
+      "mentionCount": 13
+    },
+    {
+      "label": "Oncology",
+      "definition": "Medical specialty focused on cancer diagnosis and treatment",
+      "terms": [
+        "oncology",
+        "cancer care"
+      ],
+      "mentionCount": 11
+    },
+    {
+      "label": "Sepsis",
+      "definition": "Life-threatening response to infection",
+      "terms": [
+        "sepsis"
+      ],
+      "mentionCount": 10
+    },
+    {
+      "label": "Anxiety",
+      "definition": "Mental health condition characterized by excessive worry",
+      "terms": [
+        "anxiety",
+        "anxiety disorder"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "Depression",
+      "definition": "Mental health condition characterized by persistent sadness",
+      "terms": [
+        "depression",
+        "depressive disorder",
+        "major depression"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "Substance Use Disorder",
+      "definition": "Medical condition involving problematic substance use",
+      "terms": [
+        "substance use disorder",
+        "SUD",
+        "substance abuse",
+        "addiction"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "Cardiology",
+      "definition": "Medical specialty focused on heart and cardiovascular system",
+      "terms": [
+        "cardiology",
+        "cardiovascular",
+        "cardiac"
+      ],
+      "mentionCount": 6
+    },
+    {
+      "label": "Diabetic Retinopathy",
+      "definition": "Diabetes complication affecting eyes",
+      "terms": [
+        "diabetic retinopathy"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "Heart Failure",
+      "definition": "Condition where heart cannot pump blood effectively",
+      "terms": [
+        "heart failure",
+        "congestive heart failure",
+        "CHF"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "Parkinson's Disease",
+      "definition": "Progressive neurological disorder affecting movement",
+      "terms": [
+        "Parkinson's disease",
+        "PD",
+        "Parkinson disease",
+        "Parkinsons"
+      ],
+      "mentionCount": 3
+    },
+    {
+      "label": "Maternal Health",
+      "definition": "Healthcare related to pregnancy and childbirth",
+      "terms": [
+        "maternal health",
+        "maternal",
+        "obstetrics",
+        "perinatal"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Type 1 Diabetes",
+      "definition": "Autoimmune form of diabetes requiring insulin",
+      "terms": [
+        "Type 1 diabetes",
+        "T1D",
+        "type 1 diabetic"
+      ],
+      "mentionCount": 2
+    }
+  ],
+  "Patient Engagement": [
+    {
+      "label": "Caregiver",
+      "definition": "Person providing care and support to a patient",
+      "terms": [
+        "caregiver",
+        "caregivers",
+        "care partner",
+        "care partners"
+      ],
+      "mentionCount": 48
+    },
+    {
+      "label": "Patient Experience",
+      "definition": "Patient perceptions of their healthcare interactions",
+      "terms": [
+        "patient experience",
+        "patient satisfaction"
+      ],
+      "mentionCount": 17
+    },
+    {
+      "label": "Patient Engagement",
+      "definition": "Involving patients actively in their healthcare decisions",
+      "terms": [
+        "patient engagement",
+        "member engagement"
+      ],
+      "mentionCount": 12
+    },
+    {
+      "label": "Informed Consent",
+      "definition": "Patient agreement to treatment after understanding risks",
+      "terms": [
+        "informed consent"
+      ],
+      "mentionCount": 10
+    },
+    {
+      "label": "Shared Decision Making",
+      "definition": "Collaborative approach between patients and providers",
+      "terms": [
+        "shared decision making",
+        "shared decision-making"
+      ],
+      "mentionCount": 9
+    },
+    {
+      "label": "Patient Portal",
+      "definition": "Online platform for patients to access health information",
+      "terms": [
+        "patient portal",
+        "patient portals"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Research and Evidence": [
+    {
+      "label": "Clinical Trial",
+      "definition": "Research study testing medical interventions in humans",
+      "terms": [
+        "clinical trial",
+        "clinical trials",
+        "trial"
+      ],
+      "mentionCount": 29
+    },
+    {
+      "label": "Evidence-Based Medicine",
+      "definition": "Clinical practice based on best available research evidence",
+      "terms": [
+        "evidence-based medicine",
+        "EBM",
+        "evidence-based",
+        "evidence based"
+      ],
+      "mentionCount": 28
+    },
+    {
+      "label": "Real-World Evidence",
+      "definition": "Evidence from data collected outside clinical trials",
+      "terms": [
+        "real-world evidence",
+        "RWE",
+        "real world evidence"
+      ],
+      "mentionCount": 18
+    },
+    {
+      "label": "Implementation Science",
+      "definition": "Study of methods to promote adoption of research findings",
+      "terms": [
+        "implementation science"
+      ],
+      "mentionCount": 16
+    },
+    {
+      "label": "CRADA",
+      "definition": "Cooperative Research and Development Agreement",
+      "terms": [
+        "CRADA",
+        "CRADAs",
+        "Cooperative Research and Development Agreement"
+      ],
+      "mentionCount": 11
+    },
+    {
+      "label": "Systematic Review",
+      "definition": "Comprehensive analysis of all relevant research studies",
+      "terms": [
+        "systematic review",
+        "systematic reviews"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "SBIR",
+      "definition": "Small Business Innovation Research federal grant program",
+      "terms": [
+        "SBIR",
+        "Small Business Innovation Research"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "RCT",
+      "definition": "Randomized Controlled Trial, gold standard research design",
+      "terms": [
+        "RCT",
+        "randomized controlled trial",
+        "randomized controlled trials"
+      ],
+      "mentionCount": 3
+    }
+  ],
+  "Social Determinants of Health": [
+    {
+      "label": "Health Equity",
+      "definition": "Fair opportunity for everyone to attain full health potential",
+      "terms": [
+        "health equity",
+        "equity",
+        "health disparities",
+        "disparities"
+      ],
+      "mentionCount": 49
+    },
+    {
+      "label": "SDOH",
+      "definition": "Social Determinants of Health affecting patient outcomes",
+      "terms": [
+        "SDOH",
+        "social determinants of health",
+        "social determinants"
+      ],
+      "mentionCount": 14
+    },
+    {
+      "label": "Housing Instability",
+      "definition": "Lack of stable, safe, and affordable housing",
+      "terms": [
+        "housing instability",
+        "housing stability",
+        "housing insecurity"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Transportation Access",
+      "definition": "Ability to access transportation for healthcare",
+      "terms": [
+        "transportation access",
+        "transportation barriers"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "Food Insecurity",
+      "definition": "Lack of consistent access to adequate food",
+      "terms": [
+        "food insecurity",
+        "food insecure"
+      ],
+      "mentionCount": 1
+    }
+  ],
+  "Standards Organizations": [
+    {
+      "label": "AMA",
+      "definition": "American Medical Association, physician professional organization",
+      "terms": [
+        "AMA",
+        "American Medical Association"
+      ],
+      "mentionCount": 14
+    },
+    {
+      "label": "ISO",
+      "definition": "International Organization for Standardization",
+      "terms": [
+        "ISO",
+        "International Organization for Standardization"
+      ],
+      "mentionCount": 7
+    },
+    {
+      "label": "IEEE",
+      "definition": "Institute of Electrical and Electronics Engineers",
+      "terms": [
+        "IEEE",
+        "Institute of Electrical and Electronics Engineers"
+      ],
+      "mentionCount": 5
+    },
+    {
+      "label": "ANSI",
+      "definition": "American National Standards Institute",
+      "terms": [
+        "ANSI",
+        "American National Standards Institute"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "ECRI Institute",
+      "definition": "Independent nonprofit improving healthcare safety and quality",
+      "terms": [
+        "ECRI",
+        "ECRI Institute"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "Joint Commission",
+      "definition": "Healthcare accreditation organization",
+      "terms": [
+        "Joint Commission",
+        "The Joint Commission",
+        "JCAHO"
+      ],
+      "mentionCount": 4
+    },
+    {
+      "label": "NCQA",
+      "definition": "National Committee for Quality Assurance",
+      "terms": [
+        "NCQA",
+        "National Committee for Quality Assurance"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "URAC",
+      "definition": "Healthcare accreditation organization (formerly Utilization Review Accreditation Commission)",
+      "terms": [
+        "URAC"
+      ],
+      "mentionCount": 2
+    },
+    {
+      "label": "EHNAC",
+      "definition": "Electronic Healthcare Network Accreditation Commission",
+      "terms": [
+        "EHNAC",
+        "Electronic Healthcare Network Accreditation Commission"
+      ],
+      "mentionCount": 1
+    }
+  ]
+}

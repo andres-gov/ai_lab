@@ -1,0 +1,2200 @@
+{
+  "summary": {
+    "totalClusters": 168,
+    "totalCommentsClustered": 168,
+    "singletons": 168,
+    "largestClusterSize": 1,
+    "distribution": [
+      {
+        "cluster_size": 1,
+        "count": 168
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "id": 1,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0012",
+      "members": [
+        "HHS-ONC-2026-0001-0012"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Sancian LLC",
+        "snippetPreview": "SANCIAN LLC submits the attached response to HHS&#39;s Request for Information on accelerating AI ad..."
+      }
+    },
+    {
+      "id": 2,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0023",
+      "members": [
+        "HHS-ONC-2026-0001-0023"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Association of periOperative Registered Nurses (AORN)",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 3,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0021",
+      "members": [
+        "HHS-ONC-2026-0001-0021"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Scientific Knowledge Accelerator Foundation",
+        "snippetPreview": "Regarding feedback on how current HHS regulations impact AI adoption and use for clinical care:<br/>..."
+      }
+    },
+    {
+      "id": 4,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0024",
+      "members": [
+        "HHS-ONC-2026-0001-0024"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 5,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0004",
+      "members": [
+        "HHS-ONC-2026-0001-0004"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Dear Mr. Posnack: In response to HHS&rsquo;s request for information (RFI) concerning suggestions fo..."
+      }
+    },
+    {
+      "id": 6,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0006",
+      "members": [
+        "HHS-ONC-2026-0001-0006"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 7,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0033",
+      "members": [
+        "HHS-ONC-2026-0001-0033"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "HealthScoreAI, Inc.",
+        "snippetPreview": "RE:<span style='padding-left: 30px'></span>HHS Health Sector AI RFI<br/>RIN 0955-AA13<br/>Request fo..."
+      }
+    },
+    {
+      "id": 8,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0028",
+      "members": [
+        "HHS-ONC-2026-0001-0028"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "1. Regulatory Visibility: Addressing the &quot;Encrypted Blind Spot&quot;<br/>Context: The Importanc..."
+      }
+    },
+    {
+      "id": 9,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0031",
+      "members": [
+        "HHS-ONC-2026-0001-0031"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "ScriptChain Health",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 10,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0017",
+      "members": [
+        "HHS-ONC-2026-0001-0017"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am dermatologist whose research specializes in artificial intelligence applications in clinical ca..."
+      }
+    },
+    {
+      "id": 11,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0016",
+      "members": [
+        "HHS-ONC-2026-0001-0016"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 12,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0042",
+      "members": [
+        "HHS-ONC-2026-0001-0042"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Advanced Interactive Technology Holdings LLC",
+        "snippetPreview": "Raynold Gallego <br/>Advanced Interactive Technology Holdings LLC<br/>admin@aitechholdings.com<br/>L..."
+      }
+    },
+    {
+      "id": 13,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0039",
+      "members": [
+        "HHS-ONC-2026-0001-0039"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "BlueHalo, LLC, an AV Company",
+        "snippetPreview": "This response highlights systemic barriers that limit the safe, scalable adoption of artificial inte..."
+      }
+    },
+    {
+      "id": 14,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0044",
+      "members": [
+        "HHS-ONC-2026-0001-0044"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "The University of Kansas Health System",
+        "snippetPreview": "The University of Kansas Health System is pleased to provide feedback on the HHS strategy for AI ado..."
+      }
+    },
+    {
+      "id": 15,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0036",
+      "members": [
+        "HHS-ONC-2026-0001-0036"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "1.<span style='padding-left: 30px'></span>What are the biggest barriers to private sector innovation..."
+      }
+    },
+    {
+      "id": 16,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0045",
+      "members": [
+        "HHS-ONC-2026-0001-0045"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Ellipsis Health",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 17,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0064",
+      "members": [
+        "HHS-ONC-2026-0001-0064"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Cyberhill Partners",
+        "snippetPreview": "Comment for Federal Register Submission &mdash; RIN 0955-AA13<br/><br/>Cyberhill Partners, LLC., in ..."
+      }
+    },
+    {
+      "id": 18,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0053",
+      "members": [
+        "HHS-ONC-2026-0001-0053"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "My recommendation would be to use AI to screen for red flags for patients needing orthopedic care. I..."
+      }
+    },
+    {
+      "id": 19,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0060",
+      "members": [
+        "HHS-ONC-2026-0001-0060"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Citizens' Council For Health Freedom",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 20,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0054",
+      "members": [
+        "HHS-ONC-2026-0001-0054"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Glacis Technologies",
+        "snippetPreview": "Thank you for the opportunity to comment on this important issue. Healthcare organizations currently..."
+      }
+    },
+    {
+      "id": 21,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0061",
+      "members": [
+        "HHS-ONC-2026-0001-0061"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "CommonSpirit Health",
+        "snippetPreview": "Please see comments from CommonSpirit Health attached."
+      }
+    },
+    {
+      "id": 22,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0104",
+      "members": [
+        "HHS-ONC-2026-0001-0104"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Here&#39;s a condensed version in your voice:<br/><br/>Public Comment: RIN 0955&ndash;AA13 &mdash; A..."
+      }
+    },
+    {
+      "id": 23,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0088",
+      "members": [
+        "HHS-ONC-2026-0001-0088"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "MediView XR, Inc.",
+        "snippetPreview": "February 18, 2026<br/><br/>The Honorable Robert F. Kennedy, Jr.<br/>Secretary<br/>Department of Heal..."
+      }
+    },
+    {
+      "id": 24,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0083",
+      "members": [
+        "HHS-ONC-2026-0001-0083"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Pair Team",
+        "snippetPreview": "Pair Team appreciates the opportunity to respond to this RFI and commends HHS for its leadership in ..."
+      }
+    },
+    {
+      "id": 25,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0072",
+      "members": [
+        "HHS-ONC-2026-0001-0072"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Urological Association (AUA)",
+        "snippetPreview": "The American Urological Association (AUA) submits the attached response to HHS&#39;s Request for Inf..."
+      }
+    },
+    {
+      "id": 26,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0082",
+      "members": [
+        "HHS-ONC-2026-0001-0082"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "COGA Labs is an AI health technology company developing real-time stress detection tools using smart..."
+      }
+    },
+    {
+      "id": 27,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0085",
+      "members": [
+        "HHS-ONC-2026-0001-0085"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Health Information Management Association (AHIMA)",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 28,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0081",
+      "members": [
+        "HHS-ONC-2026-0001-0081"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Academy of Neurology",
+        "snippetPreview": "Please see the attached for comments from the American Academy of Neurology (AAN)"
+      }
+    },
+    {
+      "id": 29,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0078",
+      "members": [
+        "HHS-ONC-2026-0001-0078"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Society of Hematology",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 30,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0090",
+      "members": [
+        "HHS-ONC-2026-0001-0090"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "SanLuca AI",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 31,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0094",
+      "members": [
+        "HHS-ONC-2026-0001-0094"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American College of Cardiology",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 32,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0106",
+      "members": [
+        "HHS-ONC-2026-0001-0106"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "As a practicing psychologist, I&#39;m commenting in favor of strict regulation on the use of AI in m..."
+      }
+    },
+    {
+      "id": 33,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0111",
+      "members": [
+        "HHS-ONC-2026-0001-0111"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "There r no guardrails to insure safety and privacy for Ai in mental health applications. I am advoca..."
+      }
+    },
+    {
+      "id": 34,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0113",
+      "members": [
+        "HHS-ONC-2026-0001-0113"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "University of Pennsylvania, Neurovascular and Endovascular Research Team (NeuroVERT)",
+        "snippetPreview": "See attached file(s)."
+      }
+    },
+    {
+      "id": 35,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0099",
+      "members": [
+        "HHS-ONC-2026-0001-0099"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Academy of Physician Associates",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 36,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0126",
+      "members": [
+        "HHS-ONC-2026-0001-0126"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Ethical, humane and highly- regulated and evidence-based psychotherapeutic models and services must ..."
+      }
+    },
+    {
+      "id": 37,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0142",
+      "members": [
+        "HHS-ONC-2026-0001-0142"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Dental Association",
+        "snippetPreview": "The American Dental Association is pleased to submit the attached comments in response to the reques..."
+      }
+    },
+    {
+      "id": 38,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0136",
+      "members": [
+        "HHS-ONC-2026-0001-0136"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Health Level Seven (HL7) International",
+        "snippetPreview": "Please see attached the comments of Health Level Seven (HL7) International on the HHS Health Sector ..."
+      }
+    },
+    {
+      "id": 39,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0123",
+      "members": [
+        "HHS-ONC-2026-0001-0123"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Massachusetts Health & Hospital Association",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 40,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0158",
+      "members": [
+        "HHS-ONC-2026-0001-0158"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "InterSystems Corporation",
+        "snippetPreview": "See attached file(s)<br/><br/>Department of Health and Human Services (HHS)<br/>in collaboration wit..."
+      }
+    },
+    {
+      "id": 41,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0140",
+      "members": [
+        "HHS-ONC-2026-0001-0140"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Society for Immunotherapy of Cancer (SITC)",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 42,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0134",
+      "members": [
+        "HHS-ONC-2026-0001-0134"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Digital Pathology Association",
+        "snippetPreview": "On behalf of the Digital Pathology Association (&ldquo;DPA&rdquo;), please accept the attached comme..."
+      }
+    },
+    {
+      "id": 43,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0131",
+      "members": [
+        "HHS-ONC-2026-0001-0131"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Hackensack Meridian Health",
+        "snippetPreview": "On behalf of Hackensack Meridian Health (HMH), we thank you for the opportunity to comment on  the D..."
+      }
+    },
+    {
+      "id": 44,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0143",
+      "members": [
+        "HHS-ONC-2026-0001-0143"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Leap Orbit",
+        "snippetPreview": "Please see attached response. "
+      }
+    },
+    {
+      "id": 45,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0138",
+      "members": [
+        "HHS-ONC-2026-0001-0138"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "VieCure",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 46,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0144",
+      "members": [
+        "HHS-ONC-2026-0001-0144"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Penguin Ai",
+        "snippetPreview": "Dear Secretary Kennedy and Assistant Secretary Posnack,<br/><br/>Penguin Ai appreciates the opportun..."
+      }
+    },
+    {
+      "id": 47,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0153",
+      "members": [
+        "HHS-ONC-2026-0001-0153"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Federation of State, County and Municipal Employees (AFSCME)",
+        "snippetPreview": "Attached."
+      }
+    },
+    {
+      "id": 48,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0128",
+      "members": [
+        "HHS-ONC-2026-0001-0128"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Mosaic Life Tech, LLC",
+        "snippetPreview": "Please see the attached document for Mosaic Life Tech&#39;s response to the HHS Health Sector AI RFI..."
+      }
+    },
+    {
+      "id": 49,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0168",
+      "members": [
+        "HHS-ONC-2026-0001-0168"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": " In response to HHS&rsquo;s request for information (RFI) concerning suggestions for Accelerating th..."
+      }
+    },
+    {
+      "id": 50,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0163",
+      "members": [
+        "HHS-ONC-2026-0001-0163"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Waymark, Inc.",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 51,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0167",
+      "members": [
+        "HHS-ONC-2026-0001-0167"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "A comprehensive federal regulatory framework for AI in healthcare is urgently needed. Unlike medical..."
+      }
+    },
+    {
+      "id": 52,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0165",
+      "members": [
+        "HHS-ONC-2026-0001-0165"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "As a mental health professional, I support the Psychotherapy Action Network&rsquo;s (PsiAN) call for..."
+      }
+    },
+    {
+      "id": 53,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0019",
+      "members": [
+        "HHS-ONC-2026-0001-0019"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Dear Mr. Posnack and ASTP Policy Staff:<br/><br/>In response to the ASTP/ONC Request for Information..."
+      }
+    },
+    {
+      "id": 54,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0008",
+      "members": [
+        "HHS-ONC-2026-0001-0008"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "An effective way to promote innovation &amp; effective usage of AI in the medical field would be for..."
+      }
+    },
+    {
+      "id": 55,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0002",
+      "members": [
+        "HHS-ONC-2026-0001-0002"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Onboard AI",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 56,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0010",
+      "members": [
+        "HHS-ONC-2026-0001-0010"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "This comment proposes a model-agnostic, non-device protocol for governing clinical and administrativ..."
+      }
+    },
+    {
+      "id": 57,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0030",
+      "members": [
+        "HHS-ONC-2026-0001-0030"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "UConn Health",
+        "snippetPreview": "Thank you for considering these comments and for your commitment to advancing AI in ways that enhanc..."
+      }
+    },
+    {
+      "id": 58,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0055",
+      "members": [
+        "HHS-ONC-2026-0001-0055"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am very interested in resolving innumerable inefficiencies in our present health care system.  I a..."
+      }
+    },
+    {
+      "id": 59,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0051",
+      "members": [
+        "HHS-ONC-2026-0001-0051"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Current AI systems process healthcare data in plaintext during inference. While encryption technolog..."
+      }
+    },
+    {
+      "id": 60,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0052",
+      "members": [
+        "HHS-ONC-2026-0001-0052"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Following my patent regarding personal medical records, AI can be employed individually on a single ..."
+      }
+    },
+    {
+      "id": 61,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0049",
+      "members": [
+        "HHS-ONC-2026-0001-0049"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Cooperative Exchange, The National Clearinghouse Association",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 62,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0059",
+      "members": [
+        "HHS-ONC-2026-0001-0059"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "This submission supplements my prior comment (Submission ID: 0010)."
+      }
+    },
+    {
+      "id": 63,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0057",
+      "members": [
+        "HHS-ONC-2026-0001-0057"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Dental Standards Institute",
+        "snippetPreview": "Dental Standards Institute (DSI) submits this comment in response to the HHS Request for Information..."
+      }
+    },
+    {
+      "id": 64,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0065",
+      "members": [
+        "HHS-ONC-2026-0001-0065"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "HHS, CMS, FEMA, FBI, ASTP/ONC and ASPR should consider a cross sector and cross agency AI interopera..."
+      }
+    },
+    {
+      "id": 65,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0026",
+      "members": [
+        "HHS-ONC-2026-0001-0026"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am submitting this comment as someone who works as a frontline clinician. My experience with AI in..."
+      }
+    },
+    {
+      "id": 66,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0035",
+      "members": [
+        "HHS-ONC-2026-0001-0035"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Hi my name is Brian Graham aka Cosmicraftsman I am an artist from Perth Western Australia and a crea..."
+      }
+    },
+    {
+      "id": 67,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0043",
+      "members": [
+        "HHS-ONC-2026-0001-0043"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am submitting this public comment in response to the Department of Health and Human Services Reque..."
+      }
+    },
+    {
+      "id": 68,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0041",
+      "members": [
+        "HHS-ONC-2026-0001-0041"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Intersocietal Accreditation Commission",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 69,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0040",
+      "members": [
+        "HHS-ONC-2026-0001-0040"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "National Multiple Sclerosis Society",
+        "snippetPreview": "Please see the attached for comments from the National Multiple Sclerosis Society"
+      }
+    },
+    {
+      "id": 70,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0038",
+      "members": [
+        "HHS-ONC-2026-0001-0038"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "ShiftOS",
+        "snippetPreview": "Dear Mr. Posnack,<br/><br/>ShiftOS is a healthcare technology company building AI-powered workforce ..."
+      }
+    },
+    {
+      "id": 71,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0047",
+      "members": [
+        "HHS-ONC-2026-0001-0047"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Global Liver Institute",
+        "snippetPreview": "See attached file"
+      }
+    },
+    {
+      "id": 72,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0122",
+      "members": [
+        "HHS-ONC-2026-0001-0122"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "New Jersey Innovation Institute",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 73,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0121",
+      "members": [
+        "HHS-ONC-2026-0001-0121"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "WellSpan Health",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 74,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0146",
+      "members": [
+        "HHS-ONC-2026-0001-0146"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "1upHealth",
+        "snippetPreview": "Good AI relies on good data. CMS payment policies should focus on data fluidity with robust privacy ..."
+      }
+    },
+    {
+      "id": 75,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0154",
+      "members": [
+        "HHS-ONC-2026-0001-0154"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Health IT End-Users Alliance",
+        "snippetPreview": "Please see attached for comments from the Health IT End-Users Alliance. "
+      }
+    },
+    {
+      "id": 76,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0133",
+      "members": [
+        "HHS-ONC-2026-0001-0133"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Pennsylvania Medical Society",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 77,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0132",
+      "members": [
+        "HHS-ONC-2026-0001-0132"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "This comment recommends that HHS establish minimum decision-logging standards for high-impact, non-d..."
+      }
+    },
+    {
+      "id": 78,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0141",
+      "members": [
+        "HHS-ONC-2026-0001-0141"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Community Care Cooperative",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 79,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0149",
+      "members": [
+        "HHS-ONC-2026-0001-0149"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "ICF",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 80,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0155",
+      "members": [
+        "HHS-ONC-2026-0001-0155"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Academy of Sleep Medicine",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 81,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0125",
+      "members": [
+        "HHS-ONC-2026-0001-0125"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Scientix.ai Inc",
+        "snippetPreview": "Scientix.ai Inc. submits the attached response to selected questions in this RFI, drawing on our exp..."
+      }
+    },
+    {
+      "id": 82,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0137",
+      "members": [
+        "HHS-ONC-2026-0001-0137"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American College of Radiology (ACR)",
+        "snippetPreview": "Please see the attached comments from the American College of Radiology (ACR) regarding Docket No. R..."
+      }
+    },
+    {
+      "id": 83,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0129",
+      "members": [
+        "HHS-ONC-2026-0001-0129"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Kooth",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 84,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0157",
+      "members": [
+        "HHS-ONC-2026-0001-0157"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Providence / Providence St. Joseph Health",
+        "snippetPreview": "Providence is grateful for the opportunity to provide feedback in response on Accelerating the Adopt..."
+      }
+    },
+    {
+      "id": 85,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0127",
+      "members": [
+        "HHS-ONC-2026-0001-0127"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Epic Systems",
+        "snippetPreview": "Please see attached."
+      }
+    },
+    {
+      "id": 86,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0156",
+      "members": [
+        "HHS-ONC-2026-0001-0156"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "MHK",
+        "snippetPreview": "Attached, please find MHK&#39;s official comment letter."
+      }
+    },
+    {
+      "id": 87,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0148",
+      "members": [
+        "HHS-ONC-2026-0001-0148"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 88,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0145",
+      "members": [
+        "HHS-ONC-2026-0001-0145"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "ECRI",
+        "snippetPreview": "Attached are comments from ECRI on accelerating the use of AI in clinical care."
+      }
+    },
+    {
+      "id": 89,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0150",
+      "members": [
+        "HHS-ONC-2026-0001-0150"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 90,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0151",
+      "members": [
+        "HHS-ONC-2026-0001-0151"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 91,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0166",
+      "members": [
+        "HHS-ONC-2026-0001-0166"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Clinical Laboratory Association",
+        "snippetPreview": "On behalf of the American Clinical Laboratory Association (ACLA), thank you for the opportunity to p..."
+      }
+    },
+    {
+      "id": 92,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0161",
+      "members": [
+        "HHS-ONC-2026-0001-0161"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Heart Failure Society of America (HFSA)",
+        "snippetPreview": "On behalf of the Heart Failure Society of America (HFSA), thank you for the opportunity to provide i..."
+      }
+    },
+    {
+      "id": 93,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0130",
+      "members": [
+        "HHS-ONC-2026-0001-0130"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "This technology has not been studied in a responsible manner, as one would for any &quot;health&quot..."
+      }
+    },
+    {
+      "id": 94,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0160",
+      "members": [
+        "HHS-ONC-2026-0001-0160"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am writing to express serious concerns regarding the proposed acceleration of artificial intellige..."
+      }
+    },
+    {
+      "id": 95,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0091",
+      "members": [
+        "HHS-ONC-2026-0001-0091"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Atropos Health",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 96,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0086",
+      "members": [
+        "HHS-ONC-2026-0001-0086"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Psychotherapy Action Network",
+        "snippetPreview": "Psychotherapy Action Network (PsiAN) respectfully submits the attached comment in response to HHS RF..."
+      }
+    },
+    {
+      "id": 97,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0093",
+      "members": [
+        "HHS-ONC-2026-0001-0093"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Echo IQ, Inc",
+        "snippetPreview": "February 18, 2026<br/>Dr. Thomas Keane, MD, MBA<br/>Assistant Secretary for Technology Policy<br/>Of..."
+      }
+    },
+    {
+      "id": 98,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0095",
+      "members": [
+        "HHS-ONC-2026-0001-0095"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "InStride Health",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 99,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0076",
+      "members": [
+        "HHS-ONC-2026-0001-0076"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Computing Research Associaton",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 100,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0089",
+      "members": [
+        "HHS-ONC-2026-0001-0089"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "MEDvidi",
+        "snippetPreview": "Medvidi, Inc. welcomes the opportunity to provide input on this important Request for Information is..."
+      }
+    },
+    {
+      "id": 101,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0077",
+      "members": [
+        "HHS-ONC-2026-0001-0077"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Santa Clara University's Markkula Center for Applied Ethics",
+        "snippetPreview": "Santa Clara University&#39;s Markkula Center for Applied Ethics"
+      }
+    },
+    {
+      "id": 102,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0075",
+      "members": [
+        "HHS-ONC-2026-0001-0075"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Cellworks",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 103,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0118",
+      "members": [
+        "HHS-ONC-2026-0001-0118"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am writing as a mental health provider and parent to reiterate PsiAN&#39;s statement on the use of..."
+      }
+    },
+    {
+      "id": 104,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0112",
+      "members": [
+        "HHS-ONC-2026-0001-0112"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Story after story emerges about the dangers of using AI for mental health difficulties. It&#39;s sho..."
+      }
+    },
+    {
+      "id": 105,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0119",
+      "members": [
+        "HHS-ONC-2026-0001-0119"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Hello, I am a retired Marriage and Family Therapist from California. I practiced psychoanalytic psyc..."
+      }
+    },
+    {
+      "id": 106,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0109",
+      "members": [
+        "HHS-ONC-2026-0001-0109"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "As a Licensed Clinical Professional Counselor in Illinois, I am very concerned about the use of AI i..."
+      }
+    },
+    {
+      "id": 107,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0105",
+      "members": [
+        "HHS-ONC-2026-0001-0105"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "PINC",
+        "snippetPreview": "If anything, AI development should be slowed and research and ethical guidelines for use, in particu..."
+      }
+    },
+    {
+      "id": 108,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0097",
+      "members": [
+        "HHS-ONC-2026-0001-0097"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Academy of Dermatology Association",
+        "snippetPreview": "See attached file"
+      }
+    },
+    {
+      "id": 109,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0102",
+      "members": [
+        "HHS-ONC-2026-0001-0102"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "The Interstitial Institute",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 110,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0098",
+      "members": [
+        "HHS-ONC-2026-0001-0098"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Society of Retina Specialists",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 111,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0101",
+      "members": [
+        "HHS-ONC-2026-0001-0101"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Memorial Sloan Kettering Cancer Center",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 112,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0015",
+      "members": [
+        "HHS-ONC-2026-0001-0015"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Lumenex Advisory",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 113,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0018",
+      "members": [
+        "HHS-ONC-2026-0001-0018"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 114,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0025",
+      "members": [
+        "HHS-ONC-2026-0001-0025"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "This is a Request for Information (which functions like a proposed rule invitation for public input)..."
+      }
+    },
+    {
+      "id": 115,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0027",
+      "members": [
+        "HHS-ONC-2026-0001-0027"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Tapestryhealth",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 116,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0020",
+      "members": [
+        "HHS-ONC-2026-0001-0020"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Pictor Labs Inc",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 117,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0022",
+      "members": [
+        "HHS-ONC-2026-0001-0022"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Interstella",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 118,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0011",
+      "members": [
+        "HHS-ONC-2026-0001-0011"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "EHY Consulting LLC",
+        "snippetPreview": "These comments are submitted in alignment with the HHS Artificial Intelligence Strategy and respond ..."
+      }
+    },
+    {
+      "id": 119,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0013",
+      "members": [
+        "HHS-ONC-2026-0001-0013"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Re: RFI &mdash; Accelerating AI Adoption in Clinical Care &mdash; Governance Must Include Enforceabl..."
+      }
+    },
+    {
+      "id": 120,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0014",
+      "members": [
+        "HHS-ONC-2026-0001-0014"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Ferz.AI",
+        "snippetPreview": "A deterministic AI governance model will accelerate the adoption of AI in Clinical care. This will i..."
+      }
+    },
+    {
+      "id": 121,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0029",
+      "members": [
+        "HHS-ONC-2026-0001-0029"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Van Pelt & Company, LLC",
+        "snippetPreview": "HHS Health Sector AI RFI"
+      }
+    },
+    {
+      "id": 122,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0058",
+      "members": [
+        "HHS-ONC-2026-0001-0058"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "HHS, CMS, ASTP/ONC, and the NLM should look at the evolution of FHIR APIs with AI to align with grap..."
+      }
+    },
+    {
+      "id": 123,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0048",
+      "members": [
+        "HHS-ONC-2026-0001-0048"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Association for Diagnostics & Laboratory Medicine",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 124,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0056",
+      "members": [
+        "HHS-ONC-2026-0001-0056"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "URAC",
+        "snippetPreview": "Please see attached file"
+      }
+    },
+    {
+      "id": 125,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0032",
+      "members": [
+        "HHS-ONC-2026-0001-0032"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am a high-functioning American on SSI with a chronic heart arrhythmia. Passive AI is a barrier to ..."
+      }
+    },
+    {
+      "id": 126,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0007",
+      "members": [
+        "HHS-ONC-2026-0001-0007"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 127,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0009",
+      "members": [
+        "HHS-ONC-2026-0001-0009"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Massive Bio",
+        "snippetPreview": "This submission responds to the HHS Request for Information on accelerating adoption of artificial i..."
+      }
+    },
+    {
+      "id": 128,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0005",
+      "members": [
+        "HHS-ONC-2026-0001-0005"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Health AI Institute",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 129,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0003",
+      "members": [
+        "HHS-ONC-2026-0001-0003"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am submitting an attached written comment titled &ldquo;Patient-Designated Longitudinal Routing to..."
+      }
+    },
+    {
+      "id": 130,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0034",
+      "members": [
+        "HHS-ONC-2026-0001-0034"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "This comment describes an emerging interoperability challenge as healthcare data exchange increasing..."
+      }
+    },
+    {
+      "id": 131,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0037",
+      "members": [
+        "HHS-ONC-2026-0001-0037"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Radiology Business Management Association",
+        "snippetPreview": "Radiology Business Management Association provides comment on RIN 0955-AA13.  Accelerating adoption ..."
+      }
+    },
+    {
+      "id": 132,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0046",
+      "members": [
+        "HHS-ONC-2026-0001-0046"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Logos Research Centre",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 133,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0063",
+      "members": [
+        "HHS-ONC-2026-0001-0063"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 134,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0066",
+      "members": [
+        "HHS-ONC-2026-0001-0066"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "PeriGen",
+        "snippetPreview": "Please see the attached response from PeriGen."
+      }
+    },
+    {
+      "id": 135,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0050",
+      "members": [
+        "HHS-ONC-2026-0001-0050"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Bethany R. Russell, Ph.D., P.A.",
+        "snippetPreview": "See attached file(s).<br/><br/>"
+      }
+    },
+    {
+      "id": 136,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0062",
+      "members": [
+        "HHS-ONC-2026-0001-0062"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I appreciate the opportunity to comment on the agency&rsquo;s request for input on accelerating adop..."
+      }
+    },
+    {
+      "id": 137,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0139",
+      "members": [
+        "HHS-ONC-2026-0001-0139"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "National Council for Mental Wellbeing",
+        "snippetPreview": "Please see comment attached, thank you for your review and consideration."
+      }
+    },
+    {
+      "id": 138,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0159",
+      "members": [
+        "HHS-ONC-2026-0001-0159"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Parkinson Disease Association",
+        "snippetPreview": "The American Parkinson Disease Association submits the attached response to HHS&#39;s Request for In..."
+      }
+    },
+    {
+      "id": 139,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0152",
+      "members": [
+        "HHS-ONC-2026-0001-0152"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "NCPDP",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 140,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0135",
+      "members": [
+        "HHS-ONC-2026-0001-0135"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "ATA Action",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 141,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0147",
+      "members": [
+        "HHS-ONC-2026-0001-0147"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "NeuroFlow",
+        "snippetPreview": "NeuroFlow submits this public comment in response to the Department of Health and Human Services Req..."
+      }
+    },
+    {
+      "id": 142,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0124",
+      "members": [
+        "HHS-ONC-2026-0001-0124"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "SonderMind, Inc.",
+        "snippetPreview": "HHS Health Sector AI RFI (RIN 0955-AA13)<br/><br/>Please see attached for SonderMind, Inc.&#39;s sub..."
+      }
+    },
+    {
+      "id": 143,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0120",
+      "members": [
+        "HHS-ONC-2026-0001-0120"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Quiet Signal Technologies LLX",
+        "snippetPreview": "In response to Questions 3 and 8 regarding governance, accountability, and interoperability, we reco..."
+      }
+    },
+    {
+      "id": 144,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0162",
+      "members": [
+        "HHS-ONC-2026-0001-0162"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Omada Health, Inc.",
+        "snippetPreview": "Omada Health, Inc. respectfully submits the attached comment to this RFI"
+      }
+    },
+    {
+      "id": 145,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0164",
+      "members": [
+        "HHS-ONC-2026-0001-0164"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "HIMSS Electronic Health Record Association",
+        "snippetPreview": "On behalf of the HIMSS Electronic Health Record Association, we value the opportunity to submit comm..."
+      }
+    },
+    {
+      "id": 146,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0169",
+      "members": [
+        "HHS-ONC-2026-0001-0169"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Federal Regulation Is Essential<br/><br/>There is currently no comprehensive federal regulatory fram..."
+      }
+    },
+    {
+      "id": 147,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0070",
+      "members": [
+        "HHS-ONC-2026-0001-0070"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "To build upon my previous comment on grouping and filtering, <br/><br/>What would help is to have an..."
+      }
+    },
+    {
+      "id": 148,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0067",
+      "members": [
+        "HHS-ONC-2026-0001-0067"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "It&#39;s time to let AIs prescribe medications! <br/><br/>ChatGPT is already a better doctor than 80..."
+      }
+    },
+    {
+      "id": 149,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0079",
+      "members": [
+        "HHS-ONC-2026-0001-0079"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "As long as it is acknowledged that this does not and cannot replace the human element in providing c..."
+      }
+    },
+    {
+      "id": 150,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0087",
+      "members": [
+        "HHS-ONC-2026-0001-0087"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Newton's Tree",
+        "snippetPreview": "This response is based on experience of testing and deploying healthcare AI for care in healthcare o..."
+      }
+    },
+    {
+      "id": 151,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0068",
+      "members": [
+        "HHS-ONC-2026-0001-0068"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "This is a bad idea. It may be good to double check basic lab data but I don&rsquo;t see it being abl..."
+      }
+    },
+    {
+      "id": 152,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0069",
+      "members": [
+        "HHS-ONC-2026-0001-0069"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "AI in clinical care will support Observation Grouping to group clinical findings<br/><br/>https://bu..."
+      }
+    },
+    {
+      "id": 153,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0084",
+      "members": [
+        "HHS-ONC-2026-0001-0084"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Association of Nurse Anesthesiology",
+        "snippetPreview": "See attached file."
+      }
+    },
+    {
+      "id": 154,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0080",
+      "members": [
+        "HHS-ONC-2026-0001-0080"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Cancer Society Cancer Action Network (ACS CAN)",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 155,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0071",
+      "members": [
+        "HHS-ONC-2026-0001-0071"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "Department of Health and Human Services<br/>Assistant Secretary for Technology Policy/ONC<br/>Attent..."
+      }
+    },
+    {
+      "id": 156,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0073",
+      "members": [
+        "HHS-ONC-2026-0001-0073"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Medical Association",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 157,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0092",
+      "members": [
+        "HHS-ONC-2026-0001-0092"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "I am an independent healthcare technology consultant with a background in quality improvement and he..."
+      }
+    },
+    {
+      "id": 158,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0074",
+      "members": [
+        "HHS-ONC-2026-0001-0074"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Advocate Health",
+        "snippetPreview": "see attached"
+      }
+    },
+    {
+      "id": 159,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0115",
+      "members": [
+        "HHS-ONC-2026-0001-0115"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "As a Licensed Clinical Social Worker with over 30 years of experience, I am writing to express grave..."
+      }
+    },
+    {
+      "id": 160,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0096",
+      "members": [
+        "HHS-ONC-2026-0001-0096"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "FastHealth Corporation, FastHealth.ai",
+        "snippetPreview": "RE: State of Alabama Health Command and State of Kentucky Health Command - Information<br/><br/>Secr..."
+      }
+    },
+    {
+      "id": 161,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0100",
+      "members": [
+        "HHS-ONC-2026-0001-0100"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "California Clinical Laboratory Association",
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 162,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0108",
+      "members": [
+        "HHS-ONC-2026-0001-0108"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "AI Medical devices are not ready for accelerated adoption and deployment without<br/>appropriate res..."
+      }
+    },
+    {
+      "id": 163,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0103",
+      "members": [
+        "HHS-ONC-2026-0001-0103"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "American Academy of Family Physicians",
+        "snippetPreview": "On behalf of the American Academy of Family Physicians (AAFP), representing 128,300 family physician..."
+      }
+    },
+    {
+      "id": 164,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0114",
+      "members": [
+        "HHS-ONC-2026-0001-0114"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "What concerns do patients and caregivers have related to the adoption and use of AI in clinical care..."
+      }
+    },
+    {
+      "id": 165,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0110",
+      "members": [
+        "HHS-ONC-2026-0001-0110"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "UpDoc, Inc.",
+        "snippetPreview": "Please see the attached document for UpDoc, Inc.&rsquo;s full response to the HHS Office of the Depu..."
+      }
+    },
+    {
+      "id": 166,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0117",
+      "members": [
+        "HHS-ONC-2026-0001-0117"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": null,
+        "snippetPreview": "See attached file(s)"
+      }
+    },
+    {
+      "id": 167,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0116",
+      "members": [
+        "HHS-ONC-2026-0001-0116"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Writerslogic, Inc",
+        "snippetPreview": "Comment on HHS Health Sector AI RFI | Docket HHS-ONC-2026-0001-0001<br/>Submitted by David Condrey, ..."
+      }
+    },
+    {
+      "id": 168,
+      "size": 1,
+      "representative": "HHS-ONC-2026-0001-0107",
+      "members": [
+        "HHS-ONC-2026-0001-0107"
+      ],
+      "metadata": {
+        "submitterType": null,
+        "organization": "Veeva Systems",
+        "snippetPreview": "Veeva Systems Inc. respectfully submits the attached comments in response to the Department of Healt..."
+      }
+    }
+  ]
+}
